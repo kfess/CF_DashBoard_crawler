@@ -1,0 +1,41 @@
+name: Fetch Codeforces Data
+
+on:
+  push:
+    branches:
+      - main
+    # schedule:
+    #   - cron: "0 * * * *" # Runs every hour
+    workflow_dispatch:
+
+jobs:
+  fetch_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch data from Codeforces API
+        run: python fetch_api_data.py
+        working-directory: .github/scripts
+
+      - name: git setting
+        run: |
+          git config --global user.name "Github Actions"
+          git config --global user.email "github-actions[bot]@github.com"
+
+      - name: Commit and push if it changed
+        run: |
+          git pull
+          git add -A
+          git commit -am "Update data.json (By Github Actions)" || exit 0
+          git push
