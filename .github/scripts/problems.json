@@ -10,6 +10,8 @@
         "points": 2750.0,
         "tags": [
           "binary search",
+          "bitmasks",
+          "constructive algorithms",
           "math"
         ]
       },
@@ -32,6 +34,9 @@
         "type": "PROGRAMMING",
         "points": 2000.0,
         "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
           "math",
           "number theory",
           "ternary search"
@@ -55,6 +60,7 @@
         "type": "PROGRAMMING",
         "points": 1000.0,
         "tags": [
+          "data structures",
           "greedy",
           "implementation",
           "math",
@@ -68,6 +74,7 @@
         "type": "PROGRAMMING",
         "points": 500.0,
         "tags": [
+          "constructive algorithms",
           "math"
         ]
       },
@@ -108267,32 +108274,32 @@
       {
         "contestId": 1848,
         "index": "F",
-        "solvedCount": 196
+        "solvedCount": 235
       },
       {
         "contestId": 1848,
         "index": "E",
-        "solvedCount": 75
+        "solvedCount": 100
       },
       {
         "contestId": 1848,
         "index": "D",
-        "solvedCount": 507
+        "solvedCount": 590
       },
       {
         "contestId": 1848,
         "index": "C",
-        "solvedCount": 1535
+        "solvedCount": 1767
       },
       {
         "contestId": 1848,
         "index": "B",
-        "solvedCount": 5888
+        "solvedCount": 6192
       },
       {
         "contestId": 1848,
         "index": "A",
-        "solvedCount": 7938
+        "solvedCount": 8322
       },
       {
         "contestId": 1847,
@@ -108317,12 +108324,12 @@
       {
         "contestId": 1847,
         "index": "B",
-        "solvedCount": 13798
+        "solvedCount": 13804
       },
       {
         "contestId": 1847,
         "index": "A",
-        "solvedCount": 17312
+        "solvedCount": 17321
       },
       {
         "contestId": 1846,
@@ -108342,27 +108349,27 @@
       {
         "contestId": 1846,
         "index": "E1",
-        "solvedCount": 10352
+        "solvedCount": 10357
       },
       {
         "contestId": 1846,
         "index": "D",
-        "solvedCount": 12948
+        "solvedCount": 12954
       },
       {
         "contestId": 1846,
         "index": "C",
-        "solvedCount": 12717
+        "solvedCount": 12724
       },
       {
         "contestId": 1846,
         "index": "B",
-        "solvedCount": 19435
+        "solvedCount": 19442
       },
       {
         "contestId": 1846,
         "index": "A",
-        "solvedCount": 23986
+        "solvedCount": 24002
       },
       {
         "contestId": 1845,
@@ -108382,17 +108389,17 @@
       {
         "contestId": 1845,
         "index": "C",
-        "solvedCount": 9495
+        "solvedCount": 9497
       },
       {
         "contestId": 1845,
         "index": "B",
-        "solvedCount": 16163
+        "solvedCount": 16168
       },
       {
         "contestId": 1845,
         "index": "A",
-        "solvedCount": 18462
+        "solvedCount": 18467
       },
       {
         "contestId": 1844,
@@ -108422,22 +108429,22 @@
       {
         "contestId": 1844,
         "index": "D",
-        "solvedCount": 8352
+        "solvedCount": 8355
       },
       {
         "contestId": 1844,
         "index": "C",
-        "solvedCount": 10678
+        "solvedCount": 10681
       },
       {
         "contestId": 1844,
         "index": "B",
-        "solvedCount": 13367
+        "solvedCount": 13372
       },
       {
         "contestId": 1844,
         "index": "A",
-        "solvedCount": 18797
+        "solvedCount": 18805
       },
       {
         "contestId": 1843,
@@ -108462,17 +108469,17 @@
       {
         "contestId": 1843,
         "index": "C",
-        "solvedCount": 23957
+        "solvedCount": 23958
       },
       {
         "contestId": 1843,
         "index": "B",
-        "solvedCount": 22538
+        "solvedCount": 22539
       },
       {
         "contestId": 1843,
         "index": "A",
-        "solvedCount": 26455
+        "solvedCount": 26458
       },
       {
         "contestId": 1842,
@@ -108507,17 +108514,17 @@
       {
         "contestId": 1842,
         "index": "C",
-        "solvedCount": 7861
+        "solvedCount": 7862
       },
       {
         "contestId": 1842,
         "index": "B",
-        "solvedCount": 11999
+        "solvedCount": 12001
       },
       {
         "contestId": 1842,
         "index": "A",
-        "solvedCount": 16369
+        "solvedCount": 16372
       },
       {
         "contestId": 1841,
@@ -108532,22 +108539,22 @@
       {
         "contestId": 1841,
         "index": "D",
-        "solvedCount": 2994
+        "solvedCount": 2995
       },
       {
         "contestId": 1841,
         "index": "C",
-        "solvedCount": 5750
+        "solvedCount": 5751
       },
       {
         "contestId": 1841,
         "index": "B",
-        "solvedCount": 16402
+        "solvedCount": 16405
       },
       {
         "contestId": 1841,
         "index": "A",
-        "solvedCount": 20869
+        "solvedCount": 20871
       },
       {
         "contestId": 1840,
@@ -108572,12 +108579,12 @@
       {
         "contestId": 1840,
         "index": "D",
-        "solvedCount": 9817
+        "solvedCount": 9818
       },
       {
         "contestId": 1840,
         "index": "C",
-        "solvedCount": 18298
+        "solvedCount": 18299
       },
       {
         "contestId": 1840,
@@ -108587,7 +108594,7 @@
       {
         "contestId": 1840,
         "index": "A",
-        "solvedCount": 26729
+        "solvedCount": 26731
       },
       {
         "contestId": 1839,
@@ -108602,12 +108609,12 @@
       {
         "contestId": 1839,
         "index": "C",
-        "solvedCount": 8884
+        "solvedCount": 8885
       },
       {
         "contestId": 1839,
         "index": "B",
-        "solvedCount": 11661
+        "solvedCount": 11662
       },
       {
         "contestId": 1839,
@@ -108632,12 +108639,12 @@
       {
         "contestId": 1838,
         "index": "C",
-        "solvedCount": 10313
+        "solvedCount": 10314
       },
       {
         "contestId": 1838,
         "index": "B",
-        "solvedCount": 13296
+        "solvedCount": 13297
       },
       {
         "contestId": 1838,
@@ -108662,17 +108669,17 @@
       {
         "contestId": 1837,
         "index": "C",
-        "solvedCount": 17708
+        "solvedCount": 17712
       },
       {
         "contestId": 1837,
         "index": "B",
-        "solvedCount": 20496
+        "solvedCount": 20497
       },
       {
         "contestId": 1837,
         "index": "A",
-        "solvedCount": 23513
+        "solvedCount": 23515
       },
       {
         "contestId": 1836,
@@ -108682,7 +108689,7 @@
       {
         "contestId": 1836,
         "index": "A",
-        "solvedCount": 16208
+        "solvedCount": 16209
       },
       {
         "contestId": 1835,
@@ -108712,7 +108719,7 @@
       {
         "contestId": 1835,
         "index": "A",
-        "solvedCount": 5565
+        "solvedCount": 5566
       },
       {
         "contestId": 1834,
@@ -108722,7 +108729,7 @@
       {
         "contestId": 1834,
         "index": "E",
-        "solvedCount": 1350
+        "solvedCount": 1351
       },
       {
         "contestId": 1834,
@@ -108767,17 +108774,17 @@
       {
         "contestId": 1833,
         "index": "C",
-        "solvedCount": 22267
+        "solvedCount": 22268
       },
       {
         "contestId": 1833,
         "index": "B",
-        "solvedCount": 21027
+        "solvedCount": 21028
       },
       {
         "contestId": 1833,
         "index": "A",
-        "solvedCount": 27209
+        "solvedCount": 27210
       },
       {
         "contestId": 1832,
@@ -108802,22 +108809,22 @@
       {
         "contestId": 1832,
         "index": "C",
-        "solvedCount": 13777
+        "solvedCount": 13779
       },
       {
         "contestId": 1832,
         "index": "B",
-        "solvedCount": 15267
+        "solvedCount": 15268
       },
       {
         "contestId": 1832,
         "index": "A",
-        "solvedCount": 21331
+        "solvedCount": 21332
       },
       {
         "contestId": 1831,
         "index": "B",
-        "solvedCount": 14489
+        "solvedCount": 14491
       },
       {
         "contestId": 1831,
@@ -108862,47 +108869,47 @@
       {
         "contestId": 1829,
         "index": "G",
-        "solvedCount": 6609
+        "solvedCount": 6610
       },
       {
         "contestId": 1829,
         "index": "F",
-        "solvedCount": 11804
+        "solvedCount": 11805
       },
       {
         "contestId": 1829,
         "index": "E",
-        "solvedCount": 13616
+        "solvedCount": 13617
       },
       {
         "contestId": 1829,
         "index": "D",
-        "solvedCount": 17985
+        "solvedCount": 17986
       },
       {
         "contestId": 1829,
         "index": "C",
-        "solvedCount": 21505
+        "solvedCount": 21506
       },
       {
         "contestId": 1829,
         "index": "B",
-        "solvedCount": 29001
+        "solvedCount": 29004
       },
       {
         "contestId": 1829,
         "index": "A",
-        "solvedCount": 32078
+        "solvedCount": 32079
       },
       {
         "contestId": 1828,
         "index": "B",
-        "solvedCount": 16319
+        "solvedCount": 16320
       },
       {
         "contestId": 1828,
         "index": "A",
-        "solvedCount": 19984
+        "solvedCount": 19986
       },
       {
         "contestId": 1827,
@@ -108937,7 +108944,7 @@
       {
         "contestId": 1827,
         "index": "A",
-        "solvedCount": 14261
+        "solvedCount": 14262
       },
       {
         "contestId": 1826,
@@ -108952,7 +108959,7 @@
       {
         "contestId": 1826,
         "index": "D",
-        "solvedCount": 5707
+        "solvedCount": 5709
       },
       {
         "contestId": 1826,
@@ -108962,7 +108969,7 @@
       {
         "contestId": 1826,
         "index": "B",
-        "solvedCount": 12200
+        "solvedCount": 12201
       },
       {
         "contestId": 1826,
@@ -108972,7 +108979,7 @@
       {
         "contestId": 1825,
         "index": "B",
-        "solvedCount": 12189
+        "solvedCount": 12190
       },
       {
         "contestId": 1825,
@@ -109032,7 +109039,7 @@
       {
         "contestId": 1823,
         "index": "B",
-        "solvedCount": 12770
+        "solvedCount": 12771
       },
       {
         "contestId": 1823,
@@ -109047,7 +109054,7 @@
       {
         "contestId": 1822,
         "index": "G1",
-        "solvedCount": 4862
+        "solvedCount": 4863
       },
       {
         "contestId": 1822,
@@ -109072,12 +109079,12 @@
       {
         "contestId": 1822,
         "index": "B",
-        "solvedCount": 20569
+        "solvedCount": 20573
       },
       {
         "contestId": 1822,
         "index": "A",
-        "solvedCount": 20450
+        "solvedCount": 20452
       },
       {
         "contestId": 1821,
@@ -109147,17 +109154,17 @@
       {
         "contestId": 1819,
         "index": "A",
-        "solvedCount": 9804
+        "solvedCount": 9805
       },
       {
         "contestId": 1818,
         "index": "B",
-        "solvedCount": 11461
+        "solvedCount": 11462
       },
       {
         "contestId": 1818,
         "index": "A",
-        "solvedCount": 11291
+        "solvedCount": 11292
       },
       {
         "contestId": 1817,
@@ -109192,7 +109199,7 @@
       {
         "contestId": 1816,
         "index": "B",
-        "solvedCount": 12827
+        "solvedCount": 12828
       },
       {
         "contestId": 1816,
@@ -109222,7 +109229,7 @@
       {
         "contestId": 1815,
         "index": "B",
-        "solvedCount": 2373
+        "solvedCount": 2374
       },
       {
         "contestId": 1815,
@@ -109257,7 +109264,7 @@
       {
         "contestId": 1814,
         "index": "A",
-        "solvedCount": 21022
+        "solvedCount": 21024
       },
       {
         "contestId": 1811,
@@ -109277,7 +109284,7 @@
       {
         "contestId": 1811,
         "index": "E",
-        "solvedCount": 8934
+        "solvedCount": 8935
       },
       {
         "contestId": 1811,
@@ -109297,7 +109304,7 @@
       {
         "contestId": 1811,
         "index": "A",
-        "solvedCount": 25501
+        "solvedCount": 25503
       },
       {
         "contestId": 1810,
@@ -109317,7 +109324,7 @@
       {
         "contestId": 1810,
         "index": "E",
-        "solvedCount": 2409
+        "solvedCount": 2410
       },
       {
         "contestId": 1810,
@@ -109357,12 +109364,12 @@
       {
         "contestId": 1809,
         "index": "D",
-        "solvedCount": 4800
+        "solvedCount": 4801
       },
       {
         "contestId": 1809,
         "index": "C",
-        "solvedCount": 9668
+        "solvedCount": 9670
       },
       {
         "contestId": 1809,
@@ -109407,7 +109414,7 @@
       {
         "contestId": 1808,
         "index": "A",
-        "solvedCount": 14531
+        "solvedCount": 14532
       },
       {
         "contestId": 1807,
@@ -109432,22 +109439,22 @@
       {
         "contestId": 1807,
         "index": "D",
-        "solvedCount": 21738
+        "solvedCount": 21739
       },
       {
         "contestId": 1807,
         "index": "C",
-        "solvedCount": 24818
+        "solvedCount": 24819
       },
       {
         "contestId": 1807,
         "index": "B",
-        "solvedCount": 32549
+        "solvedCount": 32550
       },
       {
         "contestId": 1807,
         "index": "A",
-        "solvedCount": 39422
+        "solvedCount": 39423
       },
       {
         "contestId": 1806,
@@ -109477,7 +109484,7 @@
       {
         "contestId": 1806,
         "index": "B",
-        "solvedCount": 14973
+        "solvedCount": 14974
       },
       {
         "contestId": 1806,
@@ -109502,12 +109509,12 @@
       {
         "contestId": 1805,
         "index": "D",
-        "solvedCount": 4777
+        "solvedCount": 4778
       },
       {
         "contestId": 1805,
         "index": "C",
-        "solvedCount": 10024
+        "solvedCount": 10025
       },
       {
         "contestId": 1805,
@@ -109597,7 +109604,7 @@
       {
         "contestId": 1801,
         "index": "B",
-        "solvedCount": 4726
+        "solvedCount": 4727
       },
       {
         "contestId": 1801,
@@ -109632,7 +109639,7 @@
       {
         "contestId": 1800,
         "index": "C2",
-        "solvedCount": 17584
+        "solvedCount": 17585
       },
       {
         "contestId": 1800,
@@ -109642,7 +109649,7 @@
       {
         "contestId": 1800,
         "index": "B",
-        "solvedCount": 20222
+        "solvedCount": 20223
       },
       {
         "contestId": 1800,
@@ -109687,7 +109694,7 @@
       {
         "contestId": 1799,
         "index": "B",
-        "solvedCount": 9197
+        "solvedCount": 9201
       },
       {
         "contestId": 1799,
@@ -109712,7 +109719,7 @@
       {
         "contestId": 1798,
         "index": "C",
-        "solvedCount": 6664
+        "solvedCount": 6665
       },
       {
         "contestId": 1798,
@@ -109842,12 +109849,12 @@
       {
         "contestId": 1794,
         "index": "A",
-        "solvedCount": 15253
+        "solvedCount": 15258
       },
       {
         "contestId": 1793,
         "index": "F",
-        "solvedCount": 1026
+        "solvedCount": 1027
       },
       {
         "contestId": 1793,
@@ -109862,7 +109869,7 @@
       {
         "contestId": 1793,
         "index": "C",
-        "solvedCount": 14109
+        "solvedCount": 14112
       },
       {
         "contestId": 1793,
@@ -109887,7 +109894,7 @@
       {
         "contestId": 1792,
         "index": "E",
-        "solvedCount": 1115
+        "solvedCount": 1116
       },
       {
         "contestId": 1792,
@@ -109937,17 +109944,17 @@
       {
         "contestId": 1791,
         "index": "C",
-        "solvedCount": 32688
+        "solvedCount": 32689
       },
       {
         "contestId": 1791,
         "index": "B",
-        "solvedCount": 35062
+        "solvedCount": 35067
       },
       {
         "contestId": 1791,
         "index": "A",
-        "solvedCount": 41549
+        "solvedCount": 41554
       },
       {
         "contestId": 1790,
@@ -109967,12 +109974,12 @@
       {
         "contestId": 1790,
         "index": "D",
-        "solvedCount": 14675
+        "solvedCount": 14677
       },
       {
         "contestId": 1790,
         "index": "C",
-        "solvedCount": 19937
+        "solvedCount": 19938
       },
       {
         "contestId": 1790,
@@ -109982,7 +109989,7 @@
       {
         "contestId": 1790,
         "index": "A",
-        "solvedCount": 31267
+        "solvedCount": 31268
       },
       {
         "contestId": 1789,
@@ -110037,7 +110044,7 @@
       {
         "contestId": 1788,
         "index": "B",
-        "solvedCount": 16626
+        "solvedCount": 16627
       },
       {
         "contestId": 1788,
@@ -110067,7 +110074,7 @@
       {
         "contestId": 1787,
         "index": "E",
-        "solvedCount": 1884
+        "solvedCount": 1885
       },
       {
         "contestId": 1787,
@@ -110132,7 +110139,7 @@
       {
         "contestId": 1784,
         "index": "A",
-        "solvedCount": 12701
+        "solvedCount": 12702
       },
       {
         "contestId": 1783,
@@ -110197,7 +110204,7 @@
       {
         "contestId": 1781,
         "index": "D",
-        "solvedCount": 4577
+        "solvedCount": 4578
       },
       {
         "contestId": 1781,
@@ -110207,7 +110214,7 @@
       {
         "contestId": 1781,
         "index": "B",
-        "solvedCount": 12147
+        "solvedCount": 12148
       },
       {
         "contestId": 1781,
@@ -110237,12 +110244,12 @@
       {
         "contestId": 1780,
         "index": "B",
-        "solvedCount": 14261
+        "solvedCount": 14263
       },
       {
         "contestId": 1780,
         "index": "A",
-        "solvedCount": 19724
+        "solvedCount": 19725
       },
       {
         "contestId": 1779,
@@ -110337,7 +110344,7 @@
       {
         "contestId": 1777,
         "index": "B",
-        "solvedCount": 15072
+        "solvedCount": 15074
       },
       {
         "contestId": 1777,
@@ -110487,12 +110494,12 @@
       {
         "contestId": 1774,
         "index": "B",
-        "solvedCount": 9801
+        "solvedCount": 9802
       },
       {
         "contestId": 1774,
         "index": "A",
-        "solvedCount": 20838
+        "solvedCount": 20839
       },
       {
         "contestId": 1773,
@@ -110587,7 +110594,7 @@
       {
         "contestId": 1772,
         "index": "A",
-        "solvedCount": 34793
+        "solvedCount": 34795
       },
       {
         "contestId": 1771,
@@ -110617,7 +110624,7 @@
       {
         "contestId": 1771,
         "index": "A",
-        "solvedCount": 19488
+        "solvedCount": 19489
       },
       {
         "contestId": 1770,
@@ -110657,7 +110664,7 @@
       {
         "contestId": 1770,
         "index": "A",
-        "solvedCount": 20456
+        "solvedCount": 20457
       },
       {
         "contestId": 1769,
@@ -110712,22 +110719,22 @@
       {
         "contestId": 1768,
         "index": "D",
-        "solvedCount": 5691
+        "solvedCount": 5693
       },
       {
         "contestId": 1768,
         "index": "C",
-        "solvedCount": 11911
+        "solvedCount": 11912
       },
       {
         "contestId": 1768,
         "index": "B",
-        "solvedCount": 19847
+        "solvedCount": 19848
       },
       {
         "contestId": 1768,
         "index": "A",
-        "solvedCount": 25448
+        "solvedCount": 25450
       },
       {
         "contestId": 1767,
@@ -110742,7 +110749,7 @@
       {
         "contestId": 1767,
         "index": "D",
-        "solvedCount": 8167
+        "solvedCount": 8168
       },
       {
         "contestId": 1767,
@@ -110757,7 +110764,7 @@
       {
         "contestId": 1767,
         "index": "A",
-        "solvedCount": 19041
+        "solvedCount": 19042
       },
       {
         "contestId": 1766,
@@ -110772,7 +110779,7 @@
       {
         "contestId": 1766,
         "index": "D",
-        "solvedCount": 6712
+        "solvedCount": 6713
       },
       {
         "contestId": 1766,
@@ -110797,7 +110804,7 @@
       {
         "contestId": 1765,
         "index": "M",
-        "solvedCount": 9270
+        "solvedCount": 9271
       },
       {
         "contestId": 1765,
@@ -110907,7 +110914,7 @@
       {
         "contestId": 1764,
         "index": "A",
-        "solvedCount": 15154
+        "solvedCount": 15155
       },
       {
         "contestId": 1763,
@@ -111027,7 +111034,7 @@
       {
         "contestId": 1760,
         "index": "E",
-        "solvedCount": 16141
+        "solvedCount": 16142
       },
       {
         "contestId": 1760,
@@ -111037,7 +111044,7 @@
       {
         "contestId": 1760,
         "index": "C",
-        "solvedCount": 29656
+        "solvedCount": 29657
       },
       {
         "contestId": 1760,
@@ -111047,7 +111054,7 @@
       {
         "contestId": 1760,
         "index": "A",
-        "solvedCount": 40950
+        "solvedCount": 40954
       },
       {
         "contestId": 1759,
@@ -111072,12 +111079,12 @@
       {
         "contestId": 1759,
         "index": "C",
-        "solvedCount": 14925
+        "solvedCount": 14926
       },
       {
         "contestId": 1759,
         "index": "B",
-        "solvedCount": 19690
+        "solvedCount": 19691
       },
       {
         "contestId": 1759,
@@ -111102,17 +111109,17 @@
       {
         "contestId": 1758,
         "index": "C",
-        "solvedCount": 10652
+        "solvedCount": 10653
       },
       {
         "contestId": 1758,
         "index": "B",
-        "solvedCount": 17973
+        "solvedCount": 17974
       },
       {
         "contestId": 1758,
         "index": "A",
-        "solvedCount": 22438
+        "solvedCount": 22439
       },
       {
         "contestId": 1754,
@@ -111217,17 +111224,17 @@
       {
         "contestId": 1749,
         "index": "C",
-        "solvedCount": 11626
+        "solvedCount": 11627
       },
       {
         "contestId": 1749,
         "index": "B",
-        "solvedCount": 18777
+        "solvedCount": 18778
       },
       {
         "contestId": 1749,
         "index": "A",
-        "solvedCount": 21061
+        "solvedCount": 21062
       },
       {
         "contestId": 1748,
@@ -111257,7 +111264,7 @@
       {
         "contestId": 1748,
         "index": "A",
-        "solvedCount": 22052
+        "solvedCount": 22053
       },
       {
         "contestId": 1747,
@@ -111342,7 +111349,7 @@
       {
         "contestId": 1744,
         "index": "D",
-        "solvedCount": 16764
+        "solvedCount": 16765
       },
       {
         "contestId": 1744,
@@ -111422,12 +111429,12 @@
       {
         "contestId": 1742,
         "index": "B",
-        "solvedCount": 36639
+        "solvedCount": 36641
       },
       {
         "contestId": 1742,
         "index": "A",
-        "solvedCount": 47389
+        "solvedCount": 47393
       },
       {
         "contestId": 1741,
@@ -111437,7 +111444,7 @@
       {
         "contestId": 1741,
         "index": "F",
-        "solvedCount": 1896
+        "solvedCount": 1897
       },
       {
         "contestId": 1741,
@@ -111447,7 +111454,7 @@
       {
         "contestId": 1741,
         "index": "D",
-        "solvedCount": 12294
+        "solvedCount": 12295
       },
       {
         "contestId": 1741,
@@ -111457,12 +111464,12 @@
       {
         "contestId": 1741,
         "index": "B",
-        "solvedCount": 23089
+        "solvedCount": 23091
       },
       {
         "contestId": 1741,
         "index": "A",
-        "solvedCount": 27180
+        "solvedCount": 27182
       },
       {
         "contestId": 1740,
@@ -111497,7 +111504,7 @@
       {
         "contestId": 1740,
         "index": "C",
-        "solvedCount": 9327
+        "solvedCount": 9328
       },
       {
         "contestId": 1740,
@@ -111507,7 +111514,7 @@
       {
         "contestId": 1740,
         "index": "A",
-        "solvedCount": 17940
+        "solvedCount": 17941
       },
       {
         "contestId": 1739,
@@ -111577,7 +111584,7 @@
       {
         "contestId": 1738,
         "index": "A",
-        "solvedCount": 12903
+        "solvedCount": 12904
       },
       {
         "contestId": 1737,
@@ -111637,7 +111644,7 @@
       {
         "contestId": 1736,
         "index": "B",
-        "solvedCount": 14706
+        "solvedCount": 14708
       },
       {
         "contestId": 1736,
@@ -111687,7 +111694,7 @@
       {
         "contestId": 1734,
         "index": "D",
-        "solvedCount": 5302
+        "solvedCount": 5303
       },
       {
         "contestId": 1734,
@@ -111727,7 +111734,7 @@
       {
         "contestId": 1733,
         "index": "B",
-        "solvedCount": 17959
+        "solvedCount": 17960
       },
       {
         "contestId": 1733,
@@ -111757,7 +111764,7 @@
       {
         "contestId": 1732,
         "index": "C1",
-        "solvedCount": 4687
+        "solvedCount": 4688
       },
       {
         "contestId": 1732,
@@ -111862,7 +111869,7 @@
       {
         "contestId": 1729,
         "index": "A",
-        "solvedCount": 34752
+        "solvedCount": 34753
       },
       {
         "contestId": 1728,
@@ -111877,7 +111884,7 @@
       {
         "contestId": 1728,
         "index": "E",
-        "solvedCount": 1465
+        "solvedCount": 1466
       },
       {
         "contestId": 1728,
@@ -111927,7 +111934,7 @@
       {
         "contestId": 1726,
         "index": "C",
-        "solvedCount": 10992
+        "solvedCount": 10993
       },
       {
         "contestId": 1726,
@@ -112032,12 +112039,12 @@
       {
         "contestId": 1722,
         "index": "B",
-        "solvedCount": 36550
+        "solvedCount": 36552
       },
       {
         "contestId": 1722,
         "index": "A",
-        "solvedCount": 38173
+        "solvedCount": 38175
       },
       {
         "contestId": 1721,
@@ -112057,12 +112064,12 @@
       {
         "contestId": 1721,
         "index": "C",
-        "solvedCount": 11670
+        "solvedCount": 11671
       },
       {
         "contestId": 1721,
         "index": "B",
-        "solvedCount": 19699
+        "solvedCount": 19700
       },
       {
         "contestId": 1721,
@@ -112097,7 +112104,7 @@
       {
         "contestId": 1720,
         "index": "A",
-        "solvedCount": 19972
+        "solvedCount": 19973
       },
       {
         "contestId": 1719,
@@ -112252,7 +112259,7 @@
       {
         "contestId": 1714,
         "index": "E",
-        "solvedCount": 12945
+        "solvedCount": 12947
       },
       {
         "contestId": 1714,
@@ -112272,7 +112279,7 @@
       {
         "contestId": 1714,
         "index": "A",
-        "solvedCount": 25466
+        "solvedCount": 25467
       },
       {
         "contestId": 1713,
@@ -112402,7 +112409,7 @@
       {
         "contestId": 1709,
         "index": "A",
-        "solvedCount": 27001
+        "solvedCount": 27002
       },
       {
         "contestId": 1708,
@@ -112562,7 +112569,7 @@
       {
         "contestId": 1703,
         "index": "E",
-        "solvedCount": 14464
+        "solvedCount": 14465
       },
       {
         "contestId": 1703,
@@ -112572,17 +112579,17 @@
       {
         "contestId": 1703,
         "index": "C",
-        "solvedCount": 30460
+        "solvedCount": 30461
       },
       {
         "contestId": 1703,
         "index": "B",
-        "solvedCount": 37233
+        "solvedCount": 37234
       },
       {
         "contestId": 1703,
         "index": "A",
-        "solvedCount": 47703
+        "solvedCount": 47706
       },
       {
         "contestId": 1702,
@@ -112612,7 +112619,7 @@
       {
         "contestId": 1702,
         "index": "C",
-        "solvedCount": 19063
+        "solvedCount": 19064
       },
       {
         "contestId": 1702,
@@ -112622,7 +112629,7 @@
       {
         "contestId": 1702,
         "index": "A",
-        "solvedCount": 30373
+        "solvedCount": 30374
       },
       {
         "contestId": 1701,
@@ -112652,7 +112659,7 @@
       {
         "contestId": 1701,
         "index": "A",
-        "solvedCount": 24525
+        "solvedCount": 24526
       },
       {
         "contestId": 1700,
@@ -112677,7 +112684,7 @@
       {
         "contestId": 1700,
         "index": "B",
-        "solvedCount": 16959
+        "solvedCount": 16960
       },
       {
         "contestId": 1700,
@@ -112762,7 +112769,7 @@
       {
         "contestId": 1697,
         "index": "C",
-        "solvedCount": 12693
+        "solvedCount": 12694
       },
       {
         "contestId": 1697,
@@ -112832,7 +112839,7 @@
       {
         "contestId": 1695,
         "index": "C",
-        "solvedCount": 9170
+        "solvedCount": 9171
       },
       {
         "contestId": 1695,
@@ -112877,7 +112884,7 @@
       {
         "contestId": 1693,
         "index": "B",
-        "solvedCount": 7203
+        "solvedCount": 7204
       },
       {
         "contestId": 1693,
@@ -112892,7 +112899,7 @@
       {
         "contestId": 1692,
         "index": "G",
-        "solvedCount": 13000
+        "solvedCount": 13001
       },
       {
         "contestId": 1692,
@@ -112917,12 +112924,12 @@
       {
         "contestId": 1692,
         "index": "B",
-        "solvedCount": 28907
+        "solvedCount": 28908
       },
       {
         "contestId": 1692,
         "index": "A",
-        "solvedCount": 46500
+        "solvedCount": 46501
       },
       {
         "contestId": 1691,
@@ -112952,7 +112959,7 @@
       {
         "contestId": 1691,
         "index": "A",
-        "solvedCount": 27505
+        "solvedCount": 27506
       },
       {
         "contestId": 1690,
@@ -112972,7 +112979,7 @@
       {
         "contestId": 1690,
         "index": "D",
-        "solvedCount": 22296
+        "solvedCount": 22297
       },
       {
         "contestId": 1690,
@@ -113127,7 +113134,7 @@
       {
         "contestId": 1684,
         "index": "C",
-        "solvedCount": 11134
+        "solvedCount": 11135
       },
       {
         "contestId": 1684,
@@ -113222,7 +113229,7 @@
       {
         "contestId": 1680,
         "index": "B",
-        "solvedCount": 17474
+        "solvedCount": 17475
       },
       {
         "contestId": 1680,
@@ -113317,17 +113324,17 @@
       {
         "contestId": 1676,
         "index": "G",
-        "solvedCount": 11648
+        "solvedCount": 11649
       },
       {
         "contestId": 1676,
         "index": "F",
-        "solvedCount": 13565
+        "solvedCount": 13566
       },
       {
         "contestId": 1676,
         "index": "E",
-        "solvedCount": 20740
+        "solvedCount": 20741
       },
       {
         "contestId": 1676,
@@ -113347,7 +113354,7 @@
       {
         "contestId": 1676,
         "index": "A",
-        "solvedCount": 44880
+        "solvedCount": 44882
       },
       {
         "contestId": 1675,
@@ -113377,7 +113384,7 @@
       {
         "contestId": 1675,
         "index": "B",
-        "solvedCount": 21447
+        "solvedCount": 21448
       },
       {
         "contestId": 1675,
@@ -113407,7 +113414,7 @@
       {
         "contestId": 1674,
         "index": "C",
-        "solvedCount": 20719
+        "solvedCount": 20720
       },
       {
         "contestId": 1674,
@@ -113417,7 +113424,7 @@
       {
         "contestId": 1674,
         "index": "A",
-        "solvedCount": 23769
+        "solvedCount": 23770
       },
       {
         "contestId": 1673,
@@ -113507,7 +113514,7 @@
       {
         "contestId": 1671,
         "index": "E",
-        "solvedCount": 2403
+        "solvedCount": 2404
       },
       {
         "contestId": 1671,
@@ -113527,7 +113534,7 @@
       {
         "contestId": 1671,
         "index": "A",
-        "solvedCount": 19270
+        "solvedCount": 19271
       },
       {
         "contestId": 1670,
@@ -113567,7 +113574,7 @@
       {
         "contestId": 1669,
         "index": "G",
-        "solvedCount": 14877
+        "solvedCount": 14878
       },
       {
         "contestId": 1669,
@@ -113587,17 +113594,17 @@
       {
         "contestId": 1669,
         "index": "C",
-        "solvedCount": 28468
+        "solvedCount": 28469
       },
       {
         "contestId": 1669,
         "index": "B",
-        "solvedCount": 32812
+        "solvedCount": 32813
       },
       {
         "contestId": 1669,
         "index": "A",
-        "solvedCount": 43584
+        "solvedCount": 43587
       },
       {
         "contestId": 1668,
@@ -113612,7 +113619,7 @@
       {
         "contestId": 1667,
         "index": "F",
-        "solvedCount": 70
+        "solvedCount": 71
       },
       {
         "contestId": 1667,
@@ -113892,7 +113899,7 @@
       {
         "contestId": 1660,
         "index": "C",
-        "solvedCount": 16915
+        "solvedCount": 16916
       },
       {
         "contestId": 1660,
@@ -113932,7 +113939,7 @@
       {
         "contestId": 1659,
         "index": "A",
-        "solvedCount": 15259
+        "solvedCount": 15260
       },
       {
         "contestId": 1658,
@@ -114112,7 +114119,7 @@
       {
         "contestId": 1651,
         "index": "A",
-        "solvedCount": 24440
+        "solvedCount": 24441
       },
       {
         "contestId": 1650,
@@ -114317,7 +114324,7 @@
       {
         "contestId": 1641,
         "index": "A",
-        "solvedCount": 16225
+        "solvedCount": 16226
       },
       {
         "contestId": 1639,
@@ -114457,7 +114464,7 @@
       {
         "contestId": 1635,
         "index": "D",
-        "solvedCount": 5406
+        "solvedCount": 5407
       },
       {
         "contestId": 1635,
@@ -114517,7 +114524,7 @@
       {
         "contestId": 1633,
         "index": "D",
-        "solvedCount": 11354
+        "solvedCount": 11355
       },
       {
         "contestId": 1633,
@@ -114572,7 +114579,7 @@
       {
         "contestId": 1631,
         "index": "A",
-        "solvedCount": 27080
+        "solvedCount": 27081
       },
       {
         "contestId": 1630,
@@ -114607,7 +114614,7 @@
       {
         "contestId": 1629,
         "index": "B",
-        "solvedCount": 21955
+        "solvedCount": 21956
       },
       {
         "contestId": 1629,
@@ -114642,7 +114649,7 @@
       {
         "contestId": 1628,
         "index": "B",
-        "solvedCount": 10320
+        "solvedCount": 10321
       },
       {
         "contestId": 1628,
@@ -114707,7 +114714,7 @@
       {
         "contestId": 1626,
         "index": "A",
-        "solvedCount": 26875
+        "solvedCount": 26876
       },
       {
         "contestId": 1625,
@@ -114767,7 +114774,7 @@
       {
         "contestId": 1624,
         "index": "B",
-        "solvedCount": 30329
+        "solvedCount": 30331
       },
       {
         "contestId": 1624,
@@ -114787,7 +114794,7 @@
       {
         "contestId": 1623,
         "index": "C",
-        "solvedCount": 10034
+        "solvedCount": 10035
       },
       {
         "contestId": 1623,
@@ -114887,7 +114894,7 @@
       {
         "contestId": 1620,
         "index": "E",
-        "solvedCount": 6863
+        "solvedCount": 6864
       },
       {
         "contestId": 1620,
@@ -114947,7 +114954,7 @@
       {
         "contestId": 1619,
         "index": "A",
-        "solvedCount": 41345
+        "solvedCount": 41353
       },
       {
         "contestId": 1618,
@@ -114967,12 +114974,12 @@
       {
         "contestId": 1618,
         "index": "D",
-        "solvedCount": 16402
+        "solvedCount": 16404
       },
       {
         "contestId": 1618,
         "index": "C",
-        "solvedCount": 19146
+        "solvedCount": 19147
       },
       {
         "contestId": 1618,
@@ -115047,7 +115054,7 @@
       {
         "contestId": 1616,
         "index": "B",
-        "solvedCount": 17899
+        "solvedCount": 17900
       },
       {
         "contestId": 1616,
@@ -115222,7 +115229,7 @@
       {
         "contestId": 1611,
         "index": "B",
-        "solvedCount": 25338
+        "solvedCount": 25339
       },
       {
         "contestId": 1611,
@@ -115267,7 +115274,7 @@
       {
         "contestId": 1610,
         "index": "B",
-        "solvedCount": 13515
+        "solvedCount": 13516
       },
       {
         "contestId": 1610,
@@ -115372,7 +115379,7 @@
       {
         "contestId": 1607,
         "index": "D",
-        "solvedCount": 15080
+        "solvedCount": 15081
       },
       {
         "contestId": 1607,
@@ -115622,7 +115629,7 @@
       {
         "contestId": 1598,
         "index": "B",
-        "solvedCount": 14895
+        "solvedCount": 14896
       },
       {
         "contestId": 1598,
@@ -115642,7 +115649,7 @@
       {
         "contestId": 1594,
         "index": "E1",
-        "solvedCount": 10241
+        "solvedCount": 10242
       },
       {
         "contestId": 1594,
@@ -115737,7 +115744,7 @@
       {
         "contestId": 1592,
         "index": "A",
-        "solvedCount": 19769
+        "solvedCount": 19770
       },
       {
         "contestId": 1588,
@@ -115772,7 +115779,7 @@
       {
         "contestId": 1585,
         "index": "C",
-        "solvedCount": 10719
+        "solvedCount": 10720
       },
       {
         "contestId": 1585,
@@ -116317,7 +116324,7 @@
       {
         "contestId": 1566,
         "index": "D2",
-        "solvedCount": 7370
+        "solvedCount": 7371
       },
       {
         "contestId": 1566,
@@ -116337,7 +116344,7 @@
       {
         "contestId": 1566,
         "index": "A",
-        "solvedCount": 20605
+        "solvedCount": 20606
       },
       {
         "contestId": 1562,
@@ -116382,7 +116389,7 @@
       {
         "contestId": 1561,
         "index": "C",
-        "solvedCount": 12466
+        "solvedCount": 12467
       },
       {
         "contestId": 1561,
@@ -116422,7 +116429,7 @@
       {
         "contestId": 1560,
         "index": "A",
-        "solvedCount": 47592
+        "solvedCount": 47593
       },
       {
         "contestId": 1559,
@@ -116442,7 +116449,7 @@
       {
         "contestId": 1559,
         "index": "C",
-        "solvedCount": 18191
+        "solvedCount": 18192
       },
       {
         "contestId": 1559,
@@ -116587,7 +116594,7 @@
       {
         "contestId": 1554,
         "index": "D",
-        "solvedCount": 8281
+        "solvedCount": 8282
       },
       {
         "contestId": 1554,
@@ -116637,7 +116644,7 @@
       {
         "contestId": 1553,
         "index": "C",
-        "solvedCount": 15991
+        "solvedCount": 15993
       },
       {
         "contestId": 1553,
@@ -116677,7 +116684,7 @@
       {
         "contestId": 1552,
         "index": "D",
-        "solvedCount": 6176
+        "solvedCount": 6177
       },
       {
         "contestId": 1552,
@@ -116732,7 +116739,7 @@
       {
         "contestId": 1551,
         "index": "A",
-        "solvedCount": 42264
+        "solvedCount": 42265
       },
       {
         "contestId": 1550,
@@ -117012,7 +117019,7 @@
       {
         "contestId": 1539,
         "index": "A",
-        "solvedCount": 18624
+        "solvedCount": 18625
       },
       {
         "contestId": 1538,
@@ -117042,7 +117049,7 @@
       {
         "contestId": 1538,
         "index": "B",
-        "solvedCount": 29472
+        "solvedCount": 29473
       },
       {
         "contestId": 1538,
@@ -117062,7 +117069,7 @@
       {
         "contestId": 1537,
         "index": "E1",
-        "solvedCount": 11163
+        "solvedCount": 11164
       },
       {
         "contestId": 1537,
@@ -117072,17 +117079,17 @@
       {
         "contestId": 1537,
         "index": "C",
-        "solvedCount": 23407
+        "solvedCount": 23408
       },
       {
         "contestId": 1537,
         "index": "B",
-        "solvedCount": 25282
+        "solvedCount": 25283
       },
       {
         "contestId": 1537,
         "index": "A",
-        "solvedCount": 32766
+        "solvedCount": 32767
       },
       {
         "contestId": 1536,
@@ -117107,7 +117114,7 @@
       {
         "contestId": 1536,
         "index": "B",
-        "solvedCount": 16598
+        "solvedCount": 16599
       },
       {
         "contestId": 1536,
@@ -117137,12 +117144,12 @@
       {
         "contestId": 1535,
         "index": "B",
-        "solvedCount": 26980
+        "solvedCount": 26981
       },
       {
         "contestId": 1535,
         "index": "A",
-        "solvedCount": 40048
+        "solvedCount": 40049
       },
       {
         "contestId": 1534,
@@ -117337,7 +117344,7 @@
       {
         "contestId": 1530,
         "index": "C",
-        "solvedCount": 13512
+        "solvedCount": 13513
       },
       {
         "contestId": 1530,
@@ -117437,17 +117444,17 @@
       {
         "contestId": 1526,
         "index": "C2",
-        "solvedCount": 17873
+        "solvedCount": 17874
       },
       {
         "contestId": 1526,
         "index": "C1",
-        "solvedCount": 18383
+        "solvedCount": 18384
       },
       {
         "contestId": 1526,
         "index": "B",
-        "solvedCount": 24556
+        "solvedCount": 24558
       },
       {
         "contestId": 1526,
@@ -117522,7 +117529,7 @@
       {
         "contestId": 1523,
         "index": "A",
-        "solvedCount": 13218
+        "solvedCount": 13219
       },
       {
         "contestId": 1521,
@@ -117532,7 +117539,7 @@
       {
         "contestId": 1521,
         "index": "D",
-        "solvedCount": 1609
+        "solvedCount": 1610
       },
       {
         "contestId": 1521,
@@ -117582,7 +117589,7 @@
       {
         "contestId": 1520,
         "index": "B",
-        "solvedCount": 38778
+        "solvedCount": 38780
       },
       {
         "contestId": 1520,
@@ -117612,7 +117619,7 @@
       {
         "contestId": 1519,
         "index": "B",
-        "solvedCount": 27366
+        "solvedCount": 27367
       },
       {
         "contestId": 1519,
@@ -117647,7 +117654,7 @@
       {
         "contestId": 1517,
         "index": "C",
-        "solvedCount": 12358
+        "solvedCount": 12359
       },
       {
         "contestId": 1517,
@@ -117772,7 +117779,7 @@
       {
         "contestId": 1513,
         "index": "C",
-        "solvedCount": 11721
+        "solvedCount": 11722
       },
       {
         "contestId": 1513,
@@ -117802,7 +117809,7 @@
       {
         "contestId": 1512,
         "index": "D",
-        "solvedCount": 19703
+        "solvedCount": 19704
       },
       {
         "contestId": 1512,
@@ -117817,7 +117824,7 @@
       {
         "contestId": 1512,
         "index": "A",
-        "solvedCount": 50003
+        "solvedCount": 50013
       },
       {
         "contestId": 1511,
@@ -117977,7 +117984,7 @@
       {
         "contestId": 1506,
         "index": "C",
-        "solvedCount": 21555
+        "solvedCount": 21556
       },
       {
         "contestId": 1506,
@@ -118142,7 +118149,7 @@
       {
         "contestId": 1499,
         "index": "B",
-        "solvedCount": 19221
+        "solvedCount": 19222
       },
       {
         "contestId": 1499,
@@ -118177,7 +118184,7 @@
       {
         "contestId": 1498,
         "index": "A",
-        "solvedCount": 21586
+        "solvedCount": 21587
       },
       {
         "contestId": 1497,
@@ -118392,7 +118399,7 @@
       {
         "contestId": 1490,
         "index": "F",
-        "solvedCount": 13858
+        "solvedCount": 13859
       },
       {
         "contestId": 1490,
@@ -118407,17 +118414,17 @@
       {
         "contestId": 1490,
         "index": "C",
-        "solvedCount": 27550
+        "solvedCount": 27551
       },
       {
         "contestId": 1490,
         "index": "B",
-        "solvedCount": 23945
+        "solvedCount": 23948
       },
       {
         "contestId": 1490,
         "index": "A",
-        "solvedCount": 28862
+        "solvedCount": 28863
       },
       {
         "contestId": 1488,
@@ -118502,7 +118509,7 @@
       {
         "contestId": 1487,
         "index": "A",
-        "solvedCount": 24913
+        "solvedCount": 24914
       },
       {
         "contestId": 1486,
@@ -118567,7 +118574,7 @@
       {
         "contestId": 1485,
         "index": "A",
-        "solvedCount": 19051
+        "solvedCount": 19052
       },
       {
         "contestId": 1482,
@@ -118747,7 +118754,7 @@
       {
         "contestId": 1476,
         "index": "C",
-        "solvedCount": 10378
+        "solvedCount": 10379
       },
       {
         "contestId": 1476,
@@ -118767,7 +118774,7 @@
       {
         "contestId": 1475,
         "index": "F",
-        "solvedCount": 4675
+        "solvedCount": 4676
       },
       {
         "contestId": 1475,
@@ -118817,7 +118824,7 @@
       {
         "contestId": 1474,
         "index": "B",
-        "solvedCount": 23625
+        "solvedCount": 23626
       },
       {
         "contestId": 1474,
@@ -118852,7 +118859,7 @@
       {
         "contestId": 1473,
         "index": "B",
-        "solvedCount": 27008
+        "solvedCount": 27010
       },
       {
         "contestId": 1473,
@@ -118877,22 +118884,22 @@
       {
         "contestId": 1472,
         "index": "D",
-        "solvedCount": 23465
+        "solvedCount": 23466
       },
       {
         "contestId": 1472,
         "index": "C",
-        "solvedCount": 26919
+        "solvedCount": 26920
       },
       {
         "contestId": 1472,
         "index": "B",
-        "solvedCount": 41943
+        "solvedCount": 41944
       },
       {
         "contestId": 1472,
         "index": "A",
-        "solvedCount": 37939
+        "solvedCount": 37940
       },
       {
         "contestId": 1471,
@@ -118957,12 +118964,12 @@
       {
         "contestId": 1469,
         "index": "B",
-        "solvedCount": 23706
+        "solvedCount": 23708
       },
       {
         "contestId": 1469,
         "index": "A",
-        "solvedCount": 24402
+        "solvedCount": 24403
       },
       {
         "contestId": 1468,
@@ -119172,7 +119179,7 @@
       {
         "contestId": 1462,
         "index": "A",
-        "solvedCount": 36036
+        "solvedCount": 36040
       },
       {
         "contestId": 1461,
@@ -119297,7 +119304,7 @@
       {
         "contestId": 1454,
         "index": "D",
-        "solvedCount": 18205
+        "solvedCount": 18206
       },
       {
         "contestId": 1454,
@@ -119307,7 +119314,7 @@
       {
         "contestId": 1454,
         "index": "B",
-        "solvedCount": 26474
+        "solvedCount": 26475
       },
       {
         "contestId": 1454,
@@ -119552,7 +119559,7 @@
       {
         "contestId": 1443,
         "index": "C",
-        "solvedCount": 13757
+        "solvedCount": 13758
       },
       {
         "contestId": 1443,
@@ -119767,7 +119774,7 @@
       {
         "contestId": 1433,
         "index": "A",
-        "solvedCount": 43592
+        "solvedCount": 43593
       },
       {
         "contestId": 1431,
@@ -119967,7 +119974,7 @@
       {
         "contestId": 1426,
         "index": "A",
-        "solvedCount": 39224
+        "solvedCount": 39225
       },
       {
         "contestId": 1425,
@@ -120392,7 +120399,7 @@
       {
         "contestId": 1409,
         "index": "D",
-        "solvedCount": 17290
+        "solvedCount": 17291
       },
       {
         "contestId": 1409,
@@ -120407,7 +120414,7 @@
       {
         "contestId": 1409,
         "index": "A",
-        "solvedCount": 54304
+        "solvedCount": 54306
       },
       {
         "contestId": 1408,
@@ -120597,7 +120604,7 @@
       {
         "contestId": 1401,
         "index": "A",
-        "solvedCount": 25581
+        "solvedCount": 25582
       },
       {
         "contestId": 1400,
@@ -120657,7 +120664,7 @@
       {
         "contestId": 1399,
         "index": "C",
-        "solvedCount": 25660
+        "solvedCount": 25661
       },
       {
         "contestId": 1399,
@@ -120667,7 +120674,7 @@
       {
         "contestId": 1399,
         "index": "A",
-        "solvedCount": 54630
+        "solvedCount": 54631
       },
       {
         "contestId": 1398,
@@ -120692,7 +120699,7 @@
       {
         "contestId": 1398,
         "index": "C",
-        "solvedCount": 20536
+        "solvedCount": 20537
       },
       {
         "contestId": 1398,
@@ -120737,12 +120744,12 @@
       {
         "contestId": 1396,
         "index": "A",
-        "solvedCount": 14026
+        "solvedCount": 14027
       },
       {
         "contestId": 1395,
         "index": "C",
-        "solvedCount": 12597
+        "solvedCount": 12598
       },
       {
         "contestId": 1395,
@@ -120752,7 +120759,7 @@
       {
         "contestId": 1395,
         "index": "A",
-        "solvedCount": 22236
+        "solvedCount": 22239
       },
       {
         "contestId": 1394,
@@ -120912,7 +120919,7 @@
       {
         "contestId": 1389,
         "index": "A",
-        "solvedCount": 34208
+        "solvedCount": 34210
       },
       {
         "contestId": 1388,
@@ -120992,7 +120999,7 @@
       {
         "contestId": 1385,
         "index": "D",
-        "solvedCount": 16849
+        "solvedCount": 16850
       },
       {
         "contestId": 1385,
@@ -121227,7 +121234,7 @@
       {
         "contestId": 1374,
         "index": "D",
-        "solvedCount": 20336
+        "solvedCount": 20337
       },
       {
         "contestId": 1374,
@@ -121237,7 +121244,7 @@
       {
         "contestId": 1374,
         "index": "B",
-        "solvedCount": 39849
+        "solvedCount": 39850
       },
       {
         "contestId": 1374,
@@ -121272,12 +121279,12 @@
       {
         "contestId": 1373,
         "index": "B",
-        "solvedCount": 28906
+        "solvedCount": 28907
       },
       {
         "contestId": 1373,
         "index": "A",
-        "solvedCount": 23784
+        "solvedCount": 23785
       },
       {
         "contestId": 1372,
@@ -121342,7 +121349,7 @@
       {
         "contestId": 1371,
         "index": "A",
-        "solvedCount": 39599
+        "solvedCount": 39600
       },
       {
         "contestId": 1370,
@@ -121362,7 +121369,7 @@
       {
         "contestId": 1370,
         "index": "D",
-        "solvedCount": 8420
+        "solvedCount": 8421
       },
       {
         "contestId": 1370,
@@ -121377,7 +121384,7 @@
       {
         "contestId": 1370,
         "index": "A",
-        "solvedCount": 42537
+        "solvedCount": 42540
       },
       {
         "contestId": 1369,
@@ -121402,7 +121409,7 @@
       {
         "contestId": 1369,
         "index": "B",
-        "solvedCount": 22579
+        "solvedCount": 22580
       },
       {
         "contestId": 1369,
@@ -121452,7 +121459,7 @@
       {
         "contestId": 1368,
         "index": "A",
-        "solvedCount": 32785
+        "solvedCount": 32787
       },
       {
         "contestId": 1367,
@@ -121487,7 +121494,7 @@
       {
         "contestId": 1367,
         "index": "A",
-        "solvedCount": 48986
+        "solvedCount": 48988
       },
       {
         "contestId": 1366,
@@ -121547,7 +121554,7 @@
       {
         "contestId": 1365,
         "index": "C",
-        "solvedCount": 20611
+        "solvedCount": 20612
       },
       {
         "contestId": 1365,
@@ -121582,7 +121589,7 @@
       {
         "contestId": 1364,
         "index": "A",
-        "solvedCount": 24241
+        "solvedCount": 24242
       },
       {
         "contestId": 1363,
@@ -121697,7 +121704,7 @@
       {
         "contestId": 1360,
         "index": "A",
-        "solvedCount": 43417
+        "solvedCount": 43418
       },
       {
         "contestId": 1359,
@@ -121722,12 +121729,12 @@
       {
         "contestId": 1359,
         "index": "B",
-        "solvedCount": 25501
+        "solvedCount": 25502
       },
       {
         "contestId": 1359,
         "index": "A",
-        "solvedCount": 26734
+        "solvedCount": 26735
       },
       {
         "contestId": 1358,
@@ -121747,7 +121754,7 @@
       {
         "contestId": 1358,
         "index": "C",
-        "solvedCount": 16180
+        "solvedCount": 16181
       },
       {
         "contestId": 1358,
@@ -121982,7 +121989,7 @@
       {
         "contestId": 1353,
         "index": "D",
-        "solvedCount": 16128
+        "solvedCount": 16129
       },
       {
         "contestId": 1353,
@@ -121992,7 +121999,7 @@
       {
         "contestId": 1353,
         "index": "B",
-        "solvedCount": 43485
+        "solvedCount": 43487
       },
       {
         "contestId": 1353,
@@ -122027,12 +122034,12 @@
       {
         "contestId": 1352,
         "index": "B",
-        "solvedCount": 30717
+        "solvedCount": 30718
       },
       {
         "contestId": 1352,
         "index": "A",
-        "solvedCount": 58836
+        "solvedCount": 58839
       },
       {
         "contestId": 1351,
@@ -122112,12 +122119,12 @@
       {
         "contestId": 1348,
         "index": "C",
-        "solvedCount": 13676
+        "solvedCount": 13677
       },
       {
         "contestId": 1348,
         "index": "B",
-        "solvedCount": 23040
+        "solvedCount": 23041
       },
       {
         "contestId": 1348,
@@ -122227,12 +122234,12 @@
       {
         "contestId": 1343,
         "index": "C",
-        "solvedCount": 32978
+        "solvedCount": 32979
       },
       {
         "contestId": 1343,
         "index": "B",
-        "solvedCount": 48027
+        "solvedCount": 48028
       },
       {
         "contestId": 1343,
@@ -122312,7 +122319,7 @@
       {
         "contestId": 1339,
         "index": "B",
-        "solvedCount": 24061
+        "solvedCount": 24062
       },
       {
         "contestId": 1339,
@@ -122422,7 +122429,7 @@
       {
         "contestId": 1335,
         "index": "A",
-        "solvedCount": 67261
+        "solvedCount": 67262
       },
       {
         "contestId": 1334,
@@ -122627,7 +122634,7 @@
       {
         "contestId": 1328,
         "index": "A",
-        "solvedCount": 77265
+        "solvedCount": 77270
       },
       {
         "contestId": 1327,
@@ -122642,7 +122649,7 @@
       {
         "contestId": 1327,
         "index": "E",
-        "solvedCount": 8038
+        "solvedCount": 8039
       },
       {
         "contestId": 1327,
@@ -122662,7 +122669,7 @@
       {
         "contestId": 1327,
         "index": "A",
-        "solvedCount": 32732
+        "solvedCount": 32733
       },
       {
         "contestId": 1326,
@@ -122707,7 +122714,7 @@
       {
         "contestId": 1326,
         "index": "A",
-        "solvedCount": 27211
+        "solvedCount": 27212
       },
       {
         "contestId": 1325,
@@ -122737,7 +122744,7 @@
       {
         "contestId": 1325,
         "index": "A",
-        "solvedCount": 34335
+        "solvedCount": 34336
       },
       {
         "contestId": 1324,
@@ -122957,7 +122964,7 @@
       {
         "contestId": 1312,
         "index": "A",
-        "solvedCount": 24201
+        "solvedCount": 24202
       },
       {
         "contestId": 1311,
@@ -122987,7 +122994,7 @@
       {
         "contestId": 1311,
         "index": "A",
-        "solvedCount": 37903
+        "solvedCount": 37907
       },
       {
         "contestId": 1310,
@@ -123162,7 +123169,7 @@
       {
         "contestId": 1303,
         "index": "A",
-        "solvedCount": 26965
+        "solvedCount": 26967
       },
       {
         "contestId": 1302,
@@ -123232,7 +123239,7 @@
       {
         "contestId": 1301,
         "index": "C",
-        "solvedCount": 8702
+        "solvedCount": 8703
       },
       {
         "contestId": 1301,
@@ -123242,7 +123249,7 @@
       {
         "contestId": 1301,
         "index": "A",
-        "solvedCount": 18594
+        "solvedCount": 18595
       },
       {
         "contestId": 1300,
@@ -123417,7 +123424,7 @@
       {
         "contestId": 1294,
         "index": "A",
-        "solvedCount": 38913
+        "solvedCount": 38916
       },
       {
         "contestId": 1293,
@@ -123632,7 +123639,7 @@
       {
         "contestId": 1284,
         "index": "C",
-        "solvedCount": 7391
+        "solvedCount": 7392
       },
       {
         "contestId": 1284,
@@ -123642,7 +123649,7 @@
       {
         "contestId": 1284,
         "index": "A",
-        "solvedCount": 17358
+        "solvedCount": 17360
       },
       {
         "contestId": 1283,
@@ -123652,7 +123659,7 @@
       {
         "contestId": 1283,
         "index": "E",
-        "solvedCount": 5836
+        "solvedCount": 5837
       },
       {
         "contestId": 1283,
@@ -123907,7 +123914,7 @@
       {
         "contestId": 1272,
         "index": "C",
-        "solvedCount": 22376
+        "solvedCount": 22377
       },
       {
         "contestId": 1272,
@@ -124197,7 +124204,7 @@
       {
         "contestId": 1263,
         "index": "C",
-        "solvedCount": 12669
+        "solvedCount": 12670
       },
       {
         "contestId": 1263,
@@ -124307,7 +124314,7 @@
       {
         "contestId": 1256,
         "index": "A",
-        "solvedCount": 26016
+        "solvedCount": 26017
       },
       {
         "contestId": 1255,
@@ -124557,7 +124564,7 @@
       {
         "contestId": 1249,
         "index": "E",
-        "solvedCount": 8313
+        "solvedCount": 8314
       },
       {
         "contestId": 1249,
@@ -124592,7 +124599,7 @@
       {
         "contestId": 1249,
         "index": "A",
-        "solvedCount": 20948
+        "solvedCount": 20949
       },
       {
         "contestId": 1248,
@@ -124832,7 +124839,7 @@
       {
         "contestId": 1237,
         "index": "A",
-        "solvedCount": 16912
+        "solvedCount": 16913
       },
       {
         "contestId": 1236,
@@ -124887,7 +124894,7 @@
       {
         "contestId": 1234,
         "index": "B2",
-        "solvedCount": 15584
+        "solvedCount": 15585
       },
       {
         "contestId": 1234,
@@ -124897,7 +124904,7 @@
       {
         "contestId": 1234,
         "index": "A",
-        "solvedCount": 25999
+        "solvedCount": 26000
       },
       {
         "contestId": 1231,
@@ -125137,7 +125144,7 @@
       {
         "contestId": 1220,
         "index": "A",
-        "solvedCount": 26563
+        "solvedCount": 26565
       },
       {
         "contestId": 1219,
@@ -125362,7 +125369,7 @@
       {
         "contestId": 1213,
         "index": "B",
-        "solvedCount": 23116
+        "solvedCount": 23117
       },
       {
         "contestId": 1213,
@@ -125652,7 +125659,7 @@
       {
         "contestId": 1203,
         "index": "F2",
-        "solvedCount": 2328
+        "solvedCount": 2329
       },
       {
         "contestId": 1203,
@@ -125677,7 +125684,7 @@
       {
         "contestId": 1203,
         "index": "C",
-        "solvedCount": 17894
+        "solvedCount": 17895
       },
       {
         "contestId": 1203,
@@ -125787,7 +125794,7 @@
       {
         "contestId": 1199,
         "index": "A",
-        "solvedCount": 13214
+        "solvedCount": 13215
       },
       {
         "contestId": 1198,
@@ -125817,7 +125824,7 @@
       {
         "contestId": 1198,
         "index": "A",
-        "solvedCount": 8358
+        "solvedCount": 8359
       },
       {
         "contestId": 1197,
@@ -126127,7 +126134,7 @@
       {
         "contestId": 1186,
         "index": "A",
-        "solvedCount": 32900
+        "solvedCount": 32901
       },
       {
         "contestId": 1185,
@@ -126157,7 +126164,7 @@
       {
         "contestId": 1185,
         "index": "C2",
-        "solvedCount": 6906
+        "solvedCount": 6907
       },
       {
         "contestId": 1185,
@@ -126267,7 +126274,7 @@
       {
         "contestId": 1183,
         "index": "D",
-        "solvedCount": 12319
+        "solvedCount": 12320
       },
       {
         "contestId": 1183,
@@ -126312,7 +126319,7 @@
       {
         "contestId": 1182,
         "index": "A",
-        "solvedCount": 25554
+        "solvedCount": 25555
       },
       {
         "contestId": 1181,
@@ -126377,7 +126384,7 @@
       {
         "contestId": 1179,
         "index": "A",
-        "solvedCount": 9384
+        "solvedCount": 9385
       },
       {
         "contestId": 1178,
@@ -126737,12 +126744,12 @@
       {
         "contestId": 1165,
         "index": "D",
-        "solvedCount": 13204
+        "solvedCount": 13205
       },
       {
         "contestId": 1165,
         "index": "C",
-        "solvedCount": 11921
+        "solvedCount": 11922
       },
       {
         "contestId": 1165,
@@ -126987,7 +126994,7 @@
       {
         "contestId": 1154,
         "index": "A",
-        "solvedCount": 56717
+        "solvedCount": 56718
       },
       {
         "contestId": 1153,
@@ -127157,7 +127164,7 @@
       {
         "contestId": 1148,
         "index": "A",
-        "solvedCount": 13888
+        "solvedCount": 13889
       },
       {
         "contestId": 1147,
@@ -127262,7 +127269,7 @@
       {
         "contestId": 1145,
         "index": "A",
-        "solvedCount": 8254
+        "solvedCount": 8255
       },
       {
         "contestId": 1144,
@@ -127437,12 +127444,12 @@
       {
         "contestId": 1139,
         "index": "B",
-        "solvedCount": 14296
+        "solvedCount": 14297
       },
       {
         "contestId": 1139,
         "index": "A",
-        "solvedCount": 15896
+        "solvedCount": 15897
       },
       {
         "contestId": 1138,
@@ -128167,12 +128174,12 @@
       {
         "contestId": 1105,
         "index": "B",
-        "solvedCount": 9543
+        "solvedCount": 9544
       },
       {
         "contestId": 1105,
         "index": "A",
-        "solvedCount": 10415
+        "solvedCount": 10416
       },
       {
         "contestId": 1104,
@@ -128222,7 +128229,7 @@
       {
         "contestId": 1102,
         "index": "D",
-        "solvedCount": 7457
+        "solvedCount": 7458
       },
       {
         "contestId": 1102,
@@ -128262,7 +128269,7 @@
       {
         "contestId": 1101,
         "index": "C",
-        "solvedCount": 7139
+        "solvedCount": 7140
       },
       {
         "contestId": 1101,
@@ -128272,7 +128279,7 @@
       {
         "contestId": 1101,
         "index": "A",
-        "solvedCount": 15915
+        "solvedCount": 15916
       },
       {
         "contestId": 1100,
@@ -128447,7 +128454,7 @@
       {
         "contestId": 1095,
         "index": "C",
-        "solvedCount": 13894
+        "solvedCount": 13895
       },
       {
         "contestId": 1095,
@@ -128457,7 +128464,7 @@
       {
         "contestId": 1095,
         "index": "A",
-        "solvedCount": 26331
+        "solvedCount": 26333
       },
       {
         "contestId": 1093,
@@ -128522,7 +128529,7 @@
       {
         "contestId": 1092,
         "index": "B",
-        "solvedCount": 23314
+        "solvedCount": 23315
       },
       {
         "contestId": 1092,
@@ -128557,7 +128564,7 @@
       {
         "contestId": 1091,
         "index": "C",
-        "solvedCount": 8987
+        "solvedCount": 8988
       },
       {
         "contestId": 1091,
@@ -128957,7 +128964,7 @@
       {
         "contestId": 1077,
         "index": "A",
-        "solvedCount": 26626
+        "solvedCount": 26627
       },
       {
         "contestId": 1076,
@@ -128982,7 +128989,7 @@
       {
         "contestId": 1076,
         "index": "C",
-        "solvedCount": 11363
+        "solvedCount": 11364
       },
       {
         "contestId": 1076,
@@ -129177,7 +129184,7 @@
       {
         "contestId": 1066,
         "index": "A",
-        "solvedCount": 13507
+        "solvedCount": 13509
       },
       {
         "contestId": 1065,
@@ -129352,7 +129359,7 @@
       {
         "contestId": 1060,
         "index": "A",
-        "solvedCount": 12878
+        "solvedCount": 12879
       },
       {
         "contestId": 1059,
@@ -129432,7 +129439,7 @@
       {
         "contestId": 1056,
         "index": "A",
-        "solvedCount": 6103
+        "solvedCount": 6107
       },
       {
         "contestId": 1055,
@@ -129542,7 +129549,7 @@
       {
         "contestId": 1051,
         "index": "B",
-        "solvedCount": 15481
+        "solvedCount": 15482
       },
       {
         "contestId": 1051,
@@ -129747,7 +129754,7 @@
       {
         "contestId": 1041,
         "index": "A",
-        "solvedCount": 22543
+        "solvedCount": 22544
       },
       {
         "contestId": 1040,
@@ -130047,7 +130054,7 @@
       {
         "contestId": 1030,
         "index": "A",
-        "solvedCount": 99421
+        "solvedCount": 99432
       },
       {
         "contestId": 1029,
@@ -130187,7 +130194,7 @@
       {
         "contestId": 1025,
         "index": "A",
-        "solvedCount": 13209
+        "solvedCount": 13210
       },
       {
         "contestId": 1023,
@@ -130537,12 +130544,12 @@
       {
         "contestId": 1006,
         "index": "C",
-        "solvedCount": 18235
+        "solvedCount": 18236
       },
       {
         "contestId": 1006,
         "index": "B",
-        "solvedCount": 11888
+        "solvedCount": 11889
       },
       {
         "contestId": 1006,
@@ -130577,7 +130584,7 @@
       {
         "contestId": 1005,
         "index": "B",
-        "solvedCount": 19618
+        "solvedCount": 19619
       },
       {
         "contestId": 1005,
@@ -130772,7 +130779,7 @@
       {
         "contestId": 1000,
         "index": "F",
-        "solvedCount": 2920
+        "solvedCount": 2921
       },
       {
         "contestId": 1000,
@@ -130872,7 +130879,7 @@
       {
         "contestId": 996,
         "index": "A",
-        "solvedCount": 70353
+        "solvedCount": 70355
       },
       {
         "contestId": 995,
@@ -131092,7 +131099,7 @@
       {
         "contestId": 987,
         "index": "C",
-        "solvedCount": 12245
+        "solvedCount": 12246
       },
       {
         "contestId": 987,
@@ -131127,7 +131134,7 @@
       {
         "contestId": 986,
         "index": "B",
-        "solvedCount": 4326
+        "solvedCount": 4327
       },
       {
         "contestId": 986,
@@ -131212,7 +131219,7 @@
       {
         "contestId": 982,
         "index": "E",
-        "solvedCount": 619
+        "solvedCount": 620
       },
       {
         "contestId": 982,
@@ -131227,7 +131234,7 @@
       {
         "contestId": 982,
         "index": "B",
-        "solvedCount": 7794
+        "solvedCount": 7795
       },
       {
         "contestId": 982,
@@ -131367,7 +131374,7 @@
       {
         "contestId": 977,
         "index": "F",
-        "solvedCount": 14422
+        "solvedCount": 14424
       },
       {
         "contestId": 977,
@@ -131377,22 +131384,22 @@
       {
         "contestId": 977,
         "index": "D",
-        "solvedCount": 15758
+        "solvedCount": 15760
       },
       {
         "contestId": 977,
         "index": "C",
-        "solvedCount": 26678
+        "solvedCount": 26679
       },
       {
         "contestId": 977,
         "index": "B",
-        "solvedCount": 31191
+        "solvedCount": 31192
       },
       {
         "contestId": 977,
         "index": "A",
-        "solvedCount": 128892
+        "solvedCount": 128896
       },
       {
         "contestId": 976,
@@ -131652,12 +131659,12 @@
       {
         "contestId": 959,
         "index": "B",
-        "solvedCount": 8501
+        "solvedCount": 8503
       },
       {
         "contestId": 959,
         "index": "A",
-        "solvedCount": 37609
+        "solvedCount": 37610
       },
       {
         "contestId": 958,
@@ -131917,7 +131924,7 @@
       {
         "contestId": 946,
         "index": "D",
-        "solvedCount": 3982
+        "solvedCount": 3983
       },
       {
         "contestId": 946,
@@ -132157,7 +132164,7 @@
       {
         "contestId": 932,
         "index": "B",
-        "solvedCount": 7372
+        "solvedCount": 7373
       },
       {
         "contestId": 932,
@@ -132382,7 +132389,7 @@
       {
         "contestId": 923,
         "index": "B",
-        "solvedCount": 6721
+        "solvedCount": 6722
       },
       {
         "contestId": 923,
@@ -132687,7 +132694,7 @@
       {
         "contestId": 914,
         "index": "A",
-        "solvedCount": 12646
+        "solvedCount": 12647
       },
       {
         "contestId": 913,
@@ -132947,7 +132954,7 @@
       {
         "contestId": 902,
         "index": "B",
-        "solvedCount": 9613
+        "solvedCount": 9614
       },
       {
         "contestId": 902,
@@ -133147,7 +133154,7 @@
       {
         "contestId": 894,
         "index": "A",
-        "solvedCount": 29369
+        "solvedCount": 29370
       },
       {
         "contestId": 893,
@@ -133187,7 +133194,7 @@
       {
         "contestId": 892,
         "index": "A",
-        "solvedCount": 12171
+        "solvedCount": 12172
       },
       {
         "contestId": 891,
@@ -133232,7 +133239,7 @@
       {
         "contestId": 888,
         "index": "E",
-        "solvedCount": 5536
+        "solvedCount": 5537
       },
       {
         "contestId": 888,
@@ -133412,7 +133419,7 @@
       {
         "contestId": 879,
         "index": "B",
-        "solvedCount": 10901
+        "solvedCount": 10902
       },
       {
         "contestId": 879,
@@ -133572,7 +133579,7 @@
       {
         "contestId": 870,
         "index": "B",
-        "solvedCount": 8506
+        "solvedCount": 8507
       },
       {
         "contestId": 870,
@@ -133687,7 +133694,7 @@
       {
         "contestId": 864,
         "index": "E",
-        "solvedCount": 3770
+        "solvedCount": 3771
       },
       {
         "contestId": 864,
@@ -133767,7 +133774,7 @@
       {
         "contestId": 862,
         "index": "B",
-        "solvedCount": 13893
+        "solvedCount": 13896
       },
       {
         "contestId": 862,
@@ -133897,7 +133904,7 @@
       {
         "contestId": 855,
         "index": "C",
-        "solvedCount": 1800
+        "solvedCount": 1801
       },
       {
         "contestId": 855,
@@ -133907,7 +133914,7 @@
       {
         "contestId": 855,
         "index": "A",
-        "solvedCount": 17471
+        "solvedCount": 17472
       },
       {
         "contestId": 854,
@@ -133917,7 +133924,7 @@
       {
         "contestId": 854,
         "index": "A",
-        "solvedCount": 12362
+        "solvedCount": 12363
       },
       {
         "contestId": 853,
@@ -134067,7 +134074,7 @@
       {
         "contestId": 847,
         "index": "M",
-        "solvedCount": 5792
+        "solvedCount": 5793
       },
       {
         "contestId": 847,
@@ -134202,7 +134209,7 @@
       {
         "contestId": 844,
         "index": "A",
-        "solvedCount": 9572
+        "solvedCount": 9573
       },
       {
         "contestId": 843,
@@ -134632,7 +134639,7 @@
       {
         "contestId": 821,
         "index": "B",
-        "solvedCount": 5498
+        "solvedCount": 5499
       },
       {
         "contestId": 821,
@@ -134717,7 +134724,7 @@
       {
         "contestId": 817,
         "index": "E",
-        "solvedCount": 2291
+        "solvedCount": 2293
       },
       {
         "contestId": 817,
@@ -134807,7 +134814,7 @@
       {
         "contestId": 813,
         "index": "E",
-        "solvedCount": 1981
+        "solvedCount": 1983
       },
       {
         "contestId": 813,
@@ -134957,7 +134964,7 @@
       {
         "contestId": 807,
         "index": "A",
-        "solvedCount": 17448
+        "solvedCount": 17449
       },
       {
         "contestId": 805,
@@ -135022,7 +135029,7 @@
       {
         "contestId": 803,
         "index": "C",
-        "solvedCount": 4416
+        "solvedCount": 4417
       },
       {
         "contestId": 803,
@@ -135047,7 +135054,7 @@
       {
         "contestId": 802,
         "index": "M",
-        "solvedCount": 2760
+        "solvedCount": 2761
       },
       {
         "contestId": 802,
@@ -135077,7 +135084,7 @@
       {
         "contestId": 802,
         "index": "G",
-        "solvedCount": 6014
+        "solvedCount": 6015
       },
       {
         "contestId": 802,
@@ -135342,7 +135349,7 @@
       {
         "contestId": 791,
         "index": "A",
-        "solvedCount": 147160
+        "solvedCount": 147163
       },
       {
         "contestId": 789,
@@ -135437,7 +135444,7 @@
       {
         "contestId": 785,
         "index": "A",
-        "solvedCount": 69191
+        "solvedCount": 69193
       },
       {
         "contestId": 784,
@@ -135517,7 +135524,7 @@
       {
         "contestId": 779,
         "index": "C",
-        "solvedCount": 10717
+        "solvedCount": 10718
       },
       {
         "contestId": 779,
@@ -135762,7 +135769,7 @@
       {
         "contestId": 771,
         "index": "A",
-        "solvedCount": 13346
+        "solvedCount": 13347
       },
       {
         "contestId": 770,
@@ -135837,7 +135844,7 @@
       {
         "contestId": 768,
         "index": "A",
-        "solvedCount": 22473
+        "solvedCount": 22474
       },
       {
         "contestId": 767,
@@ -136057,7 +136064,7 @@
       {
         "contestId": 758,
         "index": "A",
-        "solvedCount": 48947
+        "solvedCount": 48949
       },
       {
         "contestId": 757,
@@ -136092,7 +136099,7 @@
       {
         "contestId": 757,
         "index": "A",
-        "solvedCount": 10264
+        "solvedCount": 10265
       },
       {
         "contestId": 756,
@@ -136232,7 +136239,7 @@
       {
         "contestId": 750,
         "index": "B",
-        "solvedCount": 8881
+        "solvedCount": 8882
       },
       {
         "contestId": 750,
@@ -136262,7 +136269,7 @@
       {
         "contestId": 749,
         "index": "A",
-        "solvedCount": 40944
+        "solvedCount": 40946
       },
       {
         "contestId": 748,
@@ -136352,7 +136359,7 @@
       {
         "contestId": 746,
         "index": "B",
-        "solvedCount": 22729
+        "solvedCount": 22730
       },
       {
         "contestId": 746,
@@ -136427,7 +136434,7 @@
       {
         "contestId": 742,
         "index": "A",
-        "solvedCount": 34273
+        "solvedCount": 34274
       },
       {
         "contestId": 741,
@@ -136562,7 +136569,7 @@
       {
         "contestId": 734,
         "index": "A",
-        "solvedCount": 116616
+        "solvedCount": 116618
       },
       {
         "contestId": 733,
@@ -136622,7 +136629,7 @@
       {
         "contestId": 732,
         "index": "A",
-        "solvedCount": 57632
+        "solvedCount": 57635
       },
       {
         "contestId": 731,
@@ -136652,7 +136659,7 @@
       {
         "contestId": 731,
         "index": "A",
-        "solvedCount": 37724
+        "solvedCount": 37725
       },
       {
         "contestId": 730,
@@ -136872,7 +136879,7 @@
       {
         "contestId": 723,
         "index": "A",
-        "solvedCount": 58083
+        "solvedCount": 58084
       },
       {
         "contestId": 722,
@@ -137042,7 +137049,7 @@
       {
         "contestId": 716,
         "index": "A",
-        "solvedCount": 20699
+        "solvedCount": 20700
       },
       {
         "contestId": 715,
@@ -137157,7 +137164,7 @@
       {
         "contestId": 710,
         "index": "F",
-        "solvedCount": 1332
+        "solvedCount": 1333
       },
       {
         "contestId": 710,
@@ -137277,7 +137284,7 @@
       {
         "contestId": 705,
         "index": "A",
-        "solvedCount": 85429
+        "solvedCount": 85431
       },
       {
         "contestId": 704,
@@ -137347,7 +137354,7 @@
       {
         "contestId": 702,
         "index": "C",
-        "solvedCount": 10140
+        "solvedCount": 10141
       },
       {
         "contestId": 702,
@@ -137357,7 +137364,7 @@
       {
         "contestId": 702,
         "index": "A",
-        "solvedCount": 35352
+        "solvedCount": 35355
       },
       {
         "contestId": 701,
@@ -137482,7 +137489,7 @@
       {
         "contestId": 691,
         "index": "F",
-        "solvedCount": 1152
+        "solvedCount": 1153
       },
       {
         "contestId": 691,
@@ -137507,7 +137514,7 @@
       {
         "contestId": 691,
         "index": "A",
-        "solvedCount": 9285
+        "solvedCount": 9286
       },
       {
         "contestId": 690,
@@ -137622,7 +137629,7 @@
       {
         "contestId": 688,
         "index": "B",
-        "solvedCount": 26505
+        "solvedCount": 26506
       },
       {
         "contestId": 688,
@@ -137662,7 +137669,7 @@
       {
         "contestId": 686,
         "index": "A",
-        "solvedCount": 31074
+        "solvedCount": 31077
       },
       {
         "contestId": 685,
@@ -137822,7 +137829,7 @@
       {
         "contestId": 679,
         "index": "A",
-        "solvedCount": 10911
+        "solvedCount": 10912
       },
       {
         "contestId": 678,
@@ -137877,7 +137884,7 @@
       {
         "contestId": 677,
         "index": "A",
-        "solvedCount": 109211
+        "solvedCount": 109220
       },
       {
         "contestId": 676,
@@ -138012,7 +138019,7 @@
       {
         "contestId": 669,
         "index": "A",
-        "solvedCount": 9716
+        "solvedCount": 9717
       },
       {
         "contestId": 667,
@@ -138082,7 +138089,7 @@
       {
         "contestId": 664,
         "index": "A",
-        "solvedCount": 15284
+        "solvedCount": 15285
       },
       {
         "contestId": 663,
@@ -138302,7 +138309,7 @@
       {
         "contestId": 652,
         "index": "E",
-        "solvedCount": 1625
+        "solvedCount": 1626
       },
       {
         "contestId": 652,
@@ -138312,7 +138319,7 @@
       {
         "contestId": 652,
         "index": "C",
-        "solvedCount": 2803
+        "solvedCount": 2804
       },
       {
         "contestId": 652,
@@ -138442,7 +138449,7 @@
       {
         "contestId": 643,
         "index": "A",
-        "solvedCount": 3897
+        "solvedCount": 3898
       },
       {
         "contestId": 641,
@@ -138457,7 +138464,7 @@
       {
         "contestId": 641,
         "index": "E",
-        "solvedCount": 2713
+        "solvedCount": 2714
       },
       {
         "contestId": 641,
@@ -138477,7 +138484,7 @@
       {
         "contestId": 641,
         "index": "A",
-        "solvedCount": 5596
+        "solvedCount": 5597
       },
       {
         "contestId": 639,
@@ -138597,7 +138604,7 @@
       {
         "contestId": 633,
         "index": "A",
-        "solvedCount": 10809
+        "solvedCount": 10810
       },
       {
         "contestId": 632,
@@ -138627,7 +138634,7 @@
       {
         "contestId": 632,
         "index": "A",
-        "solvedCount": 4206
+        "solvedCount": 4207
       },
       {
         "contestId": 631,
@@ -138657,7 +138664,7 @@
       {
         "contestId": 630,
         "index": "R",
-        "solvedCount": 7642
+        "solvedCount": 7643
       },
       {
         "contestId": 630,
@@ -138732,7 +138739,7 @@
       {
         "contestId": 630,
         "index": "C",
-        "solvedCount": 17801
+        "solvedCount": 17802
       },
       {
         "contestId": 630,
@@ -138742,7 +138749,7 @@
       {
         "contestId": 630,
         "index": "A",
-        "solvedCount": 49016
+        "solvedCount": 49020
       },
       {
         "contestId": 629,
@@ -139067,7 +139074,7 @@
       {
         "contestId": 617,
         "index": "A",
-        "solvedCount": 138234
+        "solvedCount": 138241
       },
       {
         "contestId": 616,
@@ -139182,7 +139189,7 @@
       {
         "contestId": 612,
         "index": "B",
-        "solvedCount": 6418
+        "solvedCount": 6419
       },
       {
         "contestId": 612,
@@ -139252,7 +139259,7 @@
       {
         "contestId": 610,
         "index": "A",
-        "solvedCount": 19327
+        "solvedCount": 19328
       },
       {
         "contestId": 609,
@@ -139262,7 +139269,7 @@
       {
         "contestId": 609,
         "index": "E",
-        "solvedCount": 5781
+        "solvedCount": 5782
       },
       {
         "contestId": 609,
@@ -139312,7 +139319,7 @@
       {
         "contestId": 607,
         "index": "B",
-        "solvedCount": 8880
+        "solvedCount": 8881
       },
       {
         "contestId": 607,
@@ -139697,7 +139704,7 @@
       {
         "contestId": 587,
         "index": "C",
-        "solvedCount": 3233
+        "solvedCount": 3234
       },
       {
         "contestId": 587,
@@ -139707,7 +139714,7 @@
       {
         "contestId": 587,
         "index": "A",
-        "solvedCount": 7117
+        "solvedCount": 7118
       },
       {
         "contestId": 586,
@@ -139772,7 +139779,7 @@
       {
         "contestId": 584,
         "index": "A",
-        "solvedCount": 37855
+        "solvedCount": 37856
       },
       {
         "contestId": 583,
@@ -139792,7 +139799,7 @@
       {
         "contestId": 582,
         "index": "D",
-        "solvedCount": 529
+        "solvedCount": 530
       },
       {
         "contestId": 582,
@@ -139837,7 +139844,7 @@
       {
         "contestId": 581,
         "index": "A",
-        "solvedCount": 58037
+        "solvedCount": 58038
       },
       {
         "contestId": 580,
@@ -139852,17 +139859,17 @@
       {
         "contestId": 580,
         "index": "C",
-        "solvedCount": 34440
+        "solvedCount": 34442
       },
       {
         "contestId": 580,
         "index": "B",
-        "solvedCount": 21772
+        "solvedCount": 21773
       },
       {
         "contestId": 580,
         "index": "A",
-        "solvedCount": 73824
+        "solvedCount": 73827
       },
       {
         "contestId": 579,
@@ -139872,7 +139879,7 @@
       {
         "contestId": 579,
         "index": "A",
-        "solvedCount": 47196
+        "solvedCount": 47197
       },
       {
         "contestId": 578,
@@ -139892,7 +139899,7 @@
       {
         "contestId": 578,
         "index": "C",
-        "solvedCount": 3891
+        "solvedCount": 3892
       },
       {
         "contestId": 578,
@@ -139907,7 +139914,7 @@
       {
         "contestId": 577,
         "index": "B",
-        "solvedCount": 10170
+        "solvedCount": 10171
       },
       {
         "contestId": 577,
@@ -139937,7 +139944,7 @@
       {
         "contestId": 576,
         "index": "A",
-        "solvedCount": 11920
+        "solvedCount": 11921
       },
       {
         "contestId": 575,
@@ -140142,7 +140149,7 @@
       {
         "contestId": 567,
         "index": "A",
-        "solvedCount": 27205
+        "solvedCount": 27206
       },
       {
         "contestId": 566,
@@ -140267,12 +140274,12 @@
       {
         "contestId": 556,
         "index": "B",
-        "solvedCount": 7218
+        "solvedCount": 7220
       },
       {
         "contestId": 556,
         "index": "A",
-        "solvedCount": 33342
+        "solvedCount": 33343
       },
       {
         "contestId": 555,
@@ -140307,7 +140314,7 @@
       {
         "contestId": 554,
         "index": "A",
-        "solvedCount": 11874
+        "solvedCount": 11875
       },
       {
         "contestId": 553,
@@ -140397,17 +140404,17 @@
       {
         "contestId": 550,
         "index": "C",
-        "solvedCount": 24325
+        "solvedCount": 24329
       },
       {
         "contestId": 550,
         "index": "B",
-        "solvedCount": 16575
+        "solvedCount": 16576
       },
       {
         "contestId": 550,
         "index": "A",
-        "solvedCount": 32616
+        "solvedCount": 32617
       },
       {
         "contestId": 549,
@@ -140457,7 +140464,7 @@
       {
         "contestId": 548,
         "index": "A",
-        "solvedCount": 9286
+        "solvedCount": 9287
       },
       {
         "contestId": 547,
@@ -140507,7 +140514,7 @@
       {
         "contestId": 546,
         "index": "A",
-        "solvedCount": 138852
+        "solvedCount": 138855
       },
       {
         "contestId": 545,
@@ -140567,7 +140574,7 @@
       {
         "contestId": 543,
         "index": "A",
-        "solvedCount": 7202
+        "solvedCount": 7203
       },
       {
         "contestId": 542,
@@ -140697,7 +140704,7 @@
       {
         "contestId": 535,
         "index": "A",
-        "solvedCount": 11048
+        "solvedCount": 11051
       },
       {
         "contestId": 534,
@@ -140722,12 +140729,12 @@
       {
         "contestId": 534,
         "index": "B",
-        "solvedCount": 9094
+        "solvedCount": 9095
       },
       {
         "contestId": 534,
         "index": "A",
-        "solvedCount": 11245
+        "solvedCount": 11248
       },
       {
         "contestId": 533,
@@ -141007,7 +141014,7 @@
       {
         "contestId": 520,
         "index": "A",
-        "solvedCount": 74509
+        "solvedCount": 74511
       },
       {
         "contestId": 519,
@@ -141022,7 +141029,7 @@
       {
         "contestId": 519,
         "index": "C",
-        "solvedCount": 18223
+        "solvedCount": 18224
       },
       {
         "contestId": 519,
@@ -141047,7 +141054,7 @@
       {
         "contestId": 518,
         "index": "D",
-        "solvedCount": 6159
+        "solvedCount": 6160
       },
       {
         "contestId": 518,
@@ -141122,7 +141129,7 @@
       {
         "contestId": 514,
         "index": "A",
-        "solvedCount": 35712
+        "solvedCount": 35714
       },
       {
         "contestId": 513,
@@ -141222,7 +141229,7 @@
       {
         "contestId": 510,
         "index": "A",
-        "solvedCount": 64537
+        "solvedCount": 64541
       },
       {
         "contestId": 509,
@@ -141252,7 +141259,7 @@
       {
         "contestId": 509,
         "index": "A",
-        "solvedCount": 34873
+        "solvedCount": 34875
       },
       {
         "contestId": 508,
@@ -141302,7 +141309,7 @@
       {
         "contestId": 507,
         "index": "A",
-        "solvedCount": 15340
+        "solvedCount": 15341
       },
       {
         "contestId": 506,
@@ -141372,7 +141379,7 @@
       {
         "contestId": 501,
         "index": "A",
-        "solvedCount": 19813
+        "solvedCount": 19814
       },
       {
         "contestId": 500,
@@ -141417,7 +141424,7 @@
       {
         "contestId": 499,
         "index": "A",
-        "solvedCount": 12774
+        "solvedCount": 12776
       },
       {
         "contestId": 498,
@@ -141482,7 +141489,7 @@
       {
         "contestId": 495,
         "index": "B",
-        "solvedCount": 5949
+        "solvedCount": 5950
       },
       {
         "contestId": 495,
@@ -141557,7 +141564,7 @@
       {
         "contestId": 492,
         "index": "B",
-        "solvedCount": 62579
+        "solvedCount": 62581
       },
       {
         "contestId": 492,
@@ -141637,7 +141644,7 @@
       {
         "contestId": 489,
         "index": "A",
-        "solvedCount": 8920
+        "solvedCount": 8922
       },
       {
         "contestId": 488,
@@ -141697,7 +141704,7 @@
       {
         "contestId": 486,
         "index": "A",
-        "solvedCount": 91077
+        "solvedCount": 91080
       },
       {
         "contestId": 485,
@@ -141802,7 +141809,7 @@
       {
         "contestId": 479,
         "index": "A",
-        "solvedCount": 76776
+        "solvedCount": 76779
       },
       {
         "contestId": 478,
@@ -141822,7 +141829,7 @@
       {
         "contestId": 478,
         "index": "B",
-        "solvedCount": 31816
+        "solvedCount": 31818
       },
       {
         "contestId": 478,
@@ -141857,12 +141864,12 @@
       {
         "contestId": 476,
         "index": "B",
-        "solvedCount": 25887
+        "solvedCount": 25888
       },
       {
         "contestId": 476,
         "index": "A",
-        "solvedCount": 35861
+        "solvedCount": 35863
       },
       {
         "contestId": 475,
@@ -141877,7 +141884,7 @@
       {
         "contestId": 475,
         "index": "D",
-        "solvedCount": 3872
+        "solvedCount": 3873
       },
       {
         "contestId": 475,
@@ -141907,7 +141914,7 @@
       {
         "contestId": 474,
         "index": "D",
-        "solvedCount": 21259
+        "solvedCount": 21260
       },
       {
         "contestId": 474,
@@ -141942,7 +141949,7 @@
       {
         "contestId": 472,
         "index": "D",
-        "solvedCount": 4377
+        "solvedCount": 4378
       },
       {
         "contestId": 472,
@@ -141957,7 +141964,7 @@
       {
         "contestId": 472,
         "index": "A",
-        "solvedCount": 50462
+        "solvedCount": 50464
       },
       {
         "contestId": 471,
@@ -142027,12 +142034,12 @@
       {
         "contestId": 469,
         "index": "B",
-        "solvedCount": 11631
+        "solvedCount": 11632
       },
       {
         "contestId": 469,
         "index": "A",
-        "solvedCount": 78317
+        "solvedCount": 78319
       },
       {
         "contestId": 468,
@@ -142077,12 +142084,12 @@
       {
         "contestId": 467,
         "index": "B",
-        "solvedCount": 32032
+        "solvedCount": 32033
       },
       {
         "contestId": 467,
         "index": "A",
-        "solvedCount": 96587
+        "solvedCount": 96598
       },
       {
         "contestId": 466,
@@ -142107,7 +142114,7 @@
       {
         "contestId": 466,
         "index": "A",
-        "solvedCount": 51464
+        "solvedCount": 51469
       },
       {
         "contestId": 465,
@@ -142227,7 +142234,7 @@
       {
         "contestId": 460,
         "index": "A",
-        "solvedCount": 40229
+        "solvedCount": 40230
       },
       {
         "contestId": 459,
@@ -142247,7 +142254,7 @@
       {
         "contestId": 459,
         "index": "B",
-        "solvedCount": 34229
+        "solvedCount": 34230
       },
       {
         "contestId": 459,
@@ -142292,7 +142299,7 @@
       {
         "contestId": 456,
         "index": "A",
-        "solvedCount": 39310
+        "solvedCount": 39313
       },
       {
         "contestId": 455,
@@ -142317,7 +142324,7 @@
       {
         "contestId": 455,
         "index": "A",
-        "solvedCount": 48091
+        "solvedCount": 48093
       },
       {
         "contestId": 454,
@@ -142352,7 +142359,7 @@
       {
         "contestId": 453,
         "index": "A",
-        "solvedCount": 9117
+        "solvedCount": 9118
       },
       {
         "contestId": 452,
@@ -142402,12 +142409,12 @@
       {
         "contestId": 451,
         "index": "B",
-        "solvedCount": 37867
+        "solvedCount": 37870
       },
       {
         "contestId": 451,
         "index": "A",
-        "solvedCount": 55909
+        "solvedCount": 55910
       },
       {
         "contestId": 450,
@@ -142512,7 +142519,7 @@
       {
         "contestId": 445,
         "index": "A",
-        "solvedCount": 24801
+        "solvedCount": 24802
       },
       {
         "contestId": 444,
@@ -142547,7 +142554,7 @@
       {
         "contestId": 443,
         "index": "A",
-        "solvedCount": 72031
+        "solvedCount": 72033
       },
       {
         "contestId": 442,
@@ -142567,7 +142574,7 @@
       {
         "contestId": 442,
         "index": "B",
-        "solvedCount": 4675
+        "solvedCount": 4676
       },
       {
         "contestId": 442,
@@ -142617,7 +142624,7 @@
       {
         "contestId": 440,
         "index": "A",
-        "solvedCount": 6093
+        "solvedCount": 6095
       },
       {
         "contestId": 439,
@@ -142627,7 +142634,7 @@
       {
         "contestId": 439,
         "index": "D",
-        "solvedCount": 5146
+        "solvedCount": 5147
       },
       {
         "contestId": 439,
@@ -142642,7 +142649,7 @@
       {
         "contestId": 439,
         "index": "A",
-        "solvedCount": 23130
+        "solvedCount": 23131
       },
       {
         "contestId": 438,
@@ -142762,7 +142769,7 @@
       {
         "contestId": 433,
         "index": "B",
-        "solvedCount": 30267
+        "solvedCount": 30269
       },
       {
         "contestId": 433,
@@ -142792,7 +142799,7 @@
       {
         "contestId": 432,
         "index": "A",
-        "solvedCount": 49734
+        "solvedCount": 49737
       },
       {
         "contestId": 431,
@@ -142817,12 +142824,12 @@
       {
         "contestId": 431,
         "index": "A",
-        "solvedCount": 44297
+        "solvedCount": 44298
       },
       {
         "contestId": 430,
         "index": "B",
-        "solvedCount": 3464
+        "solvedCount": 3465
       },
       {
         "contestId": 430,
@@ -142877,7 +142884,7 @@
       {
         "contestId": 427,
         "index": "A",
-        "solvedCount": 61107
+        "solvedCount": 61109
       },
       {
         "contestId": 426,
@@ -143247,7 +143254,7 @@
       {
         "contestId": 405,
         "index": "A",
-        "solvedCount": 80225
+        "solvedCount": 80229
       },
       {
         "contestId": 404,
@@ -143272,7 +143279,7 @@
       {
         "contestId": 404,
         "index": "A",
-        "solvedCount": 20472
+        "solvedCount": 20473
       },
       {
         "contestId": 403,
@@ -143352,7 +143359,7 @@
       {
         "contestId": 400,
         "index": "B",
-        "solvedCount": 6660
+        "solvedCount": 6662
       },
       {
         "contestId": 400,
@@ -143747,7 +143754,7 @@
       {
         "contestId": 381,
         "index": "A",
-        "solvedCount": 49224
+        "solvedCount": 49226
       },
       {
         "contestId": 380,
@@ -144017,7 +144024,7 @@
       {
         "contestId": 368,
         "index": "B",
-        "solvedCount": 34871
+        "solvedCount": 34872
       },
       {
         "contestId": 368,
@@ -144277,7 +144284,7 @@
       {
         "contestId": 356,
         "index": "A",
-        "solvedCount": 11513
+        "solvedCount": 11514
       },
       {
         "contestId": 355,
@@ -144337,12 +144344,12 @@
       {
         "contestId": 353,
         "index": "A",
-        "solvedCount": 16222
+        "solvedCount": 16223
       },
       {
         "contestId": 352,
         "index": "B",
-        "solvedCount": 14495
+        "solvedCount": 14496
       },
       {
         "contestId": 352,
@@ -144407,7 +144414,7 @@
       {
         "contestId": 349,
         "index": "A",
-        "solvedCount": 25425
+        "solvedCount": 25426
       },
       {
         "contestId": 348,
@@ -144502,7 +144509,7 @@
       {
         "contestId": 345,
         "index": "A",
-        "solvedCount": 454
+        "solvedCount": 455
       },
       {
         "contestId": 344,
@@ -144512,7 +144519,7 @@
       {
         "contestId": 344,
         "index": "A",
-        "solvedCount": 94480
+        "solvedCount": 94489
       },
       {
         "contestId": 343,
@@ -144617,12 +144624,12 @@
       {
         "contestId": 339,
         "index": "B",
-        "solvedCount": 58736
+        "solvedCount": 58737
       },
       {
         "contestId": 339,
         "index": "A",
-        "solvedCount": 167515
+        "solvedCount": 167523
       },
       {
         "contestId": 338,
@@ -144657,7 +144664,7 @@
       {
         "contestId": 337,
         "index": "A",
-        "solvedCount": 67096
+        "solvedCount": 67097
       },
       {
         "contestId": 336,
@@ -144877,7 +144884,7 @@
       {
         "contestId": 328,
         "index": "A",
-        "solvedCount": 1705
+        "solvedCount": 1706
       },
       {
         "contestId": 327,
@@ -144897,12 +144904,12 @@
       {
         "contestId": 327,
         "index": "B",
-        "solvedCount": 17028
+        "solvedCount": 17029
       },
       {
         "contestId": 327,
         "index": "A",
-        "solvedCount": 35845
+        "solvedCount": 35846
       },
       {
         "contestId": 325,
@@ -144987,7 +144994,7 @@
       {
         "contestId": 320,
         "index": "A",
-        "solvedCount": 28967
+        "solvedCount": 28969
       },
       {
         "contestId": 319,
@@ -145022,7 +145029,7 @@
       {
         "contestId": 318,
         "index": "A",
-        "solvedCount": 90195
+        "solvedCount": 90198
       },
       {
         "contestId": 317,
@@ -145192,12 +145199,12 @@
       {
         "contestId": 313,
         "index": "B",
-        "solvedCount": 35757
+        "solvedCount": 35758
       },
       {
         "contestId": 313,
         "index": "A",
-        "solvedCount": 46820
+        "solvedCount": 46822
       },
       {
         "contestId": 312,
@@ -145397,7 +145404,7 @@
       {
         "contestId": 300,
         "index": "A",
-        "solvedCount": 19280
+        "solvedCount": 19282
       },
       {
         "contestId": 299,
@@ -145612,7 +145619,7 @@
       {
         "contestId": 289,
         "index": "B",
-        "solvedCount": 15583
+        "solvedCount": 15584
       },
       {
         "contestId": 289,
@@ -145647,7 +145654,7 @@
       {
         "contestId": 287,
         "index": "B",
-        "solvedCount": 7487
+        "solvedCount": 7489
       },
       {
         "contestId": 287,
@@ -145692,7 +145699,7 @@
       {
         "contestId": 285,
         "index": "C",
-        "solvedCount": 20108
+        "solvedCount": 20109
       },
       {
         "contestId": 285,
@@ -145762,7 +145769,7 @@
       {
         "contestId": 282,
         "index": "A",
-        "solvedCount": 191443
+        "solvedCount": 191450
       },
       {
         "contestId": 281,
@@ -145772,7 +145779,7 @@
       {
         "contestId": 281,
         "index": "A",
-        "solvedCount": 165122
+        "solvedCount": 165132
       },
       {
         "contestId": 280,
@@ -145792,7 +145799,7 @@
       {
         "contestId": 280,
         "index": "B",
-        "solvedCount": 4097
+        "solvedCount": 4098
       },
       {
         "contestId": 280,
@@ -145817,7 +145824,7 @@
       {
         "contestId": 279,
         "index": "B",
-        "solvedCount": 39220
+        "solvedCount": 39222
       },
       {
         "contestId": 279,
@@ -145877,12 +145884,12 @@
       {
         "contestId": 276,
         "index": "B",
-        "solvedCount": 23925
+        "solvedCount": 23926
       },
       {
         "contestId": 276,
         "index": "A",
-        "solvedCount": 24042
+        "solvedCount": 24044
       },
       {
         "contestId": 275,
@@ -145892,7 +145899,7 @@
       {
         "contestId": 275,
         "index": "A",
-        "solvedCount": 24623
+        "solvedCount": 24624
       },
       {
         "contestId": 274,
@@ -145962,7 +145969,7 @@
       {
         "contestId": 271,
         "index": "D",
-        "solvedCount": 8850
+        "solvedCount": 8851
       },
       {
         "contestId": 271,
@@ -145977,7 +145984,7 @@
       {
         "contestId": 271,
         "index": "A",
-        "solvedCount": 107429
+        "solvedCount": 107432
       },
       {
         "contestId": 270,
@@ -145987,7 +145994,7 @@
       {
         "contestId": 270,
         "index": "A",
-        "solvedCount": 39003
+        "solvedCount": 39005
       },
       {
         "contestId": 269,
@@ -146037,7 +146044,7 @@
       {
         "contestId": 268,
         "index": "A",
-        "solvedCount": 70112
+        "solvedCount": 70113
       },
       {
         "contestId": 267,
@@ -146072,12 +146079,12 @@
       {
         "contestId": 266,
         "index": "B",
-        "solvedCount": 109644
+        "solvedCount": 109645
       },
       {
         "contestId": 266,
         "index": "A",
-        "solvedCount": 151235
+        "solvedCount": 151238
       },
       {
         "contestId": 265,
@@ -146087,7 +146094,7 @@
       {
         "contestId": 265,
         "index": "A",
-        "solvedCount": 29796
+        "solvedCount": 29797
       },
       {
         "contestId": 264,
@@ -146137,7 +146144,7 @@
       {
         "contestId": 263,
         "index": "A",
-        "solvedCount": 188533
+        "solvedCount": 188543
       },
       {
         "contestId": 262,
@@ -146147,7 +146154,7 @@
       {
         "contestId": 262,
         "index": "A",
-        "solvedCount": 16949
+        "solvedCount": 16951
       },
       {
         "contestId": 261,
@@ -146467,7 +146474,7 @@
       {
         "contestId": 245,
         "index": "H",
-        "solvedCount": 4989
+        "solvedCount": 4990
       },
       {
         "contestId": 245,
@@ -146617,7 +146624,7 @@
       {
         "contestId": 239,
         "index": "A",
-        "solvedCount": 16552
+        "solvedCount": 16553
       },
       {
         "contestId": 238,
@@ -146677,7 +146684,7 @@
       {
         "contestId": 236,
         "index": "A",
-        "solvedCount": 160791
+        "solvedCount": 160798
       },
       {
         "contestId": 235,
@@ -146752,7 +146759,7 @@
       {
         "contestId": 233,
         "index": "A",
-        "solvedCount": 34984
+        "solvedCount": 34986
       },
       {
         "contestId": 232,
@@ -146802,17 +146809,17 @@
       {
         "contestId": 231,
         "index": "A",
-        "solvedCount": 248619
+        "solvedCount": 248627
       },
       {
         "contestId": 230,
         "index": "B",
-        "solvedCount": 59861
+        "solvedCount": 59862
       },
       {
         "contestId": 230,
         "index": "A",
-        "solvedCount": 63677
+        "solvedCount": 63678
       },
       {
         "contestId": 229,
@@ -146862,12 +146869,12 @@
       {
         "contestId": 228,
         "index": "A",
-        "solvedCount": 85271
+        "solvedCount": 85274
       },
       {
         "contestId": 227,
         "index": "B",
-        "solvedCount": 22978
+        "solvedCount": 22979
       },
       {
         "contestId": 227,
@@ -146912,7 +146919,7 @@
       {
         "contestId": 225,
         "index": "C",
-        "solvedCount": 8129
+        "solvedCount": 8130
       },
       {
         "contestId": 225,
@@ -146932,7 +146939,7 @@
       {
         "contestId": 224,
         "index": "A",
-        "solvedCount": 22248
+        "solvedCount": 22249
       },
       {
         "contestId": 223,
@@ -146967,7 +146974,7 @@
       {
         "contestId": 222,
         "index": "D",
-        "solvedCount": 2010
+        "solvedCount": 2011
       },
       {
         "contestId": 222,
@@ -147042,17 +147049,17 @@
       {
         "contestId": 219,
         "index": "A",
-        "solvedCount": 22538
+        "solvedCount": 22539
       },
       {
         "contestId": 218,
         "index": "B",
-        "solvedCount": 14190
+        "solvedCount": 14191
       },
       {
         "contestId": 218,
         "index": "A",
-        "solvedCount": 7985
+        "solvedCount": 7986
       },
       {
         "contestId": 217,
@@ -147137,7 +147144,7 @@
       {
         "contestId": 214,
         "index": "A",
-        "solvedCount": 29074
+        "solvedCount": 29075
       },
       {
         "contestId": 213,
@@ -147227,7 +147234,7 @@
       {
         "contestId": 208,
         "index": "A",
-        "solvedCount": 73022
+        "solvedCount": 73024
       },
       {
         "contestId": 207,
@@ -147437,7 +147444,7 @@
       {
         "contestId": 200,
         "index": "B",
-        "solvedCount": 90528
+        "solvedCount": 90531
       },
       {
         "contestId": 200,
@@ -147452,7 +147459,7 @@
       {
         "contestId": 199,
         "index": "A",
-        "solvedCount": 21811
+        "solvedCount": 21812
       },
       {
         "contestId": 198,
@@ -147642,7 +147649,7 @@
       {
         "contestId": 189,
         "index": "A",
-        "solvedCount": 54276
+        "solvedCount": 54278
       },
       {
         "contestId": 188,
@@ -147822,7 +147829,7 @@
       {
         "contestId": 180,
         "index": "C",
-        "solvedCount": 6517
+        "solvedCount": 6518
       },
       {
         "contestId": 180,
@@ -148202,7 +148209,7 @@
       {
         "contestId": 166,
         "index": "E",
-        "solvedCount": 17947
+        "solvedCount": 17948
       },
       {
         "contestId": 166,
@@ -148247,7 +148254,7 @@
       {
         "contestId": 165,
         "index": "A",
-        "solvedCount": 20224
+        "solvedCount": 20225
       },
       {
         "contestId": 164,
@@ -148397,7 +148404,7 @@
       {
         "contestId": 160,
         "index": "A",
-        "solvedCount": 96743
+        "solvedCount": 96746
       },
       {
         "contestId": 159,
@@ -148442,12 +148449,12 @@
       {
         "contestId": 158,
         "index": "B",
-        "solvedCount": 73369
+        "solvedCount": 73371
       },
       {
         "contestId": 158,
         "index": "A",
-        "solvedCount": 197459
+        "solvedCount": 197468
       },
       {
         "contestId": 157,
@@ -148492,7 +148499,7 @@
       {
         "contestId": 155,
         "index": "A",
-        "solvedCount": 60604
+        "solvedCount": 60605
       },
       {
         "contestId": 154,
@@ -148577,7 +148584,7 @@
       {
         "contestId": 151,
         "index": "A",
-        "solvedCount": 53043
+        "solvedCount": 53047
       },
       {
         "contestId": 150,
@@ -148652,7 +148659,7 @@
       {
         "contestId": 148,
         "index": "A",
-        "solvedCount": 75003
+        "solvedCount": 75005
       },
       {
         "contestId": 147,
@@ -148822,7 +148829,7 @@
       {
         "contestId": 139,
         "index": "A",
-        "solvedCount": 23750
+        "solvedCount": 23751
       },
       {
         "contestId": 138,
@@ -148872,17 +148879,17 @@
       {
         "contestId": 137,
         "index": "A",
-        "solvedCount": 6533
+        "solvedCount": 6534
       },
       {
         "contestId": 136,
         "index": "B",
-        "solvedCount": 4391
+        "solvedCount": 4392
       },
       {
         "contestId": 136,
         "index": "A",
-        "solvedCount": 93589
+        "solvedCount": 93592
       },
       {
         "contestId": 135,
@@ -148932,7 +148939,7 @@
       {
         "contestId": 133,
         "index": "A",
-        "solvedCount": 87282
+        "solvedCount": 87285
       },
       {
         "contestId": 132,
@@ -148987,7 +148994,7 @@
       {
         "contestId": 131,
         "index": "A",
-        "solvedCount": 71680
+        "solvedCount": 71683
       },
       {
         "contestId": 130,
@@ -149142,7 +149149,7 @@
       {
         "contestId": 124,
         "index": "A",
-        "solvedCount": 31632
+        "solvedCount": 31634
       },
       {
         "contestId": 123,
@@ -149277,7 +149284,7 @@
       {
         "contestId": 119,
         "index": "A",
-        "solvedCount": 25366
+        "solvedCount": 25367
       },
       {
         "contestId": 118,
@@ -149302,7 +149309,7 @@
       {
         "contestId": 118,
         "index": "A",
-        "solvedCount": 157867
+        "solvedCount": 157870
       },
       {
         "contestId": 117,
@@ -149337,7 +149344,7 @@
       {
         "contestId": 116,
         "index": "A",
-        "solvedCount": 113303
+        "solvedCount": 113305
       },
       {
         "contestId": 115,
@@ -149362,7 +149369,7 @@
       {
         "contestId": 115,
         "index": "A",
-        "solvedCount": 29290
+        "solvedCount": 29291
       },
       {
         "contestId": 114,
@@ -149407,7 +149414,7 @@
       {
         "contestId": 112,
         "index": "A",
-        "solvedCount": 177715
+        "solvedCount": 177728
       },
       {
         "contestId": 111,
@@ -149442,7 +149449,7 @@
       {
         "contestId": 110,
         "index": "A",
-        "solvedCount": 118546
+        "solvedCount": 118549
       },
       {
         "contestId": 109,
@@ -149527,7 +149534,7 @@
       {
         "contestId": 106,
         "index": "A",
-        "solvedCount": 6961
+        "solvedCount": 6962
       },
       {
         "contestId": 105,
@@ -149737,7 +149744,7 @@
       {
         "contestId": 96,
         "index": "A",
-        "solvedCount": 128030
+        "solvedCount": 128033
       },
       {
         "contestId": 95,
@@ -149827,7 +149834,7 @@
       {
         "contestId": 91,
         "index": "B",
-        "solvedCount": 5848
+        "solvedCount": 5849
       },
       {
         "contestId": 91,
@@ -150047,7 +150054,7 @@
       {
         "contestId": 80,
         "index": "A",
-        "solvedCount": 40556
+        "solvedCount": 40558
       },
       {
         "contestId": 79,
@@ -150092,7 +150099,7 @@
       {
         "contestId": 78,
         "index": "B",
-        "solvedCount": 11276
+        "solvedCount": 11279
       },
       {
         "contestId": 78,
@@ -150177,7 +150184,7 @@
       {
         "contestId": 75,
         "index": "A",
-        "solvedCount": 21761
+        "solvedCount": 21763
       },
       {
         "contestId": 74,
@@ -150302,7 +150309,7 @@
       {
         "contestId": 71,
         "index": "A",
-        "solvedCount": 295538
+        "solvedCount": 295553
       },
       {
         "contestId": 70,
@@ -150352,7 +150359,7 @@
       {
         "contestId": 69,
         "index": "A",
-        "solvedCount": 132932
+        "solvedCount": 132934
       },
       {
         "contestId": 68,
@@ -150422,7 +150429,7 @@
       {
         "contestId": 66,
         "index": "B",
-        "solvedCount": 17525
+        "solvedCount": 17526
       },
       {
         "contestId": 66,
@@ -150497,7 +150504,7 @@
       {
         "contestId": 64,
         "index": "A",
-        "solvedCount": 1799
+        "solvedCount": 1800
       },
       {
         "contestId": 63,
@@ -150557,7 +150564,7 @@
       {
         "contestId": 61,
         "index": "D",
-        "solvedCount": 5604
+        "solvedCount": 5605
       },
       {
         "contestId": 61,
@@ -150572,7 +150579,7 @@
       {
         "contestId": 61,
         "index": "A",
-        "solvedCount": 88247
+        "solvedCount": 88250
       },
       {
         "contestId": 60,
@@ -150622,7 +150629,7 @@
       {
         "contestId": 59,
         "index": "A",
-        "solvedCount": 134829
+        "solvedCount": 134838
       },
       {
         "contestId": 58,
@@ -150647,7 +150654,7 @@
       {
         "contestId": 58,
         "index": "A",
-        "solvedCount": 106077
+        "solvedCount": 106079
       },
       {
         "contestId": 57,
@@ -150677,7 +150684,7 @@
       {
         "contestId": 56,
         "index": "E",
-        "solvedCount": 1893
+        "solvedCount": 1894
       },
       {
         "contestId": 56,
@@ -150777,7 +150784,7 @@
       {
         "contestId": 52,
         "index": "C",
-        "solvedCount": 6949
+        "solvedCount": 6950
       },
       {
         "contestId": 52,
@@ -150842,7 +150849,7 @@
       {
         "contestId": 50,
         "index": "A",
-        "solvedCount": 192473
+        "solvedCount": 192476
       },
       {
         "contestId": 49,
@@ -150867,7 +150874,7 @@
       {
         "contestId": 49,
         "index": "A",
-        "solvedCount": 11759
+        "solvedCount": 11761
       },
       {
         "contestId": 48,
@@ -151092,7 +151099,7 @@
       {
         "contestId": 43,
         "index": "A",
-        "solvedCount": 43204
+        "solvedCount": 43206
       },
       {
         "contestId": 42,
@@ -151122,7 +151129,7 @@
       {
         "contestId": 41,
         "index": "E",
-        "solvedCount": 1718
+        "solvedCount": 1719
       },
       {
         "contestId": 41,
@@ -151142,7 +151149,7 @@
       {
         "contestId": 41,
         "index": "A",
-        "solvedCount": 112952
+        "solvedCount": 112953
       },
       {
         "contestId": 40,
@@ -151262,7 +151269,7 @@
       {
         "contestId": 38,
         "index": "A",
-        "solvedCount": 17521
+        "solvedCount": 17523
       },
       {
         "contestId": 37,
@@ -151312,7 +151319,7 @@
       {
         "contestId": 36,
         "index": "A",
-        "solvedCount": 2711
+        "solvedCount": 2712
       },
       {
         "contestId": 35,
@@ -151337,7 +151344,7 @@
       {
         "contestId": 35,
         "index": "A",
-        "solvedCount": 6144
+        "solvedCount": 6145
       },
       {
         "contestId": 34,
@@ -151357,7 +151364,7 @@
       {
         "contestId": 34,
         "index": "B",
-        "solvedCount": 40449
+        "solvedCount": 40450
       },
       {
         "contestId": 34,
@@ -151407,7 +151414,7 @@
       {
         "contestId": 32,
         "index": "B",
-        "solvedCount": 48303
+        "solvedCount": 48304
       },
       {
         "contestId": 32,
@@ -151587,7 +151594,7 @@
       {
         "contestId": 25,
         "index": "A",
-        "solvedCount": 70179
+        "solvedCount": 70180
       },
       {
         "contestId": 24,
@@ -151662,7 +151669,7 @@
       {
         "contestId": 22,
         "index": "A",
-        "solvedCount": 17940
+        "solvedCount": 17941
       },
       {
         "contestId": 21,
@@ -151737,7 +151744,7 @@
       {
         "contestId": 18,
         "index": "C",
-        "solvedCount": 11113
+        "solvedCount": 11114
       },
       {
         "contestId": 18,
@@ -151777,7 +151784,7 @@
       {
         "contestId": 16,
         "index": "E",
-        "solvedCount": 3830
+        "solvedCount": 3832
       },
       {
         "contestId": 16,
@@ -151972,7 +151979,7 @@
       {
         "contestId": 9,
         "index": "A",
-        "solvedCount": 43255
+        "solvedCount": 43258
       },
       {
         "contestId": 8,
@@ -152082,7 +152089,7 @@
       {
         "contestId": 4,
         "index": "C",
-        "solvedCount": 64923
+        "solvedCount": 64924
       },
       {
         "contestId": 4,
@@ -152092,7 +152099,7 @@
       {
         "contestId": 4,
         "index": "A",
-        "solvedCount": 401181
+        "solvedCount": 401195
       },
       {
         "contestId": 3,
@@ -152142,7 +152149,7 @@
       {
         "contestId": 1,
         "index": "A",
-        "solvedCount": 213060
+        "solvedCount": 213065
       }
     ]
   }
