@@ -26,7 +26,7 @@ jobs:
 
       - name: Crawl data from Codeforces Web site
         run: python crawl_problems.py --mode all
-        timeout-minutes: 240 # 4 hours
+        timeout-minutes: 360 # 6 hours
         working-directory: scripts/
 
       - name: Merge of API and crawled data
