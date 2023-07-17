@@ -44,4 +44,3 @@ jobs:
           git add -A
           git commit -am "Update data.json (By Github Actions)" || exit 0
           git push
-```
