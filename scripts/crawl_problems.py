@@ -131,7 +131,7 @@ def get_solved_count(soup, contest_id: int):
                     {
                         "contestId": contest_id,
                         "index": problem_id,
-                        "solved_count": solved_count,
+                        "solvedCount": solved_count,
                     }
                 )
 
