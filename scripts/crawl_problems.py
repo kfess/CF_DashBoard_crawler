@@ -1,9 +1,12 @@
+import argparse
+import json
 import re
 import time
-import json
 from tqdm import tqdm
 import requests
 from bs4 import BeautifulSoup
+
+from merge_problems import merge_problems, merge_problem_stats
 
 SLEEP = 1  # seconds
 
@@ -195,12 +198,25 @@ def main():
     """
     Main function to crawl and print problem data from Codeforces.
     """
-    avail_contest_ids = get_avail_contest_ids()
+    parser = argparse.ArgumentParser(description="Crawl problem data from Codeforces.")
+    parser.add_argument(
+        "--mode",
+        choices=["all", "daily_update"],
+        help="Operation mode. 'all' to fetch all problems, 'daily_update' to fetch recent problems only.",
+    )
+    args = parser.parse_args()
+
+    if args.mode == "all":
+        avail_contest_ids = get_avail_contest_ids()
+    elif args.mode == "daily_update":
+        avail_contest_ids = get_avail_contest_ids()[
+            :20
+        ]  # Assuming the 20 most recent contests are returned first
 
     all_problems_info = []
     all_problems_stats_info = []
 
-    for contest_id in tqdm(avail_contest_ids[275:375]):
+    for contest_id in tqdm(avail_contest_ids):
         soup = get_contest_page_content(contest_id)
 
         problem_stats_info = get_solved_count(soup, contest_id)
@@ -210,6 +226,23 @@ def main():
         for url, name in problem_links_names:
             all_problems_info.append(get_problem_info(url, name))
             time.sleep(SLEEP)
+
+    if args.mode == "daily_update":
+        try:
+            with open("crawl_problems.json", "r") as f:
+                existing_data = json.load(f)
+        except FileNotFoundError:
+            existing_data = {
+                "status": "OK",
+                "result": {"problems": [], "problemStatistics": []},
+            }
+        existing_problems = existing_data["result"]["problems"]
+        existing_problem_stats = existing_data["result"]["problemStatistics"]
+
+        all_problems_info = merge_problems(existing_problems, all_problems_info)
+        all_problems_stats_info = merge_problem_stats(
+            existing_problem_stats, all_problems_stats_info
+        )
 
     output = {
         "status": "OK",
