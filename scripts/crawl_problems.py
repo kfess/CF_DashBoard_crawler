@@ -120,7 +120,7 @@ def get_solved_count(soup, contest_id: int):
         )
         if problem_link_elem:
             href = problem_link_elem.get("href")
-            solved_count = None
+            solved_count = 0
             if solved_count_element:
                 solved_count = int(
                     re.search(r"x(\d+)", solved_count_element.text).group(1)
