@@ -140,7 +140,19 @@ def get_solved_count(soup, contest_id: int):
 
 def get_problem_info(problem_url: str, problem_name: str = None):
     """
-    問題ページから問題の情報を取得する。
+    Fetch problem information from a given problem page URL.
+
+    Parameters
+    ----------
+    problem_url : str
+        The URL of the problem page.
+    problem_name : str, optional
+        The name of the problem, if already known.
+
+    Returns
+    -------
+    dict
+        A dictionary containing the problem information.
     """
     response = make_request(problem_url)
 
@@ -149,11 +161,9 @@ def get_problem_info(problem_url: str, problem_name: str = None):
     except Exception as e:
         raise Exception(f"Failed to parse HTML from {problem_url}") from e
 
-    # contestId and index are directly derived from the URL
     contest_id = int(problem_url.split("/")[-3])
     index = problem_url.split("/")[-1]
 
-    # name is derived from the problem_name argument if provided, otherwise from the problem statement header
     if not problem_name:
         try:
             problem_name = (
@@ -165,31 +175,31 @@ def get_problem_info(problem_url: str, problem_name: str = None):
         except AttributeError:
             problem_name = None
 
-    # tags are derived from the tag-box element
-    try:
-        tags = [tag.text.strip() for tag in soup.select(".tag-box")]
-    except AttributeError:
-        tags = []
+    tags = [tag.text.strip() for tag in soup.select(".tag-box")]
 
-    # points are extracted from the tags
+    # Extract points from tags and remove it from tags list
     points = None
     for tag in tags:
-        if tag == "*special problem":
-            tags.remove(tag)
-            tags.append("*special")
         if "*" in tag and tag != "*special problem" and tag != "*special":
             points = int(re.search(r"\*(\d+)", tag).group(1))
             tags.remove(tag)
             break
+
+    # Special problems are tagged as "*special" instead of "*special problem"
+    if "*special problem" in tags:
+        tags[tags.index("*special problem")] = "*special"
 
     problem_info = {
         "contestId": contest_id,
         "index": index,
         "name": problem_name,
         "type": "PROGRAMMING",
-        "points": points,
         "tags": tags,
     }
+
+    # Only add points to the dictionary if it's not None
+    if points is not None:
+        problem_info["points"] = points
 
     return problem_info
 
