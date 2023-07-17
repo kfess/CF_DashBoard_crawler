@@ -3,8 +3,29 @@ import json
 
 
 def main():
-    problem_response = requests.get("https://codeforces.com/api/problemset.problems")
-    problem_data = problem_response.json()
+    """
+    Main function to fetch problem set from Codeforces API and save it to a file.
+
+    Raises
+    ------
+    Exception
+        If the request fails or if the response status code is not 200.
+    """
+    url = "https://codeforces.com/api/problemset.problems"
+
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        raise Exception(f"Failed to access {url}") from e
+
+    try:
+        problem_data = response.json()
+    except ValueError as e:
+        raise Exception(f"Failed to decode response from {url}") from e
+
+    if problem_data["status"] != "OK":
+        raise Exception(f"Unexpected response from {url}")
 
     with open("api_problems.json", "w") as f:
         json.dump(problem_data, f, indent=2)
