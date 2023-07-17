@@ -1,0 +1,52 @@
+name: Crawl Codeforces Web site and update problems data
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  crawl_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch API from Codeforces API
+        run: python fetch_problems.py
+        timeout-minutes: 3 # 3 minutes
+        working-directory: scripts/
+
+      - name: Crawl data from Codeforces Web site
+        run: python crawl_problems.py --mode daily_update
+        timeout-minutes: 60 # 1 hour
+        working-directory: scripts/
+
+      - name: Merge of API and crawled data
+        run: python merge_problems.py
+        working-directory: scripts/
+
+      - name: git setting
+        run: |
+          git config --global user.name "Github Actions"
+          git config --global user.email "github-actions[bot]@github.com"
+
+      - name: Commit and push if it changed
+        run: |
+          git pull
+          git add -A
+          git commit -am "Update data.json (By Github Actions)" || exit 0
+          git push
+```

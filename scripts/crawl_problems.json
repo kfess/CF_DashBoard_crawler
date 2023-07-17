@@ -8,9 +8,7 @@
         "name": "Cherry",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy"
-        ]
+        "tags": ["greedy"]
       },
       {
         "contestId": 1554,
@@ -18,12 +16,7 @@
         "name": "Cobb",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "greedy",
-          "math"
-        ]
+        "tags": ["bitmasks", "brute force", "greedy", "math"]
       },
       {
         "contestId": 1554,
@@ -31,12 +24,7 @@
         "name": "Mikasa",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "binary search",
-          "bitmasks",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["binary search", "bitmasks", "greedy", "implementation"]
       },
       {
         "contestId": 1554,
@@ -44,11 +32,7 @@
         "name": "Diane",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "strings"
-        ]
+        "tags": ["constructive algorithms", "greedy", "strings"]
       },
       {
         "contestId": 1554,
@@ -56,12 +40,7 @@
         "name": "You",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "dfs and similar",
-          "dp",
-          "math",
-          "number theory"
-        ]
+        "tags": ["dfs and similar", "dp", "math", "number theory"]
       },
       {
         "contestId": 1553,
@@ -69,10 +48,7 @@
         "name": "Digits Sum",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1553,
@@ -80,13 +56,7 @@
         "name": "Reverse String",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "brute force",
-          "dp",
-          "hashing",
-          "implementation",
-          "strings"
-        ]
+        "tags": ["brute force", "dp", "hashing", "implementation", "strings"]
       },
       {
         "contestId": 1553,
@@ -94,12 +64,7 @@
         "name": "Penalty",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["bitmasks", "brute force", "dp", "greedy"]
       },
       {
         "contestId": 1553,
@@ -107,12 +72,7 @@
         "name": "Backspace",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "dp",
-          "greedy",
-          "strings",
-          "two pointers"
-        ]
+        "tags": ["dp", "greedy", "strings", "two pointers"]
       },
       {
         "contestId": 1553,
@@ -136,10 +96,7 @@
         "name": "Pairwise Modulo",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "data structures",
-          "math"
-        ]
+        "tags": ["data structures", "math"]
       },
       {
         "contestId": 1553,
@@ -163,11 +120,7 @@
         "name": "XOR and Distance",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "bitmasks",
-          "divide and conquer",
-          "trees"
-        ]
+        "tags": ["bitmasks", "divide and conquer", "trees"]
       },
       {
         "contestId": 1553,
@@ -175,13 +128,7 @@
         "name": "Stairs",
         "type": "PROGRAMMING",
         "points": 3400,
-        "tags": [
-          "combinatorics",
-          "divide and conquer",
-          "dp",
-          "fft",
-          "math"
-        ]
+        "tags": ["combinatorics", "divide and conquer", "dp", "fft", "math"]
       },
       {
         "contestId": 1552,
@@ -189,10 +136,7 @@
         "name": "Subsequence Permutation",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "sortings",
-          "strings"
-        ]
+        "tags": ["sortings", "strings"]
       },
       {
         "contestId": 1552,
@@ -200,12 +144,7 @@
         "name": "Running for Gold",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "combinatorics",
-          "graphs",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["combinatorics", "graphs", "greedy", "sortings"]
       },
       {
         "contestId": 1552,
@@ -256,12 +195,7 @@
         "name": "Telepanting",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "binary search",
-          "data structures",
-          "dp",
-          "sortings"
-        ]
+        "tags": ["binary search", "data structures", "dp", "sortings"]
       },
       {
         "contestId": 1552,
@@ -269,12 +203,7 @@
         "name": "A Serious Referee",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "dfs and similar",
-          "sortings"
-        ]
+        "tags": ["bitmasks", "brute force", "dfs and similar", "sortings"]
       },
       {
         "contestId": 1552,
@@ -282,11 +211,7 @@
         "name": "Guess the Perimeter",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "binary search",
-          "interactive",
-          "number theory"
-        ]
+        "tags": ["binary search", "interactive", "number theory"]
       },
       {
         "contestId": 1552,
@@ -294,10 +219,7 @@
         "name": "Organizing a Music Festival",
         "type": "PROGRAMMING",
         "points": 3400,
-        "tags": [
-          "dfs and similar",
-          "math"
-        ]
+        "tags": ["dfs and similar", "math"]
       },
       {
         "contestId": 1551,
@@ -305,10 +227,7 @@
         "name": "Polycarp and Coins",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1551,
@@ -316,10 +235,7 @@
         "name": "Wonderful Coloring - 1",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "strings"
-        ]
+        "tags": ["greedy", "strings"]
       },
       {
         "contestId": 1551,
@@ -340,11 +256,7 @@
         "name": "Interesting Story",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "greedy",
-          "sortings",
-          "strings"
-        ]
+        "tags": ["greedy", "sortings", "strings"]
       },
       {
         "contestId": 1551,
@@ -352,10 +264,7 @@
         "name": "Domino (easy version)",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1551,
@@ -363,11 +272,7 @@
         "name": "Domino (hard version)",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "constructive algorithms",
-          "implementation",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "implementation", "math"]
       },
       {
         "contestId": 1551,
@@ -375,11 +280,7 @@
         "name": "Fixed Points",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "binary search",
-          "brute force",
-          "dp"
-        ]
+        "tags": ["binary search", "brute force", "dp"]
       },
       {
         "contestId": 1551,
@@ -401,10 +302,7 @@
         "name": "Find The Array",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1550,
@@ -412,10 +310,7 @@
         "name": "Maximum Cost Deletion",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1550,
@@ -423,12 +318,7 @@
         "name": "Manhattan Subarrays",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "brute force",
-          "geometry",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["brute force", "geometry", "greedy", "implementation"]
       },
       {
         "contestId": 1550,
@@ -483,10 +373,7 @@
         "name": "Gregor and Cryptography",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1549,
@@ -510,10 +397,7 @@
         "name": "Web of Lies",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["graphs", "greedy"]
       },
       {
         "contestId": 1549,
@@ -521,12 +405,7 @@
         "name": "Integers Have Friends",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "binary search",
-          "data structures",
-          "math",
-          "two pointers"
-        ]
+        "tags": ["binary search", "data structures", "math", "two pointers"]
       },
       {
         "contestId": 1549,
@@ -534,12 +413,7 @@
         "name": "The Three Little Pigs",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "fft",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "fft", "math"]
       },
       {
         "contestId": 1549,
@@ -547,10 +421,7 @@
         "name": "Gregor and the Odd Cows (Easy)",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "geometry",
-          "number theory"
-        ]
+        "tags": ["geometry", "number theory"]
       },
       {
         "contestId": 1549,
@@ -558,10 +429,7 @@
         "name": "Gregor and the Odd Cows (Hard)",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "geometry",
-          "number theory"
-        ]
+        "tags": ["geometry", "number theory"]
       },
       {
         "contestId": 1548,
@@ -569,11 +437,7 @@
         "name": "Web of Lies",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "brute force",
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["brute force", "graphs", "greedy"]
       },
       {
         "contestId": 1548,
@@ -596,12 +460,7 @@
         "name": "The Three Little Pigs",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "fft",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "fft", "math"]
       },
       {
         "contestId": 1548,
@@ -609,12 +468,7 @@
         "name": "Gregor and the Odd Cows (Easy)",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "bitmasks",
-          "geometry",
-          "math",
-          "number theory"
-        ]
+        "tags": ["bitmasks", "geometry", "math", "number theory"]
       },
       {
         "contestId": 1548,
@@ -622,12 +476,7 @@
         "name": "Gregor and the Odd Cows (Hard)",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "brute force",
-          "geometry",
-          "math",
-          "number theory"
-        ]
+        "tags": ["brute force", "geometry", "math", "number theory"]
       },
       {
         "contestId": 1548,
@@ -649,10 +498,7 @@
         "name": "Shortest Path with Obstacle",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation",
-          "math"
-        ]
+        "tags": ["implementation", "math"]
       },
       {
         "contestId": 1547,
@@ -660,11 +506,7 @@
         "name": "Alphabetical Strings",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "implementation",
-          "strings"
-        ]
+        "tags": ["greedy", "implementation", "strings"]
       },
       {
         "contestId": 1547,
@@ -672,10 +514,7 @@
         "name": "Pair Programming",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "greedy",
-          "two pointers"
-        ]
+        "tags": ["greedy", "two pointers"]
       },
       {
         "contestId": 1547,
@@ -683,11 +522,7 @@
         "name": "Co-growing Sequence",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["bitmasks", "constructive algorithms", "greedy"]
       },
       {
         "contestId": 1547,
@@ -725,12 +560,7 @@
         "name": "How Many Paths?",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "dfs and similar",
-          "dp",
-          "graphs",
-          "trees"
-        ]
+        "tags": ["dfs and similar", "dp", "graphs", "trees"]
       },
       {
         "contestId": 1546,
@@ -738,10 +568,7 @@
         "name": "AquaMoon and Two Arrays",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "greedy"
-        ]
+        "tags": ["brute force", "greedy"]
       },
       {
         "contestId": 1546,
@@ -749,10 +576,7 @@
         "name": "AquaMoon and Stolen String",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "interactive",
-          "math"
-        ]
+        "tags": ["interactive", "math"]
       },
       {
         "contestId": 1546,
@@ -760,9 +584,7 @@
         "name": "AquaMoon and Strange Sort",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "sortings"
-        ]
+        "tags": ["sortings"]
       },
       {
         "contestId": 1546,
@@ -770,10 +592,7 @@
         "name": "AquaMoon and Chess",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "combinatorics",
-          "math"
-        ]
+        "tags": ["combinatorics", "math"]
       },
       {
         "contestId": 1546,
@@ -781,10 +600,7 @@
         "name": "AquaMoon and Permutations",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "combinatorics",
-          "graphs"
-        ]
+        "tags": ["combinatorics", "graphs"]
       },
       {
         "contestId": 1546,
@@ -792,10 +608,7 @@
         "name": "AquaMoon and Wrong Coordinate",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "interactive",
-          "math"
-        ]
+        "tags": ["interactive", "math"]
       },
       {
         "contestId": 1545,
@@ -803,9 +616,7 @@
         "name": "AquaMoon and Strange Sort",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "sortings"
-        ]
+        "tags": ["sortings"]
       },
       {
         "contestId": 1545,
@@ -813,10 +624,7 @@
         "name": "AquaMoon and Chess",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "combinatorics",
-          "math"
-        ]
+        "tags": ["combinatorics", "math"]
       },
       {
         "contestId": 1545,
@@ -839,11 +647,7 @@
         "name": "AquaMoon and Wrong Coordinate",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "constructive algorithms",
-          "interactive",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "interactive", "math"]
       },
       {
         "contestId": 1545,
@@ -851,10 +655,7 @@
         "name": "AquaMoon and Time Stop (easy version)",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "data structures",
-          "dp"
-        ]
+        "tags": ["data structures", "dp"]
       },
       {
         "contestId": 1545,
@@ -862,10 +663,7 @@
         "name": "AquaMoon and Time Stop (hard version)",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "data structures",
-          "dp"
-        ]
+        "tags": ["data structures", "dp"]
       },
       {
         "contestId": 1545,
@@ -873,11 +671,7 @@
         "name": "AquaMoon and Potatoes",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "brute force",
-          "data structures",
-          "dp"
-        ]
+        "tags": ["brute force", "data structures", "dp"]
       },
       {
         "contestId": 1544,
@@ -885,9 +679,7 @@
         "name": "Binary Decimal",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math"
-        ]
+        "tags": ["math"]
       },
       {
         "contestId": 1544,
@@ -895,9 +687,7 @@
         "name": "Putting Plates",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms"
-        ]
+        "tags": ["constructive algorithms"]
       },
       {
         "contestId": 1544,
@@ -905,10 +695,7 @@
         "name": "Pursuit",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "binary search",
-          "sortings"
-        ]
+        "tags": ["binary search", "sortings"]
       },
       {
         "contestId": 1544,
@@ -916,11 +703,7 @@
         "name": "Secret Santa",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "graphs",
-          "greedy",
-          "math"
-        ]
+        "tags": ["graphs", "greedy", "math"]
       },
       {
         "contestId": 1544,
@@ -943,11 +726,7 @@
         "name": "Bingo",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "probabilities"
-        ]
+        "tags": ["bitmasks", "brute force", "probabilities"]
       },
       {
         "contestId": 1544,
@@ -955,9 +734,7 @@
         "name": "What a Reversal",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "constructive algorithms"
-        ]
+        "tags": ["constructive algorithms"]
       },
       {
         "contestId": 1544,
@@ -965,9 +742,7 @@
         "name": "Turing's Award",
         "type": "PROGRAMMING",
         "points": 3400,
-        "tags": [
-          "dp"
-        ]
+        "tags": ["dp"]
       },
       {
         "contestId": 1543,
@@ -975,11 +750,7 @@
         "name": "Exciting Bets",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "greedy",
-          "math",
-          "number theory"
-        ]
+        "tags": ["greedy", "math", "number theory"]
       },
       {
         "contestId": 1543,
@@ -987,11 +758,7 @@
         "name": "Customising the Track",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "combinatorics",
-          "greedy",
-          "math"
-        ]
+        "tags": ["combinatorics", "greedy", "math"]
       },
       {
         "contestId": 1543,
@@ -1014,12 +781,7 @@
         "name": "RPD and Rap Sheet (Easy Version)",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms",
-          "interactive",
-          "math"
-        ]
+        "tags": ["bitmasks", "constructive algorithms", "interactive", "math"]
       },
       {
         "contestId": 1543,
@@ -1055,9 +817,7 @@
         "name": "Odd Set",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math"
-        ]
+        "tags": ["math"]
       },
       {
         "contestId": 1542,
@@ -1065,11 +825,7 @@
         "name": "Plus and Multiply",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1542,
@@ -1077,10 +833,7 @@
         "name": "Strange Function",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1542,
@@ -1102,12 +855,7 @@
         "name": "Abnormal Permutation Pairs (easy version)",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "fft",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "fft", "math"]
       },
       {
         "contestId": 1542,
@@ -1115,12 +863,7 @@
         "name": "Abnormal Permutation Pairs (hard version)",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "fft",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "fft", "math"]
       },
       {
         "contestId": 1541,
@@ -1128,11 +871,7 @@
         "name": "Pretty Permutations",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["constructive algorithms", "greedy", "implementation"]
       },
       {
         "contestId": 1541,
@@ -1140,12 +879,7 @@
         "name": "Pleasant Pairs",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "brute force",
-          "implementation",
-          "math",
-          "number theory"
-        ]
+        "tags": ["brute force", "implementation", "math", "number theory"]
       },
       {
         "contestId": 1541,
@@ -1182,10 +916,7 @@
         "name": "Converging Array (Easy Version)",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "dp",
-          "math"
-        ]
+        "tags": ["dp", "math"]
       },
       {
         "contestId": 1541,
@@ -1193,10 +924,7 @@
         "name": "Converging Array (Hard Version)",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "dp",
-          "math"
-        ]
+        "tags": ["dp", "math"]
       },
       {
         "contestId": 1540,
@@ -1234,10 +962,7 @@
         "name": "Converging Array (Easy Version)",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "dp",
-          "math"
-        ]
+        "tags": ["dp", "math"]
       },
       {
         "contestId": 1540,
@@ -1245,10 +970,7 @@
         "name": "Converging Array (Hard Version)",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "dp",
-          "math"
-        ]
+        "tags": ["dp", "math"]
       },
       {
         "contestId": 1540,
@@ -1256,11 +978,7 @@
         "name": "Inverse Inversions",
         "type": "PROGRAMMING",
         "points": 3200,
-        "tags": [
-          "binary search",
-          "brute force",
-          "data structures"
-        ]
+        "tags": ["binary search", "brute force", "data structures"]
       },
       {
         "contestId": 1540,
@@ -1268,10 +986,7 @@
         "name": "Tasty Dishes",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "math",
-          "matrices"
-        ]
+        "tags": ["math", "matrices"]
       },
       {
         "contestId": 1539,
@@ -1279,12 +994,7 @@
         "name": "Contest Start",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "combinatorics",
-          "geometry",
-          "greedy",
-          "math"
-        ]
+        "tags": ["combinatorics", "geometry", "greedy", "math"]
       },
       {
         "contestId": 1539,
@@ -1292,11 +1002,7 @@
         "name": "Love Song",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "dp",
-          "implementation",
-          "strings"
-        ]
+        "tags": ["dp", "implementation", "strings"]
       },
       {
         "contestId": 1539,
@@ -1304,10 +1010,7 @@
         "name": "Stable Groups",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["greedy", "sortings"]
       },
       {
         "contestId": 1539,
@@ -1344,11 +1047,7 @@
         "name": "Strange Array",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "data structures",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["data structures", "greedy", "sortings"]
       },
       {
         "contestId": 1538,
@@ -1356,11 +1055,7 @@
         "name": "Stone Game",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["brute force", "dp", "greedy"]
       },
       {
         "contestId": 1538,
@@ -1368,10 +1063,7 @@
         "name": "Friends and Candies",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1538,
@@ -1379,12 +1071,7 @@
         "name": "Number of Pairs",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "binary search",
-          "data structures",
-          "math",
-          "two pointers"
-        ]
+        "tags": ["binary search", "data structures", "math", "two pointers"]
       },
       {
         "contestId": 1538,
@@ -1392,11 +1079,7 @@
         "name": "Another Problem About Dividing Numbers",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1538,
@@ -1418,12 +1101,7 @@
         "name": "Interesting Function",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "binary search",
-          "dp",
-          "math",
-          "number theory"
-        ]
+        "tags": ["binary search", "dp", "math", "number theory"]
       },
       {
         "contestId": 1538,
@@ -1431,12 +1109,7 @@
         "name": "Gift Set",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "binary search",
-          "greedy",
-          "math",
-          "ternary search"
-        ]
+        "tags": ["binary search", "greedy", "math", "ternary search"]
       },
       {
         "contestId": 1537,
@@ -1444,10 +1117,7 @@
         "name": "Arithmetic Array",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1537,
@@ -1455,11 +1125,7 @@
         "name": "Bad Boy",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1537,
@@ -1467,12 +1133,7 @@
         "name": "Challenging Cliffs",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "implementation",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "greedy", "implementation", "math"]
       },
       {
         "contestId": 1537,
@@ -1480,11 +1141,7 @@
         "name": "Deleting Divisors",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "games",
-          "math",
-          "number theory"
-        ]
+        "tags": ["games", "math", "number theory"]
       },
       {
         "contestId": 1537,
@@ -1541,10 +1198,7 @@
         "name": "Omkar and Bad Story",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "constructive algorithms"
-        ]
+        "tags": ["brute force", "constructive algorithms"]
       },
       {
         "contestId": 1536,
@@ -1552,11 +1206,7 @@
         "name": "Prinzessin der Verurteilung",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "brute force",
-          "constructive algorithms",
-          "strings"
-        ]
+        "tags": ["brute force", "constructive algorithms", "strings"]
       },
       {
         "contestId": 1536,
@@ -1564,12 +1214,7 @@
         "name": "Diluc and Kaeya",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "data structures",
-          "dp",
-          "hashing",
-          "number theory"
-        ]
+        "tags": ["data structures", "dp", "hashing", "number theory"]
       },
       {
         "contestId": 1536,
@@ -1577,11 +1222,7 @@
         "name": "Omkar and Medians",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "data structures",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["data structures", "greedy", "implementation"]
       },
       {
         "contestId": 1536,
@@ -1589,12 +1230,7 @@
         "name": "Omkar and Forest",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "combinatorics",
-          "graphs",
-          "math",
-          "shortest paths"
-        ]
+        "tags": ["combinatorics", "graphs", "math", "shortest paths"]
       },
       {
         "contestId": 1536,
@@ -1620,10 +1256,7 @@
         "name": "Fair Playoff",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "implementation"
-        ]
+        "tags": ["brute force", "implementation"]
       },
       {
         "contestId": 1535,
@@ -1631,13 +1264,7 @@
         "name": "Array Reodering",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "brute force",
-          "greedy",
-          "math",
-          "number theory",
-          "sortings"
-        ]
+        "tags": ["brute force", "greedy", "math", "number theory", "sortings"]
       },
       {
         "contestId": 1535,
@@ -1704,10 +1331,7 @@
         "name": "Colour the Flag",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "implementation"
-        ]
+        "tags": ["brute force", "implementation"]
       },
       {
         "contestId": 1534,
@@ -1715,11 +1339,7 @@
         "name": "Histogram Ugliness",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "greedy",
-          "implementation",
-          "math"
-        ]
+        "tags": ["greedy", "implementation", "math"]
       },
       {
         "contestId": 1534,
@@ -1727,13 +1347,7 @@
         "name": "Little Alawn's Puzzle",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "dsu",
-          "graphs",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "dsu", "graphs", "math"]
       },
       {
         "contestId": 1534,
@@ -1741,11 +1355,7 @@
         "name": "Lost Tree",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "constructive algorithms",
-          "interactive",
-          "trees"
-        ]
+        "tags": ["constructive algorithms", "interactive", "trees"]
       },
       {
         "contestId": 1534,
@@ -1753,12 +1363,7 @@
         "name": "Lost Array",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "graphs",
-          "greedy",
-          "interactive",
-          "shortest paths"
-        ]
+        "tags": ["graphs", "greedy", "interactive", "shortest paths"]
       },
       {
         "contestId": 1534,
@@ -1766,11 +1371,7 @@
         "name": "Falling Sand (Easy Version)",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "dfs and similar",
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["dfs and similar", "graphs", "greedy"]
       },
       {
         "contestId": 1534,
@@ -1778,12 +1379,7 @@
         "name": "Falling Sand (Hard Version)",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "dfs and similar",
-          "dp",
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["dfs and similar", "dp", "graphs", "greedy"]
       },
       {
         "contestId": 1534,
@@ -1791,12 +1387,7 @@
         "name": "A New Beginning",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "data structures",
-          "dp",
-          "geometry",
-          "sortings"
-        ]
+        "tags": ["data structures", "dp", "geometry", "sortings"]
       },
       {
         "contestId": 1534,
@@ -1819,11 +1410,7 @@
         "name": "Travel to Bertown",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "implementation",
-          "math",
-          "*special"
-        ]
+        "tags": ["implementation", "math", "*special"]
       },
       {
         "contestId": 1533,
@@ -1831,10 +1418,7 @@
         "name": "Nearest Point Function",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "implementation",
-          "*special"
-        ]
+        "tags": ["implementation", "*special"]
       },
       {
         "contestId": 1533,
@@ -1842,11 +1426,7 @@
         "name": "Sweets",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "data structures",
-          "implementation",
-          "*special"
-        ]
+        "tags": ["data structures", "implementation", "*special"]
       },
       {
         "contestId": 1533,
@@ -1854,10 +1434,7 @@
         "name": "String Searching",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "hashing",
-          "*special"
-        ]
+        "tags": ["hashing", "*special"]
       },
       {
         "contestId": 1533,
@@ -1865,12 +1442,7 @@
         "name": "Chess Team Forming",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "binary search",
-          "data structures",
-          "greedy",
-          "*special"
-        ]
+        "tags": ["binary search", "data structures", "greedy", "*special"]
       },
       {
         "contestId": 1533,
@@ -1878,11 +1450,7 @@
         "name": "Binary String Partition",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "binary search",
-          "greedy",
-          "*special"
-        ]
+        "tags": ["binary search", "greedy", "*special"]
       },
       {
         "contestId": 1533,
@@ -1903,12 +1471,7 @@
         "name": "Submatrices",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "bitmasks",
-          "data structures",
-          "dp",
-          "*special"
-        ]
+        "tags": ["bitmasks", "data structures", "dp", "*special"]
       },
       {
         "contestId": 1533,
@@ -1931,9 +1494,7 @@
         "name": "Pawns",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special"
-        ]
+        "tags": ["*special"]
       },
       {
         "contestId": 1532,
@@ -1941,9 +1502,7 @@
         "name": "A+B (Trial Problem)",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special"
-        ]
+        "tags": ["*special"]
       },
       {
         "contestId": 1532,
@@ -1951,10 +1510,7 @@
         "name": "Frog Jumping",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "math",
-          "*special"
-        ]
+        "tags": ["math", "*special"]
       },
       {
         "contestId": 1532,
@@ -1962,10 +1518,7 @@
         "name": "Uniform String",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "implementation",
-          "*special"
-        ]
+        "tags": ["implementation", "*special"]
       },
       {
         "contestId": 1532,
@@ -1973,10 +1526,7 @@
         "name": "Teams Forming",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "sortings",
-          "*special"
-        ]
+        "tags": ["sortings", "*special"]
       },
       {
         "contestId": 1532,
@@ -1984,9 +1534,7 @@
         "name": "Good Array",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special"
-        ]
+        "tags": ["*special"]
       },
       {
         "contestId": 1532,
@@ -1994,10 +1542,7 @@
         "name": "Prefixes and Suffixes",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "strings",
-          "*special"
-        ]
+        "tags": ["strings", "*special"]
       },
       {
         "contestId": 1531,
@@ -2005,10 +1550,7 @@
         "name": "\u0417\u0438\u043d\u0433\u0435\u0440 | color",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "implementation",
-          "*special"
-        ]
+        "tags": ["implementation", "*special"]
       },
       {
         "contestId": 1531,
@@ -2016,10 +1558,7 @@
         "name": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special problem",
-          "*special"
-        ]
+        "tags": ["*special problem", "*special"]
       },
       {
         "contestId": 1531,
@@ -2027,9 +1566,7 @@
         "name": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special"
-        ]
+        "tags": ["*special"]
       },
       {
         "contestId": 1531,
@@ -2037,11 +1574,7 @@
         "name": "\u0421\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u044b\u0439 \u0430\u043c\u0444\u0438\u0442\u0435\u0430\u0442\u0440",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "constructive algorithms",
-          "dp",
-          "*special"
-        ]
+        "tags": ["constructive algorithms", "dp", "*special"]
       },
       {
         "contestId": 1531,
@@ -2049,10 +1582,7 @@
         "name": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u0443\u0435\u043c \u0417\u0438\u043d\u0433\u0435\u0440 | color",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special problem",
-          "*special"
-        ]
+        "tags": ["*special problem", "*special"]
       },
       {
         "contestId": 1531,
@@ -2060,9 +1590,7 @@
         "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u043b\u0438\u044f\u043d\u0438\u0435\u043c",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special"
-        ]
+        "tags": ["*special"]
       },
       {
         "contestId": 1531,
@@ -2070,11 +1598,7 @@
         "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u043b\u0438\u044f\u043d\u0438\u0435\u043c",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special problem",
-          "brute force",
-          "*special"
-        ]
+        "tags": ["*special problem", "brute force", "*special"]
       },
       {
         "contestId": 1531,
@@ -2082,10 +1606,7 @@
         "name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u043b\u0438\u044f\u043d\u0438\u0435\u043c",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "binary search",
-          "*special"
-        ]
+        "tags": ["binary search", "*special"]
       },
       {
         "contestId": 1530,
@@ -2093,10 +1614,7 @@
         "name": "Binary Decimal",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1530,
@@ -2104,10 +1622,7 @@
         "name": "Putting Plates",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "implementation"
-        ]
+        "tags": ["constructive algorithms", "implementation"]
       },
       {
         "contestId": 1530,
@@ -2115,12 +1630,7 @@
         "name": "Pursuit",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "binary search",
-          "brute force",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["binary search", "brute force", "greedy", "sortings"]
       },
       {
         "contestId": 1530,
@@ -2128,13 +1638,7 @@
         "name": "Secret Santa",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "constructive algorithms",
-          "flows",
-          "graphs",
-          "greedy",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "flows", "graphs", "greedy", "math"]
       },
       {
         "contestId": 1530,
@@ -2142,11 +1646,7 @@
         "name": "Minimax",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "strings"
-        ]
+        "tags": ["constructive algorithms", "greedy", "strings"]
       },
       {
         "contestId": 1530,
@@ -2154,13 +1654,7 @@
         "name": "Bingo",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "bitmasks",
-          "combinatorics",
-          "dp",
-          "math",
-          "probabilities"
-        ]
+        "tags": ["bitmasks", "combinatorics", "dp", "math", "probabilities"]
       },
       {
         "contestId": 1530,
@@ -2168,9 +1662,7 @@
         "name": "What a Reversal",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "constructive algorithms"
-        ]
+        "tags": ["constructive algorithms"]
       },
       {
         "contestId": 1530,
@@ -2178,10 +1670,7 @@
         "name": "Turing's Award",
         "type": "PROGRAMMING",
         "points": 3400,
-        "tags": [
-          "data structures",
-          "dp"
-        ]
+        "tags": ["data structures", "dp"]
       },
       {
         "contestId": 1529,
@@ -2189,11 +1678,7 @@
         "name": "Eshag Loves Big Arrays",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1529,
@@ -2201,11 +1686,7 @@
         "name": "Sifid and Strange Subsequences",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "greedy",
-          "math",
-          "sortings"
-        ]
+        "tags": ["greedy", "math", "sortings"]
       },
       {
         "contestId": 1529,
@@ -2213,13 +1694,7 @@
         "name": "Parsa's Humongous Tree",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "dfs and similar",
-          "dp",
-          "graphs",
-          "greedy",
-          "trees"
-        ]
+        "tags": ["dfs and similar", "dp", "graphs", "greedy", "trees"]
       },
       {
         "contestId": 1529,
@@ -2227,12 +1702,7 @@
         "name": "Kavi on Pairing Duty",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math",
-          "number theory"
-        ]
+        "tags": ["combinatorics", "dp", "math", "number theory"]
       },
       {
         "contestId": 1529,
@@ -2240,12 +1710,7 @@
         "name": "Trees of Tranquillity",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "data structures",
-          "dfs and similar",
-          "greedy",
-          "trees"
-        ]
+        "tags": ["data structures", "dfs and similar", "greedy", "trees"]
       },
       {
         "contestId": 1529,
@@ -2253,10 +1718,7 @@
         "name": "It's a bird! No, it's a plane! No, it's AaParsa!",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "graphs",
-          "shortest paths"
-        ]
+        "tags": ["graphs", "shortest paths"]
       },
       {
         "contestId": 1528,
@@ -2278,11 +1740,7 @@
         "name": "Kavi on Pairing Duty",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "math"]
       },
       {
         "contestId": 1528,
@@ -2290,12 +1748,7 @@
         "name": "Trees of Tranquillity",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "data structures",
-          "dfs and similar",
-          "greedy",
-          "trees"
-        ]
+        "tags": ["data structures", "dfs and similar", "greedy", "trees"]
       },
       {
         "contestId": 1528,
@@ -2303,11 +1756,7 @@
         "name": "It's a bird! No, it's a plane! No, it's AaParsa!",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "constructive algorithms",
-          "graphs",
-          "shortest paths"
-        ]
+        "tags": ["constructive algorithms", "graphs", "shortest paths"]
       },
       {
         "contestId": 1528,
@@ -2315,11 +1764,7 @@
         "name": "Mashtali and Hagh Trees",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "trees"
-        ]
+        "tags": ["combinatorics", "dp", "trees"]
       },
       {
         "contestId": 1528,
@@ -2327,11 +1772,7 @@
         "name": "AmShZ Farm",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "combinatorics",
-          "fft",
-          "math"
-        ]
+        "tags": ["combinatorics", "fft", "math"]
       },
       {
         "contestId": 1527,
@@ -2339,9 +1780,7 @@
         "name": "And Then There Were K",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "bitmasks"
-        ]
+        "tags": ["bitmasks"]
       },
       {
         "contestId": 1527,
@@ -2349,10 +1788,7 @@
         "name": "Palindrome Game (easy version)",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "games"
-        ]
+        "tags": ["constructive algorithms", "games"]
       },
       {
         "contestId": 1527,
@@ -2360,10 +1796,7 @@
         "name": "Palindrome Game (hard version)",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "constructive algorithms",
-          "games"
-        ]
+        "tags": ["constructive algorithms", "games"]
       },
       {
         "contestId": 1527,
@@ -2371,11 +1804,7 @@
         "name": "Sequence Pair Weight",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "hashing",
-          "implementation",
-          "math"
-        ]
+        "tags": ["hashing", "implementation", "math"]
       },
       {
         "contestId": 1527,
@@ -2397,12 +1826,7 @@
         "name": "Partition Game",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "binary search",
-          "data structures",
-          "divide and conquer",
-          "dp"
-        ]
+        "tags": ["binary search", "data structures", "divide and conquer", "dp"]
       },
       {
         "contestId": 1526,
@@ -2410,10 +1834,7 @@
         "name": "Mean Inequality",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "sortings"
-        ]
+        "tags": ["constructive algorithms", "sortings"]
       },
       {
         "contestId": 1526,
@@ -2421,11 +1842,7 @@
         "name": "I Hate 1111",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "dp",
-          "math",
-          "number theory"
-        ]
+        "tags": ["dp", "math", "number theory"]
       },
       {
         "contestId": 1526,
@@ -2433,12 +1850,7 @@
         "name": "Potions (Easy Version)",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "brute force",
-          "data structures",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["brute force", "data structures", "dp", "greedy"]
       },
       {
         "contestId": 1526,
@@ -2446,10 +1858,7 @@
         "name": "Potions (Hard Version)",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["data structures", "greedy"]
       },
       {
         "contestId": 1526,
@@ -2471,11 +1880,7 @@
         "name": "Oolimry and Suffix Array",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "combinatorics",
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["combinatorics", "constructive algorithms", "math"]
       },
       {
         "contestId": 1526,
@@ -2483,11 +1888,7 @@
         "name": "Median Queries",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "constructive algorithms",
-          "interactive",
-          "probabilities"
-        ]
+        "tags": ["constructive algorithms", "interactive", "probabilities"]
       },
       {
         "contestId": 1525,
@@ -2495,10 +1896,7 @@
         "name": "Potion-making",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1525,
@@ -2506,10 +1904,7 @@
         "name": "Permutation Sort",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "greedy"]
       },
       {
         "contestId": 1525,
@@ -2517,12 +1912,7 @@
         "name": "Robot Collisions",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "data structures",
-          "greedy",
-          "implementation",
-          "sortings"
-        ]
+        "tags": ["data structures", "greedy", "implementation", "sortings"]
       },
       {
         "contestId": 1525,
@@ -2530,12 +1920,7 @@
         "name": "Armchairs",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "dp",
-          "flows",
-          "graph matchings",
-          "greedy"
-        ]
+        "tags": ["dp", "flows", "graph matchings", "greedy"]
       },
       {
         "contestId": 1525,
@@ -2543,13 +1928,7 @@
         "name": "Assimilation IV",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math",
-          "probabilities",
-          "two pointers"
-        ]
+        "tags": ["combinatorics", "dp", "math", "probabilities", "two pointers"]
       },
       {
         "contestId": 1525,
@@ -2557,12 +1936,7 @@
         "name": "Goblins And Gnomes",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "brute force",
-          "dp",
-          "flows",
-          "graph matchings"
-        ]
+        "tags": ["brute force", "dp", "flows", "graph matchings"]
       },
       {
         "contestId": 1524,
@@ -2570,9 +1944,7 @@
         "name": "Balanced Regions",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special"
-        ]
+        "tags": ["*special"]
       },
       {
         "contestId": 1523,
@@ -2580,9 +1952,7 @@
         "name": "Game of Life",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation"
-        ]
+        "tags": ["implementation"]
       },
       {
         "contestId": 1523,
@@ -2590,9 +1960,7 @@
         "name": "Lord of the Values",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "constructive algorithms"
-        ]
+        "tags": ["constructive algorithms"]
       },
       {
         "contestId": 1523,
@@ -2614,12 +1982,7 @@
         "name": "Love-Hate",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "dp",
-          "probabilities"
-        ]
+        "tags": ["bitmasks", "brute force", "dp", "probabilities"]
       },
       {
         "contestId": 1523,
@@ -2627,12 +1990,7 @@
         "name": "Crypto Lights",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math",
-          "probabilities"
-        ]
+        "tags": ["combinatorics", "dp", "math", "probabilities"]
       },
       {
         "contestId": 1523,
@@ -2640,10 +1998,7 @@
         "name": "Favorite Game",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "bitmasks",
-          "dp"
-        ]
+        "tags": ["bitmasks", "dp"]
       },
       {
         "contestId": 1523,
@@ -2651,10 +2006,7 @@
         "name": "Try Booking",
         "type": "PROGRAMMING",
         "points": 3200,
-        "tags": [
-          "data structures",
-          "divide and conquer"
-        ]
+        "tags": ["data structures", "divide and conquer"]
       },
       {
         "contestId": 1523,
@@ -2662,10 +2014,7 @@
         "name": "Hopping Around the Array",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "data structures",
-          "dp"
-        ]
+        "tags": ["data structures", "dp"]
       },
       {
         "contestId": 1522,
@@ -2673,10 +2022,7 @@
         "name": "Football Betting",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "interactive",
-          "*special"
-        ]
+        "tags": ["interactive", "*special"]
       },
       {
         "contestId": 1521,
@@ -2684,11 +2030,7 @@
         "name": "Nastia and Nearly Good Numbers",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1521,
@@ -2696,11 +2038,7 @@
         "name": "Nastia and a Good Array",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1521,
@@ -2708,10 +2046,7 @@
         "name": "Nastia and a Hidden Permutation",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "constructive algorithms",
-          "interactive"
-        ]
+        "tags": ["constructive algorithms", "interactive"]
       },
       {
         "contestId": 1521,
@@ -2736,12 +2071,7 @@
         "name": "Nastia and a Beautiful Matrix",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "binary search",
-          "constructive algorithms",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["binary search", "constructive algorithms", "dp", "greedy"]
       },
       {
         "contestId": 1520,
@@ -2749,10 +2079,7 @@
         "name": "Do Not Be Distracted!",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "implementation"
-        ]
+        "tags": ["brute force", "implementation"]
       },
       {
         "contestId": 1520,
@@ -2760,11 +2087,7 @@
         "name": "Ordinary Numbers",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "math",
-          "number theory"
-        ]
+        "tags": ["brute force", "math", "number theory"]
       },
       {
         "contestId": 1520,
@@ -2772,9 +2095,7 @@
         "name": "Not Adjacent Matrix",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "constructive algorithms"
-        ]
+        "tags": ["constructive algorithms"]
       },
       {
         "contestId": 1520,
@@ -2782,11 +2103,7 @@
         "name": "Same Differences",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "data structures",
-          "hashing",
-          "math"
-        ]
+        "tags": ["data structures", "hashing", "math"]
       },
       {
         "contestId": 1520,
@@ -2794,10 +2111,7 @@
         "name": "Arranging The Sheep",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1520,
@@ -2805,10 +2119,7 @@
         "name": "Guess the K-th Zero (Easy version)",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "binary search",
-          "interactive"
-        ]
+        "tags": ["binary search", "interactive"]
       },
       {
         "contestId": 1520,
@@ -2844,9 +2155,7 @@
         "name": "Red and Blue Beans",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math"
-        ]
+        "tags": ["math"]
       },
       {
         "contestId": 1519,
@@ -2854,10 +2163,7 @@
         "name": "The Cake Is a Lie",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "dp",
-          "math"
-        ]
+        "tags": ["dp", "math"]
       },
       {
         "contestId": 1519,
@@ -2879,13 +2185,7 @@
         "name": "Maximum Sum of Products",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "brute force",
-          "dp",
-          "implementation",
-          "math",
-          "two pointers"
-        ]
+        "tags": ["brute force", "dp", "implementation", "math", "two pointers"]
       },
       {
         "contestId": 1519,
@@ -2908,13 +2208,7 @@
         "name": "Chests and Keys",
         "type": "PROGRAMMING",
         "points": 3200,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "dfs and similar",
-          "dp",
-          "flows"
-        ]
+        "tags": ["bitmasks", "brute force", "dfs and similar", "dp", "flows"]
       },
       {
         "contestId": 1517,
@@ -2922,10 +2216,7 @@
         "name": "Sum of 2050",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1517,
@@ -2933,11 +2224,7 @@
         "name": "Morning Jogging",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["constructive algorithms", "greedy", "sortings"]
       },
       {
         "contestId": 1517,
@@ -2958,11 +2245,7 @@
         "name": "Explorer Space",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "dp",
-          "graphs",
-          "shortest paths"
-        ]
+        "tags": ["dp", "graphs", "shortest paths"]
       },
       {
         "contestId": 1517,
@@ -2983,11 +2266,7 @@
         "name": "Reunion",
         "type": "PROGRAMMING",
         "points": 3200,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "trees"
-        ]
+        "tags": ["combinatorics", "dp", "trees"]
       },
       {
         "contestId": 1517,
@@ -2995,11 +2274,7 @@
         "name": "Starry Night Camping",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "constructive algorithms",
-          "flows",
-          "graphs"
-        ]
+        "tags": ["constructive algorithms", "flows", "graphs"]
       },
       {
         "contestId": 1517,
@@ -3007,10 +2282,7 @@
         "name": "Fly Around the World",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "dp",
-          "geometry"
-        ]
+        "tags": ["dp", "geometry"]
       },
       {
         "contestId": 1516,
@@ -3018,9 +2290,7 @@
         "name": "Tit for Tat",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy"
-        ]
+        "tags": ["greedy"]
       },
       {
         "contestId": 1516,
@@ -3028,12 +2298,7 @@
         "name": "AGAGA XOOORRR",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["bitmasks", "brute force", "dp", "greedy"]
       },
       {
         "contestId": 1516,
@@ -3041,12 +2306,7 @@
         "name": "Baby Ehab Partitions Again",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms",
-          "dp",
-          "math"
-        ]
+        "tags": ["bitmasks", "constructive algorithms", "dp", "math"]
       },
       {
         "contestId": 1516,
@@ -3069,11 +2329,7 @@
         "name": "Baby Ehab Plays with Permutations",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "math"]
       },
       {
         "contestId": 1515,
@@ -3081,11 +2337,7 @@
         "name": "Phoenix and Gold",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1515,
@@ -3093,12 +2345,7 @@
         "name": "Phoenix and Puzzle",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "brute force",
-          "geometry",
-          "math",
-          "number theory"
-        ]
+        "tags": ["brute force", "geometry", "math", "number theory"]
       },
       {
         "contestId": 1515,
@@ -3106,11 +2353,7 @@
         "name": "Phoenix and Towers",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "constructive algorithms",
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "data structures", "greedy"]
       },
       {
         "contestId": 1515,
@@ -3118,11 +2361,7 @@
         "name": "Phoenix and Socks",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "greedy",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["greedy", "sortings", "two pointers"]
       },
       {
         "contestId": 1515,
@@ -3130,11 +2369,7 @@
         "name": "Phoenix and Computers",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "math"]
       },
       {
         "contestId": 1515,
@@ -3157,12 +2392,7 @@
         "name": "Phoenix and Odometers",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "dfs and similar",
-          "graphs",
-          "math",
-          "number theory"
-        ]
+        "tags": ["dfs and similar", "graphs", "math", "number theory"]
       },
       {
         "contestId": 1515,
@@ -3170,12 +2400,7 @@
         "name": "Phoenix and Bits",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "data structures",
-          "sortings"
-        ]
+        "tags": ["bitmasks", "brute force", "data structures", "sortings"]
       },
       {
         "contestId": 1515,
@@ -3183,11 +2408,7 @@
         "name": "Phoenix and Diamonds",
         "type": "PROGRAMMING",
         "points": 3400,
-        "tags": [
-          "binary search",
-          "data structures",
-          "sortings"
-        ]
+        "tags": ["binary search", "data structures", "sortings"]
       },
       {
         "contestId": 1514,
@@ -3195,10 +2416,7 @@
         "name": "Perfectly Imperfect Array",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1514,
@@ -3206,11 +2424,7 @@
         "name": "AND 0, Sum Big",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "bitmasks",
-          "combinatorics",
-          "math"
-        ]
+        "tags": ["bitmasks", "combinatorics", "math"]
       },
       {
         "contestId": 1514,
@@ -3218,10 +2432,7 @@
         "name": "Product 1 Modulo N",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "greedy",
-          "number theory"
-        ]
+        "tags": ["greedy", "number theory"]
       },
       {
         "contestId": 1514,
@@ -3257,10 +2468,7 @@
         "name": "Array and Peaks",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "implementation"
-        ]
+        "tags": ["constructive algorithms", "implementation"]
       },
       {
         "contestId": 1513,
@@ -3268,12 +2476,7 @@
         "name": "AND Sequences",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "bitmasks",
-          "combinatorics",
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["bitmasks", "combinatorics", "constructive algorithms", "math"]
       },
       {
         "contestId": 1513,
@@ -3281,10 +2484,7 @@
         "name": "Add One",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "dp",
-          "matrices"
-        ]
+        "tags": ["dp", "matrices"]
       },
       {
         "contestId": 1513,
@@ -3307,12 +2507,7 @@
         "name": "Cost Equilibrium",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "combinatorics",
-          "constructive algorithms",
-          "math",
-          "sortings"
-        ]
+        "tags": ["combinatorics", "constructive algorithms", "math", "sortings"]
       },
       {
         "contestId": 1513,
@@ -3333,10 +2528,7 @@
         "name": "Spy Detected!",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "implementation"
-        ]
+        "tags": ["brute force", "implementation"]
       },
       {
         "contestId": 1512,
@@ -3344,9 +2536,7 @@
         "name": "Almost Rectangle",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation"
-        ]
+        "tags": ["implementation"]
       },
       {
         "contestId": 1512,
@@ -3354,11 +2544,7 @@
         "name": "A-B Palindrome",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "implementation",
-          "strings"
-        ]
+        "tags": ["constructive algorithms", "implementation", "strings"]
       },
       {
         "contestId": 1512,
@@ -3366,11 +2552,7 @@
         "name": "Corrupted Array",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "data structures", "greedy"]
       },
       {
         "contestId": 1512,
@@ -3378,11 +2560,7 @@
         "name": "Permutation by Sum",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "brute force",
-          "greedy",
-          "math"
-        ]
+        "tags": ["brute force", "greedy", "math"]
       },
       {
         "contestId": 1512,
@@ -3390,12 +2568,7 @@
         "name": "Education",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "brute force",
-          "dp",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["brute force", "dp", "greedy", "implementation"]
       },
       {
         "contestId": 1512,
@@ -3403,12 +2576,7 @@
         "name": "Short Task",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "brute force",
-          "dp",
-          "math",
-          "number theory"
-        ]
+        "tags": ["brute force", "dp", "math", "number theory"]
       },
       {
         "contestId": 1511,
@@ -3416,9 +2584,7 @@
         "name": "Review Site",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy"
-        ]
+        "tags": ["greedy"]
       },
       {
         "contestId": 1511,
@@ -3426,11 +2592,7 @@
         "name": "GCD Length",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1511,
@@ -3438,12 +2600,7 @@
         "name": "Yet Another Card Deck",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "brute force",
-          "data structures",
-          "implementation",
-          "trees"
-        ]
+        "tags": ["brute force", "data structures", "implementation", "trees"]
       },
       {
         "contestId": 1511,
@@ -3465,12 +2622,7 @@
         "name": "Colorings and Dominoes",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "greedy",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "greedy", "math"]
       },
       {
         "contestId": 1511,
@@ -3516,11 +2668,7 @@
         "name": "Button Lock",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "flows",
-          "graph matchings",
-          "graphs"
-        ]
+        "tags": ["flows", "graph matchings", "graphs"]
       },
       {
         "contestId": 1510,
@@ -3528,11 +2676,7 @@
         "name": "Cactus Not Enough",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "dfs and similar",
-          "graph matchings",
-          "graphs"
-        ]
+        "tags": ["dfs and similar", "graph matchings", "graphs"]
       },
       {
         "contestId": 1510,
@@ -3540,11 +2684,7 @@
         "name": "Digits",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "dp",
-          "math",
-          "number theory"
-        ]
+        "tags": ["dp", "math", "number theory"]
       },
       {
         "contestId": 1510,
@@ -3576,9 +2716,7 @@
         "name": "Hard Optimization",
         "type": "PROGRAMMING",
         "points": 3200,
-        "tags": [
-          "dp"
-        ]
+        "tags": ["dp"]
       },
       {
         "contestId": 1510,
@@ -3586,12 +2724,7 @@
         "name": "Is It Rated?",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "greedy",
-          "interactive",
-          "math",
-          "probabilities"
-        ]
+        "tags": ["greedy", "interactive", "math", "probabilities"]
       },
       {
         "contestId": 1510,
@@ -3599,10 +2732,7 @@
         "name": "Japanese Game",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1510,
@@ -3610,11 +2740,7 @@
         "name": "King's Task",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "brute force",
-          "graphs",
-          "implementation"
-        ]
+        "tags": ["brute force", "graphs", "implementation"]
       },
       {
         "contestId": 1509,
@@ -3622,9 +2748,7 @@
         "name": "Average Height",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms"
-        ]
+        "tags": ["constructive algorithms"]
       },
       {
         "contestId": 1509,
@@ -3632,9 +2756,7 @@
         "name": "TMT Document",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "greedy"
-        ]
+        "tags": ["greedy"]
       },
       {
         "contestId": 1509,
@@ -3642,10 +2764,7 @@
         "name": "The Sports Festival",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "dp",
-          "greedy"
-        ]
+        "tags": ["dp", "greedy"]
       },
       {
         "contestId": 1509,
@@ -3653,12 +2772,7 @@
         "name": "Binary Literature",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "strings",
-          "two pointers"
-        ]
+        "tags": ["constructive algorithms", "greedy", "strings", "two pointers"]
       },
       {
         "contestId": 1509,
@@ -3666,11 +2780,7 @@
         "name": "Almost Sorted",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "brute force",
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["brute force", "constructive algorithms", "math"]
       },
       {
         "contestId": 1509,
@@ -3737,11 +2847,7 @@
         "name": "Swap Pass",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "constructive algorithms",
-          "geometry",
-          "sortings"
-        ]
+        "tags": ["constructive algorithms", "geometry", "sortings"]
       },
       {
         "contestId": 1508,
@@ -3764,10 +2870,7 @@
         "name": "Optimal Encoding",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "brute force",
-          "data structures"
-        ]
+        "tags": ["brute force", "data structures"]
       },
       {
         "contestId": 1506,
@@ -3775,9 +2878,7 @@
         "name": "Strange Table",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math"
-        ]
+        "tags": ["math"]
       },
       {
         "contestId": 1506,
@@ -3785,10 +2886,7 @@
         "name": "Partial Replacement",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["greedy", "implementation"]
       },
       {
         "contestId": 1506,
@@ -3796,11 +2894,7 @@
         "name": "Double-ended Strings",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "brute force",
-          "implementation",
-          "strings"
-        ]
+        "tags": ["brute force", "implementation", "strings"]
       },
       {
         "contestId": 1506,
@@ -3808,11 +2902,7 @@
         "name": "Epic Transformation",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "constructive algorithms",
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "data structures", "greedy"]
       },
       {
         "contestId": 1506,
@@ -3820,10 +2910,7 @@
         "name": "Restoring the Permutation",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "constructive algorithms",
-          "implementation"
-        ]
+        "tags": ["constructive algorithms", "implementation"]
       },
       {
         "contestId": 1506,
@@ -3845,13 +2932,7 @@
         "name": "Maximize the Remaining String",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "brute force",
-          "data structures",
-          "dp",
-          "greedy",
-          "strings"
-        ]
+        "tags": ["brute force", "data structures", "dp", "greedy", "strings"]
       },
       {
         "contestId": 1505,
@@ -3859,11 +2940,7 @@
         "name": "Is it rated - 2",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "implementation",
-          "interactive",
-          "*special"
-        ]
+        "tags": ["implementation", "interactive", "*special"]
       },
       {
         "contestId": 1505,
@@ -3871,11 +2948,7 @@
         "name": "DMCA",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "implementation",
-          "number theory",
-          "*special"
-        ]
+        "tags": ["implementation", "number theory", "*special"]
       },
       {
         "contestId": 1505,
@@ -3883,10 +2956,7 @@
         "name": "Fibonacci Words",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "implementation",
-          "*special"
-        ]
+        "tags": ["implementation", "*special"]
       },
       {
         "contestId": 1505,
@@ -3894,10 +2964,7 @@
         "name": "Xenolith? Hippodrome?",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "number theory",
-          "*special"
-        ]
+        "tags": ["number theory", "*special"]
       },
       {
         "contestId": 1505,
@@ -3905,12 +2972,7 @@
         "name": "Cakewalk",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "greedy",
-          "implementation",
-          "shortest paths",
-          "*special"
-        ]
+        "tags": ["greedy", "implementation", "shortest paths", "*special"]
       },
       {
         "contestId": 1505,
@@ -3918,10 +2980,7 @@
         "name": "Math",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "math",
-          "*special"
-        ]
+        "tags": ["math", "*special"]
       },
       {
         "contestId": 1505,
@@ -3929,10 +2988,7 @@
         "name": "Encoded message",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "implementation",
-          "*special"
-        ]
+        "tags": ["implementation", "*special"]
       },
       {
         "contestId": 1505,
@@ -3940,10 +2996,7 @@
         "name": "L BREAK into program",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*2500",
-          "*special"
-        ]
+        "tags": ["*2500", "*special"]
       },
       {
         "contestId": 1505,
@@ -3951,10 +3004,7 @@
         "name": "Mysterious language again, seriously?",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*2200",
-          "*special"
-        ]
+        "tags": ["*2200", "*special"]
       },
       {
         "contestId": 1504,
@@ -3962,10 +3012,7 @@
         "name": "D\u00e9j\u00e0 Vu",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "strings"
-        ]
+        "tags": ["constructive algorithms", "strings"]
       },
       {
         "contestId": 1504,
@@ -3973,12 +3020,7 @@
         "name": "Flip the Bits",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "implementation",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "greedy", "implementation", "math"]
       },
       {
         "contestId": 1504,
@@ -3986,11 +3028,7 @@
         "name": "Balance the Bits",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "brute force",
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["brute force", "constructive algorithms", "greedy"]
       },
       {
         "contestId": 1504,
@@ -3998,12 +3036,7 @@
         "name": "3-Coloring",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "constructive algorithms",
-          "games",
-          "graphs",
-          "interactive"
-        ]
+        "tags": ["constructive algorithms", "games", "graphs", "interactive"]
       },
       {
         "contestId": 1504,
@@ -4042,10 +3075,7 @@
         "name": "Balance the Bits",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "greedy"]
       },
       {
         "contestId": 1503,
@@ -4053,11 +3083,7 @@
         "name": "3-Coloring",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "constructive algorithms",
-          "games",
-          "interactive"
-        ]
+        "tags": ["constructive algorithms", "games", "interactive"]
       },
       {
         "contestId": 1503,
@@ -4096,11 +3122,7 @@
         "name": "2-Coloring",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "math"]
       },
       {
         "contestId": 1503,
@@ -4123,9 +3145,7 @@
         "name": "Alexey and Train",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation"
-        ]
+        "tags": ["implementation"]
       },
       {
         "contestId": 1501,
@@ -4133,11 +3153,7 @@
         "name": "Napoleon Cake",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "dp",
-          "implementation",
-          "sortings"
-        ]
+        "tags": ["dp", "implementation", "sortings"]
       },
       {
         "contestId": 1501,
@@ -4145,11 +3161,7 @@
         "name": "Going Home",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "brute force",
-          "implementation",
-          "math"
-        ]
+        "tags": ["brute force", "implementation", "math"]
       },
       {
         "contestId": 1501,
@@ -4178,9 +3190,7 @@
         "name": "Tiles for Bathroom",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "two pointers"
-        ]
+        "tags": ["two pointers"]
       },
       {
         "contestId": 1500,
@@ -4188,12 +3198,7 @@
         "name": "Going Home",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "brute force",
-          "hashing",
-          "implementation",
-          "math"
-        ]
+        "tags": ["brute force", "hashing", "implementation", "math"]
       },
       {
         "contestId": 1500,
@@ -4229,11 +3234,7 @@
         "name": "Tiles for Bathroom",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "data structures",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["data structures", "sortings", "two pointers"]
       },
       {
         "contestId": 1500,
@@ -4241,10 +3242,7 @@
         "name": "Subset Trick",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "binary search",
-          "data structures"
-        ]
+        "tags": ["binary search", "data structures"]
       },
       {
         "contestId": 1500,
@@ -4252,9 +3250,7 @@
         "name": "Cupboards Jumps",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "dp"
-        ]
+        "tags": ["dp"]
       },
       {
         "contestId": 1499,
@@ -4262,11 +3258,7 @@
         "name": "Domino on Windowsill",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "combinatorics",
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["combinatorics", "constructive algorithms", "math"]
       },
       {
         "contestId": 1499,
@@ -4274,12 +3266,7 @@
         "name": "Binary Removals",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "brute force",
-          "dp",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["brute force", "dp", "greedy", "implementation"]
       },
       {
         "contestId": 1499,
@@ -4287,12 +3274,7 @@
         "name": "Minimum Grid Path",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "brute force",
-          "data structures",
-          "greedy",
-          "math"
-        ]
+        "tags": ["brute force", "data structures", "greedy", "math"]
       },
       {
         "contestId": 1499,
@@ -4300,11 +3282,7 @@
         "name": "The Number of Pairs",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "dp",
-          "math",
-          "number theory"
-        ]
+        "tags": ["dp", "math", "number theory"]
       },
       {
         "contestId": 1499,
@@ -4312,12 +3290,7 @@
         "name": "Chaotic Merge",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math",
-          "strings"
-        ]
+        "tags": ["combinatorics", "dp", "math", "strings"]
       },
       {
         "contestId": 1499,
@@ -4325,12 +3298,7 @@
         "name": "Diameter Cuts",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "combinatorics",
-          "dfs and similar",
-          "dp",
-          "trees"
-        ]
+        "tags": ["combinatorics", "dfs and similar", "dp", "trees"]
       },
       {
         "contestId": 1499,
@@ -4338,11 +3306,7 @@
         "name": "Graph Coloring",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "data structures",
-          "graphs",
-          "interactive"
-        ]
+        "tags": ["data structures", "graphs", "interactive"]
       },
       {
         "contestId": 1498,
@@ -4350,10 +3314,7 @@
         "name": "GCD Sum",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "math"
-        ]
+        "tags": ["brute force", "math"]
       },
       {
         "contestId": 1498,
@@ -4361,12 +3322,7 @@
         "name": "Box Fitting",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "binary search",
-          "bitmasks",
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["binary search", "bitmasks", "data structures", "greedy"]
       },
       {
         "contestId": 1498,
@@ -4374,11 +3330,7 @@
         "name": "Planar Reflections",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "brute force",
-          "data structures",
-          "dp"
-        ]
+        "tags": ["brute force", "data structures", "dp"]
       },
       {
         "contestId": 1498,
@@ -4386,12 +3338,7 @@
         "name": "Bananas in a Microwave",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "dfs and similar",
-          "dp",
-          "graphs",
-          "implementation"
-        ]
+        "tags": ["dfs and similar", "dp", "graphs", "implementation"]
       },
       {
         "contestId": 1498,
@@ -4399,13 +3346,7 @@
         "name": "Two Houses",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "brute force",
-          "graphs",
-          "greedy",
-          "interactive",
-          "sortings"
-        ]
+        "tags": ["brute force", "graphs", "greedy", "interactive", "sortings"]
       },
       {
         "contestId": 1498,
@@ -4429,12 +3370,7 @@
         "name": "Meximization",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "data structures",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["brute force", "data structures", "greedy", "sortings"]
       },
       {
         "contestId": 1497,
@@ -4442,11 +3378,7 @@
         "name": "M-arrays",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1497,
@@ -4454,10 +3386,7 @@
         "name": "k-LCM (easy version)",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1497,
@@ -4465,10 +3394,7 @@
         "name": "k-LCM (hard version)",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1497,
@@ -4476,12 +3402,7 @@
         "name": "Genius",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "bitmasks",
-          "dp",
-          "graphs",
-          "number theory"
-        ]
+        "tags": ["bitmasks", "dp", "graphs", "number theory"]
       },
       {
         "contestId": 1497,
@@ -4519,12 +3440,7 @@
         "name": "Split it!",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "brute force",
-          "constructive algorithms",
-          "greedy",
-          "strings"
-        ]
+        "tags": ["brute force", "constructive algorithms", "greedy", "strings"]
       },
       {
         "contestId": 1496,
@@ -4532,9 +3448,7 @@
         "name": "Max and Mex",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "math"
-        ]
+        "tags": ["math"]
       },
       {
         "contestId": 1496,
@@ -4542,11 +3456,7 @@
         "name": "Diamond Miner",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "geometry",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["geometry", "greedy", "sortings"]
       },
       {
         "contestId": 1496,
@@ -4554,9 +3464,7 @@
         "name": "Let's Go Hiking",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "games"
-        ]
+        "tags": ["games"]
       },
       {
         "contestId": 1496,
@@ -4564,10 +3472,7 @@
         "name": "Garden of the Sun",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "constructive algorithms",
-          "graphs"
-        ]
+        "tags": ["constructive algorithms", "graphs"]
       },
       {
         "contestId": 1496,
@@ -4575,12 +3480,7 @@
         "name": "BFS Trees",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "dfs and similar",
-          "graphs",
-          "math",
-          "shortest paths"
-        ]
+        "tags": ["dfs and similar", "graphs", "math", "shortest paths"]
       },
       {
         "contestId": 1495,
@@ -4588,12 +3488,7 @@
         "name": "Diamond Miner",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "geometry",
-          "greedy",
-          "math",
-          "sortings"
-        ]
+        "tags": ["geometry", "greedy", "math", "sortings"]
       },
       {
         "contestId": 1495,
@@ -4601,10 +3496,7 @@
         "name": "Let's Go Hiking",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "games",
-          "greedy"
-        ]
+        "tags": ["games", "greedy"]
       },
       {
         "contestId": 1495,
@@ -4612,10 +3504,7 @@
         "name": "Garden of the Sun",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "constructive algorithms",
-          "graphs"
-        ]
+        "tags": ["constructive algorithms", "graphs"]
       },
       {
         "contestId": 1495,
@@ -4638,12 +3527,7 @@
         "name": "Qingshan and Daniel",
         "type": "PROGRAMMING",
         "points": 3200,
-        "tags": [
-          "brute force",
-          "data structures",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["brute force", "data structures", "greedy", "implementation"]
       },
       {
         "contestId": 1495,
@@ -4665,11 +3549,7 @@
         "name": "ABC String",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "implementation"
-        ]
+        "tags": ["bitmasks", "brute force", "implementation"]
       },
       {
         "contestId": 1494,
@@ -4677,12 +3557,7 @@
         "name": "Berland Crossword",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["bitmasks", "brute force", "greedy", "implementation"]
       },
       {
         "contestId": 1494,
@@ -4748,10 +3623,7 @@
         "name": "Anti-knapsack",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "greedy"]
       },
       {
         "contestId": 1493,
@@ -4759,10 +3631,7 @@
         "name": "Planet Lapituletti",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "brute force",
-          "implementation"
-        ]
+        "tags": ["brute force", "implementation"]
       },
       {
         "contestId": 1493,
@@ -4816,11 +3685,7 @@
         "name": "Enchanted Matrix",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "bitmasks",
-          "interactive",
-          "number theory"
-        ]
+        "tags": ["bitmasks", "interactive", "number theory"]
       },
       {
         "contestId": 1492,
@@ -4828,9 +3693,7 @@
         "name": "Three swimmers",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math"
-        ]
+        "tags": ["math"]
       },
       {
         "contestId": 1492,
@@ -4838,11 +3701,7 @@
         "name": "Card Deck",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "data structures",
-          "greedy",
-          "math"
-        ]
+        "tags": ["data structures", "greedy", "math"]
       },
       {
         "contestId": 1492,
@@ -4864,12 +3723,7 @@
         "name": "Genius's Gambit",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["bitmasks", "constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1492,
@@ -4891,11 +3745,7 @@
         "name": "K-th Largest Value",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["brute force", "greedy", "implementation"]
       },
       {
         "contestId": 1491,
@@ -4903,10 +3753,7 @@
         "name": "Minimal Cost",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "brute force",
-          "math"
-        ]
+        "tags": ["brute force", "math"]
       },
       {
         "contestId": 1491,
@@ -4928,13 +3775,7 @@
         "name": "Zookeeper and The Infinite Zoo",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms",
-          "dp",
-          "greedy",
-          "math"
-        ]
+        "tags": ["bitmasks", "constructive algorithms", "dp", "greedy", "math"]
       },
       {
         "contestId": 1491,
@@ -4956,11 +3797,7 @@
         "name": "Magnets",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "binary search",
-          "constructive algorithms",
-          "interactive"
-        ]
+        "tags": ["binary search", "constructive algorithms", "interactive"]
       },
       {
         "contestId": 1491,
@@ -4968,11 +3805,7 @@
         "name": "Switch and Flip",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "constructive algorithms",
-          "graphs",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "graphs", "math"]
       },
       {
         "contestId": 1491,
@@ -4980,10 +3813,7 @@
         "name": "Yuezheng Ling and Dynamic Tree",
         "type": "PROGRAMMING",
         "points": 3400,
-        "tags": [
-          "data structures",
-          "trees"
-        ]
+        "tags": ["data structures", "trees"]
       },
       {
         "contestId": 1491,
@@ -4991,10 +3821,7 @@
         "name": "Ruler Of The Zoo",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "brute force",
-          "data structures"
-        ]
+        "tags": ["brute force", "data structures"]
       },
       {
         "contestId": 1490,
@@ -5002,10 +3829,7 @@
         "name": "Dense Array",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1490,
@@ -5013,11 +3837,7 @@
         "name": "Balanced Remainders",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "brute force",
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["brute force", "constructive algorithms", "math"]
       },
       {
         "contestId": 1490,
@@ -5025,12 +3845,7 @@
         "name": "Sum of Cubes",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "binary search",
-          "brute force",
-          "brute force",
-          "math"
-        ]
+        "tags": ["binary search", "brute force", "brute force", "math"]
       },
       {
         "contestId": 1490,
@@ -5038,11 +3853,7 @@
         "name": "Permutation Transformation",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "dfs and similar",
-          "divide and conquer",
-          "implementation"
-        ]
+        "tags": ["dfs and similar", "divide and conquer", "implementation"]
       },
       {
         "contestId": 1490,
@@ -5050,11 +3861,7 @@
         "name": "Accidental Victory",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "binary search",
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["binary search", "data structures", "greedy"]
       },
       {
         "contestId": 1490,
@@ -5076,11 +3883,7 @@
         "name": "Old Floppy Drive",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "binary search",
-          "data structures",
-          "math"
-        ]
+        "tags": ["binary search", "data structures", "math"]
       },
       {
         "contestId": 1489,
@@ -5088,10 +3891,7 @@
         "name": "Remove Duplicates",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "implementation",
-          "*special"
-        ]
+        "tags": ["implementation", "*special"]
       },
       {
         "contestId": 1489,
@@ -5099,10 +3899,7 @@
         "name": "Water Buying",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "math",
-          "*special"
-        ]
+        "tags": ["math", "*special"]
       },
       {
         "contestId": 1489,
@@ -5110,10 +3907,7 @@
         "name": "File Name",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "strings",
-          "*special"
-        ]
+        "tags": ["strings", "*special"]
       },
       {
         "contestId": 1489,
@@ -5121,10 +3915,7 @@
         "name": "Substrings Sort",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "sortings",
-          "*special"
-        ]
+        "tags": ["sortings", "*special"]
       },
       {
         "contestId": 1489,
@@ -5132,10 +3923,7 @@
         "name": "Books Queries",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "implementation",
-          "*special"
-        ]
+        "tags": ["implementation", "*special"]
       },
       {
         "contestId": 1489,
@@ -5143,10 +3931,7 @@
         "name": "Boxes Packing",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "implementation",
-          "*special"
-        ]
+        "tags": ["implementation", "*special"]
       },
       {
         "contestId": 1489,
@@ -5154,10 +3939,7 @@
         "name": "Make It Connected",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "graphs",
-          "*special"
-        ]
+        "tags": ["graphs", "*special"]
       },
       {
         "contestId": 1488,
@@ -5165,10 +3947,7 @@
         "name": "From Zero To Y",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "math",
-          "*special"
-        ]
+        "tags": ["math", "*special"]
       },
       {
         "contestId": 1488,
@@ -5176,10 +3955,7 @@
         "name": "RBS Deletion",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "greedy",
-          "*special"
-        ]
+        "tags": ["greedy", "*special"]
       },
       {
         "contestId": 1488,
@@ -5187,12 +3963,7 @@
         "name": "Two Policemen",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "binary search",
-          "brute force",
-          "math",
-          "*special"
-        ]
+        "tags": ["binary search", "brute force", "math", "*special"]
       },
       {
         "contestId": 1488,
@@ -5200,11 +3971,7 @@
         "name": "Problemsolving Marathon",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "binary search",
-          "greedy",
-          "*special"
-        ]
+        "tags": ["binary search", "greedy", "*special"]
       },
       {
         "contestId": 1488,
@@ -5212,11 +3979,7 @@
         "name": "Palindromic Doubles",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "data structures",
-          "dp",
-          "*special"
-        ]
+        "tags": ["data structures", "dp", "*special"]
       },
       {
         "contestId": 1488,
@@ -5237,12 +4000,7 @@
         "name": "Painting Numbers",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "data structures",
-          "greedy",
-          "number theory",
-          "*special"
-        ]
+        "tags": ["data structures", "greedy", "number theory", "*special"]
       },
       {
         "contestId": 1488,
@@ -5250,11 +4008,7 @@
         "name": "Build From Suffixes",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "combinatorics",
-          "data structures",
-          "*special"
-        ]
+        "tags": ["combinatorics", "data structures", "*special"]
       },
       {
         "contestId": 1488,
@@ -5262,10 +4016,7 @@
         "name": "Demonic Invasion",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "flows",
-          "*special"
-        ]
+        "tags": ["flows", "*special"]
       },
       {
         "contestId": 1488,
@@ -5273,12 +4024,7 @@
         "name": "Flower Shop",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "data structures",
-          "fft",
-          "math",
-          "*special"
-        ]
+        "tags": ["data structures", "fft", "math", "*special"]
       },
       {
         "contestId": 1487,
@@ -5286,10 +4032,7 @@
         "name": "Arena",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation",
-          "sortings"
-        ]
+        "tags": ["implementation", "sortings"]
       },
       {
         "contestId": 1487,
@@ -5297,10 +4040,7 @@
         "name": "Cat Cycle",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1487,
@@ -5324,12 +4064,7 @@
         "name": "Pythagorean Triples",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "binary search",
-          "brute force",
-          "math",
-          "number theory"
-        ]
+        "tags": ["binary search", "brute force", "math", "number theory"]
       },
       {
         "contestId": 1487,
@@ -5353,11 +4088,7 @@
         "name": "Ones",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "dp",
-          "greedy",
-          "shortest paths"
-        ]
+        "tags": ["dp", "greedy", "shortest paths"]
       },
       {
         "contestId": 1487,
@@ -5365,12 +4096,7 @@
         "name": "String Counting",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "fft",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "fft", "math"]
       },
       {
         "contestId": 1486,
@@ -5378,10 +4104,7 @@
         "name": "Shifting Stacks",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["greedy", "implementation"]
       },
       {
         "contestId": 1486,
@@ -5389,12 +4112,7 @@
         "name": "Eastern Exhibition",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "binary search",
-          "geometry",
-          "shortest paths",
-          "sortings"
-        ]
+        "tags": ["binary search", "geometry", "shortest paths", "sortings"]
       },
       {
         "contestId": 1486,
@@ -5402,10 +4120,7 @@
         "name": "Guessing the Greatest (easy version)",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "binary search",
-          "interactive"
-        ]
+        "tags": ["binary search", "interactive"]
       },
       {
         "contestId": 1486,
@@ -5413,10 +4128,7 @@
         "name": "Guessing the Greatest (hard version)",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "binary search",
-          "interactive"
-        ]
+        "tags": ["binary search", "interactive"]
       },
       {
         "contestId": 1486,
@@ -5424,11 +4136,7 @@
         "name": "Max Median",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "binary search",
-          "data structures",
-          "dp"
-        ]
+        "tags": ["binary search", "data structures", "dp"]
       },
       {
         "contestId": 1486,
@@ -5466,12 +4174,7 @@
         "name": "Add and Divide",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "brute force",
-          "greedy",
-          "math",
-          "number theory"
-        ]
+        "tags": ["brute force", "greedy", "math", "number theory"]
       },
       {
         "contestId": 1485,
@@ -5479,11 +4182,7 @@
         "name": "Replace and Keep Sorted",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "dp",
-          "implementation",
-          "math"
-        ]
+        "tags": ["dp", "implementation", "math"]
       },
       {
         "contestId": 1485,
@@ -5491,12 +4190,7 @@
         "name": "Floor and Mod",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "binary search",
-          "brute force",
-          "math",
-          "number theory"
-        ]
+        "tags": ["binary search", "brute force", "math", "number theory"]
       },
       {
         "contestId": 1485,
@@ -5504,12 +4198,7 @@
         "name": "Multiples and Power Differences",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "constructive algorithms",
-          "graphs",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "graphs", "math", "number theory"]
       },
       {
         "contestId": 1485,
@@ -5517,12 +4206,7 @@
         "name": "Move and Swap",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "dfs and similar",
-          "dp",
-          "greedy",
-          "trees"
-        ]
+        "tags": ["dfs and similar", "dp", "greedy", "trees"]
       },
       {
         "contestId": 1485,
@@ -5530,12 +4214,7 @@
         "name": "Copy or Prefix Sum",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "combinatorics",
-          "data structures",
-          "dp",
-          "sortings"
-        ]
+        "tags": ["combinatorics", "data structures", "dp", "sortings"]
       },
       {
         "contestId": 1484,
@@ -5543,9 +4222,7 @@
         "name": "Prison Break",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms"
-        ]
+        "tags": ["constructive algorithms"]
       },
       {
         "contestId": 1484,
@@ -5553,10 +4230,7 @@
         "name": "Restore Modulo",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "implementation",
-          "math"
-        ]
+        "tags": ["implementation", "math"]
       },
       {
         "contestId": 1484,
@@ -5564,12 +4238,7 @@
         "name": "Basic Diplomacy",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "combinatorics",
-          "flows",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["combinatorics", "flows", "greedy", "implementation"]
       },
       {
         "contestId": 1484,
@@ -5577,11 +4246,7 @@
         "name": "Playlist",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "data structures",
-          "dsu",
-          "implementation"
-        ]
+        "tags": ["data structures", "dsu", "implementation"]
       },
       {
         "contestId": 1484,
@@ -5589,10 +4254,7 @@
         "name": "Skyline Photo",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "data structures",
-          "dp"
-        ]
+        "tags": ["data structures", "dp"]
       },
       {
         "contestId": 1484,
@@ -5600,11 +4262,7 @@
         "name": "Useful Edges",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "brute force",
-          "graphs",
-          "shortest paths"
-        ]
+        "tags": ["brute force", "graphs", "shortest paths"]
       },
       {
         "contestId": 1483,
@@ -5612,11 +4270,7 @@
         "name": "Basic Diplomacy",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["constructive algorithms", "greedy", "implementation"]
       },
       {
         "contestId": 1483,
@@ -5624,11 +4278,7 @@
         "name": "Playlist",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "data structures",
-          "dsu",
-          "implementation"
-        ]
+        "tags": ["data structures", "dsu", "implementation"]
       },
       {
         "contestId": 1483,
@@ -5636,12 +4286,7 @@
         "name": "Skyline Photo",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "binary search",
-          "data structures",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["binary search", "data structures", "dp", "greedy"]
       },
       {
         "contestId": 1483,
@@ -5649,11 +4294,7 @@
         "name": "Useful Edges",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "dp",
-          "graphs",
-          "shortest paths"
-        ]
+        "tags": ["dp", "graphs", "shortest paths"]
       },
       {
         "contestId": 1483,
@@ -5661,11 +4302,7 @@
         "name": "Vabank",
         "type": "PROGRAMMING",
         "points": 3200,
-        "tags": [
-          "binary search",
-          "dp",
-          "interactive"
-        ]
+        "tags": ["binary search", "dp", "interactive"]
       },
       {
         "contestId": 1483,
@@ -5687,9 +4324,7 @@
         "name": "Prison Break",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math"
-        ]
+        "tags": ["math"]
       },
       {
         "contestId": 1482,
@@ -5697,10 +4332,7 @@
         "name": "Restore Modulo",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "implementation",
-          "math"
-        ]
+        "tags": ["implementation", "math"]
       },
       {
         "contestId": 1482,
@@ -5721,12 +4353,7 @@
         "name": "Playlist",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "data structures",
-          "dsu",
-          "implementation",
-          "shortest paths"
-        ]
+        "tags": ["data structures", "dsu", "implementation", "shortest paths"]
       },
       {
         "contestId": 1482,
@@ -5734,11 +4361,7 @@
         "name": "Skyline Photo",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "data structures",
-          "divide and conquer",
-          "dp"
-        ]
+        "tags": ["data structures", "divide and conquer", "dp"]
       },
       {
         "contestId": 1482,
@@ -5746,10 +4369,7 @@
         "name": "Useful Edges",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "graphs",
-          "shortest paths"
-        ]
+        "tags": ["graphs", "shortest paths"]
       },
       {
         "contestId": 1482,
@@ -5757,10 +4377,7 @@
         "name": "Vabank",
         "type": "PROGRAMMING",
         "points": 3200,
-        "tags": [
-          "binary search",
-          "interactive"
-        ]
+        "tags": ["binary search", "interactive"]
       },
       {
         "contestId": 1482,
@@ -5768,11 +4385,7 @@
         "name": "Exam",
         "type": "PROGRAMMING",
         "points": 3400,
-        "tags": [
-          "data structures",
-          "string suffix structures",
-          "trees"
-        ]
+        "tags": ["data structures", "string suffix structures", "trees"]
       },
       {
         "contestId": 1481,
@@ -5780,10 +4393,7 @@
         "name": "Space Navigation",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "strings"
-        ]
+        "tags": ["greedy", "strings"]
       },
       {
         "contestId": 1481,
@@ -5791,11 +4401,7 @@
         "name": "New Colony",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "brute force",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["brute force", "greedy", "implementation"]
       },
       {
         "contestId": 1481,
@@ -5803,11 +4409,7 @@
         "name": "Fence Painting",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "brute force",
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["brute force", "constructive algorithms", "greedy"]
       },
       {
         "contestId": 1481,
@@ -5829,11 +4431,7 @@
         "name": "Sorting Books",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "data structures",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["data structures", "dp", "greedy"]
       },
       {
         "contestId": 1481,
@@ -5841,11 +4439,7 @@
         "name": "AB Tree",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "dp",
-          "greedy",
-          "trees"
-        ]
+        "tags": ["dp", "greedy", "trees"]
       },
       {
         "contestId": 1480,
@@ -5853,11 +4447,7 @@
         "name": "Yet Another String Game",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "games",
-          "greedy",
-          "strings"
-        ]
+        "tags": ["games", "greedy", "strings"]
       },
       {
         "contestId": 1480,
@@ -5865,11 +4455,7 @@
         "name": "The Great Hero",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "greedy",
-          "implementation",
-          "sortings"
-        ]
+        "tags": ["greedy", "implementation", "sortings"]
       },
       {
         "contestId": 1480,
@@ -5877,12 +4463,7 @@
         "name": "Searching Local Minimum",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "binary search",
-          "interactive",
-          "math",
-          "ternary search"
-        ]
+        "tags": ["binary search", "interactive", "math", "ternary search"]
       },
       {
         "contestId": 1480,
@@ -5890,12 +4471,7 @@
         "name": "Painting the Array I",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "data structures",
-          "dp",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["data structures", "dp", "greedy", "implementation"]
       },
       {
         "contestId": 1480,
@@ -5903,11 +4479,7 @@
         "name": "Painting the Array II",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "data structures",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["data structures", "dp", "greedy"]
       },
       {
         "contestId": 1480,
@@ -5915,10 +4487,7 @@
         "name": "Continuous City",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms"
-        ]
+        "tags": ["bitmasks", "constructive algorithms"]
       },
       {
         "contestId": 1479,
@@ -5926,11 +4495,7 @@
         "name": "Searching Local Minimum",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "binary search",
-          "interactive",
-          "ternary search"
-        ]
+        "tags": ["binary search", "interactive", "ternary search"]
       },
       {
         "contestId": 1479,
@@ -5966,10 +4531,7 @@
         "name": "Continuous City",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms"
-        ]
+        "tags": ["bitmasks", "constructive algorithms"]
       },
       {
         "contestId": 1479,
@@ -5992,13 +4554,7 @@
         "name": "School Clubs",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "dp",
-          "fft",
-          "math",
-          "number theory",
-          "probabilities"
-        ]
+        "tags": ["dp", "fft", "math", "number theory", "probabilities"]
       },
       {
         "contestId": 1478,
@@ -6006,10 +4562,7 @@
         "name": "Nezzar and Colorful Balls",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "greedy"
-        ]
+        "tags": ["brute force", "greedy"]
       },
       {
         "contestId": 1478,
@@ -6017,12 +4570,7 @@
         "name": "Nezzar and Lucky Number",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "brute force",
-          "dp",
-          "greedy",
-          "math"
-        ]
+        "tags": ["brute force", "dp", "greedy", "math"]
       },
       {
         "contestId": 1478,
@@ -6030,11 +4578,7 @@
         "name": "Nezzar and Symmetric Array",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "implementation",
-          "math",
-          "sortings"
-        ]
+        "tags": ["implementation", "math", "sortings"]
       },
       {
         "contestId": 1478,
@@ -6042,11 +4586,7 @@
         "name": "Nezzar and Board",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1478,
@@ -6054,10 +4594,7 @@
         "name": "Nezzar and Binary String",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["data structures", "greedy"]
       },
       {
         "contestId": 1478,
@@ -6065,12 +4602,7 @@
         "name": "Nezzar and Nice Beatmap",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "constructive algorithms",
-          "geometry",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["constructive algorithms", "geometry", "greedy", "sortings"]
       },
       {
         "contestId": 1477,
@@ -6078,11 +4610,7 @@
         "name": "Nezzar and Board",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1477,
@@ -6090,10 +4618,7 @@
         "name": "Nezzar and Binary String",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["data structures", "greedy"]
       },
       {
         "contestId": 1477,
@@ -6115,11 +4640,7 @@
         "name": "Nezzar and Hidden Permutations",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "constructive algorithms",
-          "dfs and similar",
-          "graphs"
-        ]
+        "tags": ["constructive algorithms", "dfs and similar", "graphs"]
       },
       {
         "contestId": 1477,
@@ -6127,10 +4648,7 @@
         "name": "Nezzar and Tournaments",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["data structures", "greedy"]
       },
       {
         "contestId": 1477,
@@ -6138,12 +4656,7 @@
         "name": "Nezzar and Chocolate Bars",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "combinatorics",
-          "fft",
-          "math",
-          "probabilities"
-        ]
+        "tags": ["combinatorics", "fft", "math", "probabilities"]
       },
       {
         "contestId": 1476,
@@ -6151,12 +4664,7 @@
         "name": "K-divisible Sum",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "binary search",
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["binary search", "constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1476,
@@ -6164,12 +4672,7 @@
         "name": "Inflation",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "binary search",
-          "brute force",
-          "greedy",
-          "math"
-        ]
+        "tags": ["binary search", "brute force", "greedy", "math"]
       },
       {
         "contestId": 1476,
@@ -6177,11 +4680,7 @@
         "name": "Longest Simple Cycle",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "dp",
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["dp", "graphs", "greedy"]
       },
       {
         "contestId": 1476,
@@ -6189,12 +4688,7 @@
         "name": "Journey",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "dfs and similar",
-          "dp",
-          "dsu",
-          "implementation"
-        ]
+        "tags": ["dfs and similar", "dp", "dsu", "implementation"]
       },
       {
         "contestId": 1476,
@@ -6218,11 +4712,7 @@
         "name": "Lanterns",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "binary search",
-          "data structures",
-          "dp"
-        ]
+        "tags": ["binary search", "data structures", "dp"]
       },
       {
         "contestId": 1476,
@@ -6230,12 +4720,7 @@
         "name": "Minimum Difference",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "data structures",
-          "hashing",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["data structures", "hashing", "sortings", "two pointers"]
       },
       {
         "contestId": 1475,
@@ -6243,10 +4728,7 @@
         "name": "Odd Divisor",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1475,
@@ -6254,11 +4736,7 @@
         "name": "New Year's Number",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "brute force",
-          "dp",
-          "math"
-        ]
+        "tags": ["brute force", "dp", "math"]
       },
       {
         "contestId": 1475,
@@ -6266,11 +4744,7 @@
         "name": "Ball in Berland",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "combinatorics",
-          "graphs",
-          "math"
-        ]
+        "tags": ["combinatorics", "graphs", "math"]
       },
       {
         "contestId": 1475,
@@ -6278,12 +4752,7 @@
         "name": "Cleaning the Phone",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "binary search",
-          "dp",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["binary search", "dp", "sortings", "two pointers"]
       },
       {
         "contestId": 1475,
@@ -6291,11 +4760,7 @@
         "name": "Advertising Agency",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "combinatorics",
-          "math",
-          "sortings"
-        ]
+        "tags": ["combinatorics", "math", "sortings"]
       },
       {
         "contestId": 1475,
@@ -6303,11 +4768,7 @@
         "name": "Unusual Matrix",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "2-sat",
-          "brute force",
-          "constructive algorithms"
-        ]
+        "tags": ["2-sat", "brute force", "constructive algorithms"]
       },
       {
         "contestId": 1475,
@@ -6315,12 +4776,7 @@
         "name": "Strange Beauty",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "dp",
-          "math",
-          "number theory",
-          "sortings"
-        ]
+        "tags": ["dp", "math", "number theory", "sortings"]
       },
       {
         "contestId": 1474,
@@ -6328,9 +4784,7 @@
         "name": "Puzzle From the Future",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy"
-        ]
+        "tags": ["greedy"]
       },
       {
         "contestId": 1474,
@@ -6367,12 +4821,7 @@
         "name": "Cleaning",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "data structures",
-          "dp",
-          "greedy",
-          "math"
-        ]
+        "tags": ["data structures", "dp", "greedy", "math"]
       },
       {
         "contestId": 1474,
@@ -6380,10 +4829,7 @@
         "name": "What Is It?",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "greedy"]
       },
       {
         "contestId": 1474,
@@ -6391,11 +4837,7 @@
         "name": "1 2 3 4 ...",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "dp",
-          "math",
-          "matrices"
-        ]
+        "tags": ["dp", "math", "matrices"]
       },
       {
         "contestId": 1473,
@@ -6403,12 +4845,7 @@
         "name": "Replacing Elements",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "implementation",
-          "math",
-          "sortings"
-        ]
+        "tags": ["greedy", "implementation", "math", "sortings"]
       },
       {
         "contestId": 1473,
@@ -6416,12 +4853,7 @@
         "name": "String LCM",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "brute force",
-          "math",
-          "number theory",
-          "strings"
-        ]
+        "tags": ["brute force", "math", "number theory", "strings"]
       },
       {
         "contestId": 1473,
@@ -6429,10 +4861,7 @@
         "name": "No More Inversions",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1473,
@@ -6440,12 +4869,7 @@
         "name": "Program",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "data structures",
-          "dp",
-          "implementation",
-          "strings"
-        ]
+        "tags": ["data structures", "dp", "implementation", "strings"]
       },
       {
         "contestId": 1473,
@@ -6453,10 +4877,7 @@
         "name": "Minimum Path",
         "type": "PROGRAMMING",
         "points": 2400,
-        "tags": [
-          "graphs",
-          "shortest paths"
-        ]
+        "tags": ["graphs", "shortest paths"]
       },
       {
         "contestId": 1473,
@@ -6464,10 +4885,7 @@
         "name": "Strange Set",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "flows",
-          "math"
-        ]
+        "tags": ["flows", "math"]
       },
       {
         "contestId": 1473,
@@ -6475,12 +4893,7 @@
         "name": "Tiles",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "fft",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "fft", "math"]
       },
       {
         "contestId": 1472,
@@ -6488,10 +4901,7 @@
         "name": "Cards for Friends",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
+        "tags": ["greedy", "math"]
       },
       {
         "contestId": 1472,
@@ -6499,11 +4909,7 @@
         "name": "Fair Division",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "dp",
-          "greedy",
-          "math"
-        ]
+        "tags": ["dp", "greedy", "math"]
       },
       {
         "contestId": 1472,
@@ -6511,10 +4917,7 @@
         "name": "Long Jumps",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "dp",
-          "graphs"
-        ]
+        "tags": ["dp", "graphs"]
       },
       {
         "contestId": 1472,
@@ -6522,12 +4925,7 @@
         "name": "Even-Odd Game",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "dp",
-          "games",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["dp", "games", "greedy", "sortings"]
       },
       {
         "contestId": 1472,
@@ -6549,13 +4947,7 @@
         "name": "New Year's Puzzle",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "brute force",
-          "dp",
-          "graph matchings",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["brute force", "dp", "graph matchings", "greedy", "sortings"]
       },
       {
         "contestId": 1472,
@@ -6563,12 +4955,7 @@
         "name": "Moving to the Capital",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "dfs and similar",
-          "dp",
-          "graphs",
-          "shortest paths"
-        ]
+        "tags": ["dfs and similar", "dp", "graphs", "shortest paths"]
       },
       {
         "contestId": 1471,
@@ -6576,11 +4963,7 @@
         "name": "Strange Partition",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "greedy",
-          "math",
-          "number theory"
-        ]
+        "tags": ["greedy", "math", "number theory"]
       },
       {
         "contestId": 1471,
@@ -6588,12 +4971,7 @@
         "name": "Strange List",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "brute force",
-          "greedy",
-          "implementation",
-          "math"
-        ]
+        "tags": ["brute force", "greedy", "implementation", "math"]
       },
       {
         "contestId": 1471,
@@ -6601,11 +4979,7 @@
         "name": "Strange Birthday Party",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "brute force",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["brute force", "greedy", "sortings"]
       },
       {
         "contestId": 1471,
@@ -6613,13 +4987,7 @@
         "name": "Strange Definition",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "bitmasks",
-          "graphs",
-          "hashing",
-          "math",
-          "number theory"
-        ]
+        "tags": ["bitmasks", "graphs", "hashing", "math", "number theory"]
       },
       {
         "contestId": 1471,
@@ -6653,13 +5021,7 @@
         "name": "Strange Birthday Party",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "binary search",
-          "dp",
-          "greedy",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["binary search", "dp", "greedy", "sortings", "two pointers"]
       },
       {
         "contestId": 1470,
@@ -6667,13 +5029,7 @@
         "name": "Strange Definition",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "bitmasks",
-          "graphs",
-          "hashing",
-          "math",
-          "number theory"
-        ]
+        "tags": ["bitmasks", "graphs", "hashing", "math", "number theory"]
       },
       {
         "contestId": 1470,
@@ -6724,9 +5080,7 @@
         "name": "Strange Covering",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "divide and conquer"
-        ]
+        "tags": ["divide and conquer"]
       },
       {
         "contestId": 1469,
@@ -6734,10 +5088,7 @@
         "name": "Regular Bracket Sequence",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "greedy"]
       },
       {
         "contestId": 1469,
@@ -6745,10 +5096,7 @@
         "name": "Red and Blue",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "dp",
-          "greedy"
-        ]
+        "tags": ["dp", "greedy"]
       },
       {
         "contestId": 1469,
@@ -6756,12 +5104,7 @@
         "name": "Building a Fence",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "dp",
-          "greedy",
-          "implementation",
-          "two pointers"
-        ]
+        "tags": ["dp", "greedy", "implementation", "two pointers"]
       },
       {
         "contestId": 1469,
@@ -6797,11 +5140,7 @@
         "name": "Power Sockets",
         "type": "PROGRAMMING",
         "points": 2600,
-        "tags": [
-          "binary search",
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["binary search", "data structures", "greedy"]
       },
       {
         "contestId": 1468,
@@ -6809,11 +5148,7 @@
         "name": "LaIS",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "data structures",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["data structures", "dp", "greedy"]
       },
       {
         "contestId": 1468,
@@ -6821,10 +5156,7 @@
         "name": "Bakery",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "data structures",
-          "dsu"
-        ]
+        "tags": ["data structures", "dsu"]
       },
       {
         "contestId": 1468,
@@ -6832,10 +5164,7 @@
         "name": "Berpizza",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "data structures",
-          "implementation"
-        ]
+        "tags": ["data structures", "implementation"]
       },
       {
         "contestId": 1468,
@@ -6843,10 +5172,7 @@
         "name": "Firecrackers",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "binary search",
-          "sortings"
-        ]
+        "tags": ["binary search", "sortings"]
       },
       {
         "contestId": 1468,
@@ -6854,9 +5180,7 @@
         "name": "Four Segments",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy"
-        ]
+        "tags": ["greedy"]
       },
       {
         "contestId": 1468,
@@ -6864,11 +5188,7 @@
         "name": "Full Turn",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "geometry",
-          "hashing",
-          "number theory"
-        ]
+        "tags": ["geometry", "hashing", "number theory"]
       },
       {
         "contestId": 1468,
@@ -6876,10 +5196,7 @@
         "name": "Hobbits",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "binary search",
-          "geometry"
-        ]
+        "tags": ["binary search", "geometry"]
       },
       {
         "contestId": 1468,
@@ -6887,11 +5204,7 @@
         "name": "K and Medians",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1468,
@@ -6899,11 +5212,7 @@
         "name": "Plane Tiling",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "geometry",
-          "implementation",
-          "math"
-        ]
+        "tags": ["geometry", "implementation", "math"]
       },
       {
         "contestId": 1468,
@@ -6911,11 +5220,7 @@
         "name": "Road Reform",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "dsu",
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["dsu", "graphs", "greedy"]
       },
       {
         "contestId": 1468,
@@ -6923,10 +5228,7 @@
         "name": "The Robot",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "brute force",
-          "implementation"
-        ]
+        "tags": ["brute force", "implementation"]
       },
       {
         "contestId": 1468,
@@ -6934,12 +5236,7 @@
         "name": "Prime Divisors Selection",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "binary search",
-          "greedy",
-          "math",
-          "number theory"
-        ]
+        "tags": ["binary search", "greedy", "math", "number theory"]
       },
       {
         "contestId": 1468,
@@ -6947,11 +5244,7 @@
         "name": "Similar Sets",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "data structures",
-          "graphs",
-          "implementation"
-        ]
+        "tags": ["data structures", "graphs", "implementation"]
       },
       {
         "contestId": 1468,
@@ -6959,10 +5252,7 @@
         "name": "Waste Sorting",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["greedy", "implementation"]
       },
       {
         "contestId": 1467,
@@ -6970,11 +5260,7 @@
         "name": "Wizard of Orz",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1467,
@@ -6982,10 +5268,7 @@
         "name": "Hills And Valleys",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "brute force",
-          "implementation"
-        ]
+        "tags": ["brute force", "implementation"]
       },
       {
         "contestId": 1467,
@@ -6993,10 +5276,7 @@
         "name": "Three Bags",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "greedy"]
       },
       {
         "contestId": 1467,
@@ -7004,11 +5284,7 @@
         "name": "Sum of Paths",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "math"]
       },
       {
         "contestId": 1467,
@@ -7016,12 +5292,7 @@
         "name": "Distinctive Roots in a Tree",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "data structures",
-          "dfs and similar",
-          "dp",
-          "trees"
-        ]
+        "tags": ["data structures", "dfs and similar", "dp", "trees"]
       },
       {
         "contestId": 1466,
@@ -7029,11 +5300,7 @@
         "name": "Bovine Dilemma",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "geometry",
-          "math"
-        ]
+        "tags": ["brute force", "geometry", "math"]
       },
       {
         "contestId": 1466,
@@ -7041,10 +5308,7 @@
         "name": "Last minute enhancements",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "dp",
-          "greedy"
-        ]
+        "tags": ["dp", "greedy"]
       },
       {
         "contestId": 1466,
@@ -7052,11 +5316,7 @@
         "name": "Canine poetry",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "dp",
-          "greedy",
-          "strings"
-        ]
+        "tags": ["dp", "greedy", "strings"]
       },
       {
         "contestId": 1466,
@@ -7064,12 +5324,7 @@
         "name": "13th Labour of Heracles",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "data structures",
-          "greedy",
-          "sortings",
-          "trees"
-        ]
+        "tags": ["data structures", "greedy", "sortings", "trees"]
       },
       {
         "contestId": 1466,
@@ -7077,11 +5332,7 @@
         "name": "Apollo versus Pan",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "math"
-        ]
+        "tags": ["bitmasks", "brute force", "math"]
       },
       {
         "contestId": 1466,
@@ -7120,13 +5371,7 @@
         "name": "Finding satisfactory solutions",
         "type": "PROGRAMMING",
         "points": 3300,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "graphs",
-          "greedy",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "graphs", "greedy", "math"]
       },
       {
         "contestId": 1466,
@@ -7147,10 +5392,7 @@
         "name": "In-game Chat",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation",
-          "strings"
-        ]
+        "tags": ["implementation", "strings"]
       },
       {
         "contestId": 1465,
@@ -7158,11 +5400,7 @@
         "name": "Fair Numbers",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "brute force",
-          "math",
-          "number theory"
-        ]
+        "tags": ["brute force", "math", "number theory"]
       },
       {
         "contestId": 1465,
@@ -7170,12 +5408,7 @@
         "name": "Peaceful Rooks",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "dfs and similar",
-          "dsu",
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["dfs and similar", "dsu", "greedy", "implementation"]
       },
       {
         "contestId": 1465,
@@ -7183,13 +5416,7 @@
         "name": "Grime Zoo",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "dp",
-          "greedy",
-          "implementation",
-          "math",
-          "ternary search"
-        ]
+        "tags": ["dp", "greedy", "implementation", "math", "ternary search"]
       },
       {
         "contestId": 1465,
@@ -7197,11 +5424,7 @@
         "name": "Poman Numbers",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "bitmasks",
-          "greedy",
-          "math"
-        ]
+        "tags": ["bitmasks", "greedy", "math"]
       },
       {
         "contestId": 1465,
@@ -7209,9 +5432,7 @@
         "name": "The Thorny Path",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "greedy"
-        ]
+        "tags": ["greedy"]
       },
       {
         "contestId": 1464,
@@ -7219,12 +5440,7 @@
         "name": "Peaceful Rooks",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "constructive algorithms",
-          "dfs and similar",
-          "dsu",
-          "graphs"
-        ]
+        "tags": ["constructive algorithms", "dfs and similar", "dsu", "graphs"]
       },
       {
         "contestId": 1464,
@@ -7246,13 +5462,7 @@
         "name": "Poman Numbers",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms",
-          "dp",
-          "greedy",
-          "math"
-        ]
+        "tags": ["bitmasks", "constructive algorithms", "dp", "greedy", "math"]
       },
       {
         "contestId": 1464,
@@ -7260,11 +5470,7 @@
         "name": "The Thorny Path",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "greedy",
-          "implementation",
-          "math"
-        ]
+        "tags": ["greedy", "implementation", "math"]
       },
       {
         "contestId": 1464,
@@ -7272,14 +5478,7 @@
         "name": "No Game No Life",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "bitmasks",
-          "dp",
-          "games",
-          "math",
-          "matrices",
-          "probabilities"
-        ]
+        "tags": ["bitmasks", "dp", "games", "math", "matrices", "probabilities"]
       },
       {
         "contestId": 1464,
@@ -7287,10 +5486,7 @@
         "name": "My Beautiful Madness",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "data structures",
-          "trees"
-        ]
+        "tags": ["data structures", "trees"]
       },
       {
         "contestId": 1463,
@@ -7298,10 +5494,7 @@
         "name": "Dungeon",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "binary search",
-          "math"
-        ]
+        "tags": ["binary search", "math"]
       },
       {
         "contestId": 1463,
@@ -7309,11 +5502,7 @@
         "name": "Find The Array",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "bitmasks",
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["bitmasks", "constructive algorithms", "greedy"]
       },
       {
         "contestId": 1463,
@@ -7321,9 +5510,7 @@
         "name": "Busy Robot",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "implementation"
-        ]
+        "tags": ["implementation"]
       },
       {
         "contestId": 1463,
@@ -7360,11 +5547,7 @@
         "name": "Max Correct Set",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "bitmasks",
-          "dp",
-          "math"
-        ]
+        "tags": ["bitmasks", "dp", "math"]
       },
       {
         "contestId": 1462,
@@ -7372,10 +5555,7 @@
         "name": "Favorite Sequence",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation",
-          "two pointers"
-        ]
+        "tags": ["implementation", "two pointers"]
       },
       {
         "contestId": 1462,
@@ -7383,11 +5563,7 @@
         "name": "Last Year's Substring",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "dp",
-          "implementation",
-          "strings"
-        ]
+        "tags": ["dp", "implementation", "strings"]
       },
       {
         "contestId": 1462,
@@ -7395,11 +5571,7 @@
         "name": "Unique Number",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "brute force",
-          "greedy",
-          "math"
-        ]
+        "tags": ["brute force", "greedy", "math"]
       },
       {
         "contestId": 1462,
@@ -7407,11 +5579,7 @@
         "name": "Add to Neighbour and Remove",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "greedy",
-          "math",
-          "number theory"
-        ]
+        "tags": ["greedy", "math", "number theory"]
       },
       {
         "contestId": 1462,
@@ -7448,11 +5616,7 @@
         "name": "The Treasure of The Segments",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "binary search",
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["binary search", "data structures", "greedy"]
       },
       {
         "contestId": 1461,
@@ -7460,10 +5624,7 @@
         "name": "String Generation",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "greedy"]
       },
       {
         "contestId": 1461,
@@ -7471,11 +5632,7 @@
         "name": "Find the Spruce",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "brute force",
-          "dp",
-          "implementation"
-        ]
+        "tags": ["brute force", "dp", "implementation"]
       },
       {
         "contestId": 1461,
@@ -7483,11 +5640,7 @@
         "name": "Random Events",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "dp",
-          "math",
-          "probabilities"
-        ]
+        "tags": ["dp", "math", "probabilities"]
       },
       {
         "contestId": 1461,
@@ -7510,13 +5663,7 @@
         "name": "Water Level",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "brute force",
-          "graphs",
-          "greedy",
-          "implementation",
-          "math"
-        ]
+        "tags": ["brute force", "graphs", "greedy", "implementation", "math"]
       },
       {
         "contestId": 1461,
@@ -7524,11 +5671,7 @@
         "name": "Mathematical Expression",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "constructive algorithms",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "dp", "greedy"]
       },
       {
         "contestId": 1460,
@@ -7536,9 +5679,7 @@
         "name": "Fixing the Cloud",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "*special"
-        ]
+        "tags": ["*special"]
       },
       {
         "contestId": 1459,
@@ -7546,10 +5687,7 @@
         "name": "Red-Blue Shuffle",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math",
-          "probabilities"
-        ]
+        "tags": ["math", "probabilities"]
       },
       {
         "contestId": 1459,
@@ -7557,10 +5695,7 @@
         "name": "Move and Turn",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "dp",
-          "math"
-        ]
+        "tags": ["dp", "math"]
       },
       {
         "contestId": 1459,
@@ -7568,10 +5703,7 @@
         "name": "Row GCD",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1459,
@@ -7579,10 +5711,7 @@
         "name": "Glass Half Spilled",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "brute force",
-          "dp"
-        ]
+        "tags": ["brute force", "dp"]
       },
       {
         "contestId": 1459,
@@ -7590,10 +5719,7 @@
         "name": "Latin Square",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "math",
-          "matrices"
-        ]
+        "tags": ["math", "matrices"]
       },
       {
         "contestId": 1459,
@@ -7601,10 +5727,7 @@
         "name": "Flip and Reverse",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["graphs", "greedy"]
       },
       {
         "contestId": 1458,
@@ -7612,10 +5735,7 @@
         "name": "Row GCD",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1458,
@@ -7623,9 +5743,7 @@
         "name": "Glass Half Spilled",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "dp"
-        ]
+        "tags": ["dp"]
       },
       {
         "contestId": 1458,
@@ -7633,10 +5751,7 @@
         "name": "Latin Square",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "math",
-          "matrices"
-        ]
+        "tags": ["math", "matrices"]
       },
       {
         "contestId": 1458,
@@ -7644,11 +5759,7 @@
         "name": "Flip and Reverse",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "data structures",
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["data structures", "graphs", "greedy"]
       },
       {
         "contestId": 1458,
@@ -7656,10 +5767,7 @@
         "name": "Nim Shortcuts",
         "type": "PROGRAMMING",
         "points": 3100,
-        "tags": [
-          "data structures",
-          "games"
-        ]
+        "tags": ["data structures", "games"]
       },
       {
         "contestId": 1458,
@@ -7667,10 +5775,7 @@
         "name": "Range Diameter Sum",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "data structures",
-          "trees"
-        ]
+        "tags": ["data structures", "trees"]
       },
       {
         "contestId": 1457,
@@ -7678,10 +5783,7 @@
         "name": "Prison Break",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "brute force",
-          "math"
-        ]
+        "tags": ["brute force", "math"]
       },
       {
         "contestId": 1457,
@@ -7689,10 +5791,7 @@
         "name": "Repainting Street",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "brute force",
-          "greedy"
-        ]
+        "tags": ["brute force", "greedy"]
       },
       {
         "contestId": 1457,
@@ -7700,10 +5799,7 @@
         "name": "Bouncing Ball",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "dp",
-          "implementation"
-        ]
+        "tags": ["dp", "implementation"]
       },
       {
         "contestId": 1457,
@@ -7711,11 +5807,7 @@
         "name": "XOR-gun",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "brute force",
-          "constructive algorithms",
-          "dp"
-        ]
+        "tags": ["brute force", "constructive algorithms", "dp"]
       },
       {
         "contestId": 1457,
@@ -7723,10 +5815,7 @@
         "name": "New Game Plus!",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "data structures",
-          "greedy"
-        ]
+        "tags": ["data structures", "greedy"]
       },
       {
         "contestId": 1456,
@@ -7734,11 +5823,7 @@
         "name": "Bouncing Ball",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "brute force",
-          "dp",
-          "implementation"
-        ]
+        "tags": ["brute force", "dp", "implementation"]
       },
       {
         "contestId": 1456,
@@ -7746,12 +5831,7 @@
         "name": "XOR-gun",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["bitmasks", "brute force", "constructive algorithms", "math"]
       },
       {
         "contestId": 1456,
@@ -7759,12 +5839,7 @@
         "name": "New Game Plus!",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "binary search",
-          "dp",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["binary search", "dp", "greedy", "sortings"]
       },
       {
         "contestId": 1456,
@@ -7772,10 +5847,7 @@
         "name": "Cakes for Clones",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "dp",
-          "greedy"
-        ]
+        "tags": ["dp", "greedy"]
       },
       {
         "contestId": 1456,
@@ -7783,10 +5855,7 @@
         "name": "XOR-ranges",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "dp",
-          "greedy"
-        ]
+        "tags": ["dp", "greedy"]
       },
       {
         "contestId": 1455,
@@ -7794,10 +5863,7 @@
         "name": "Strange Functions",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math",
-          "number theory"
-        ]
+        "tags": ["math", "number theory"]
       },
       {
         "contestId": 1455,
@@ -7805,10 +5871,7 @@
         "name": "Jumps",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1455,
@@ -7816,11 +5879,7 @@
         "name": "Ping-pong",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "constructive algorithms",
-          "games",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "games", "math"]
       },
       {
         "contestId": 1455,
@@ -7828,11 +5887,7 @@
         "name": "Sequence and Swaps",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "dp",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["dp", "greedy", "sortings"]
       },
       {
         "contestId": 1455,
@@ -7857,10 +5912,7 @@
         "name": "String and Operations",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "dp",
-          "greedy"
-        ]
+        "tags": ["dp", "greedy"]
       },
       {
         "contestId": 1455,
@@ -7868,10 +5920,7 @@
         "name": "Forbidden Value",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "data structures",
-          "dp"
-        ]
+        "tags": ["data structures", "dp"]
       },
       {
         "contestId": 1454,
@@ -7879,10 +5928,7 @@
         "name": "Special Permutation",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "probabilities"
-        ]
+        "tags": ["constructive algorithms", "probabilities"]
       },
       {
         "contestId": 1454,
@@ -7890,9 +5936,7 @@
         "name": "Unique Bid Auction",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation"
-        ]
+        "tags": ["implementation"]
       },
       {
         "contestId": 1454,
@@ -7900,10 +5944,7 @@
         "name": "Sequence Transformation",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["greedy", "implementation"]
       },
       {
         "contestId": 1454,
@@ -7911,11 +5952,7 @@
         "name": "Number into Sequence",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1454,
@@ -7923,12 +5960,7 @@
         "name": "Number of Simple Paths",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "combinatorics",
-          "dfs and similar",
-          "graphs",
-          "trees"
-        ]
+        "tags": ["combinatorics", "dfs and similar", "graphs", "trees"]
       },
       {
         "contestId": 1454,
@@ -7936,12 +5968,7 @@
         "name": "Array Partition",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "binary search",
-          "data structures",
-          "greedy",
-          "two pointers"
-        ]
+        "tags": ["binary search", "data structures", "greedy", "two pointers"]
       },
       {
         "contestId": 1453,
@@ -7949,9 +5976,7 @@
         "name": "Cancel the Trains",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation"
-        ]
+        "tags": ["implementation"]
       },
       {
         "contestId": 1453,
@@ -7959,10 +5984,7 @@
         "name": "Suffix Operations",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "constructive algorithms",
-          "implementation"
-        ]
+        "tags": ["constructive algorithms", "implementation"]
       },
       {
         "contestId": 1453,
@@ -7970,10 +5992,7 @@
         "name": "Triangles",
         "type": "PROGRAMMING",
         "points": 1700,
-        "tags": [
-          "greedy",
-          "implementation"
-        ]
+        "tags": ["greedy", "implementation"]
       },
       {
         "contestId": 1453,
@@ -7995,13 +6014,7 @@
         "name": "Dog Snacks",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "binary search",
-          "dfs and similar",
-          "dp",
-          "greedy",
-          "trees"
-        ]
+        "tags": ["binary search", "dfs and similar", "dp", "greedy", "trees"]
       },
       {
         "contestId": 1453,
@@ -8009,9 +6022,7 @@
         "name": "Even Harder",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "dp"
-        ]
+        "tags": ["dp"]
       },
       {
         "contestId": 1452,
@@ -8019,9 +6030,7 @@
         "name": "Robot Program",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "math"
-        ]
+        "tags": ["math"]
       },
       {
         "contestId": 1452,
@@ -8029,12 +6038,7 @@
         "name": "Toy Blocks",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "binary search",
-          "greedy",
-          "math",
-          "sortings"
-        ]
+        "tags": ["binary search", "greedy", "math", "sortings"]
       },
       {
         "contestId": 1452,
@@ -8042,9 +6046,7 @@
         "name": "Two Brackets",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy"
-        ]
+        "tags": ["greedy"]
       },
       {
         "contestId": 1452,
@@ -8052,11 +6054,7 @@
         "name": "Radio Towers",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "math"]
       },
       {
         "contestId": 1452,
@@ -8064,13 +6062,7 @@
         "name": "Two Editorials",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "brute force",
-          "dp",
-          "greedy",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["brute force", "dp", "greedy", "sortings", "two pointers"]
       },
       {
         "contestId": 1452,
@@ -8078,10 +6070,7 @@
         "name": "Divide Powers",
         "type": "PROGRAMMING",
         "points": 2900,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "greedy"]
       },
       {
         "contestId": 1452,
@@ -8089,12 +6078,7 @@
         "name": "Game On Tree",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "data structures",
-          "dfs and similar",
-          "greedy",
-          "trees"
-        ]
+        "tags": ["data structures", "dfs and similar", "greedy", "trees"]
       },
       {
         "contestId": 1847,
@@ -8102,10 +6086,7 @@
         "name": "The Man who became a God",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["greedy", "sortings"]
       },
       {
         "contestId": 1847,
@@ -8113,11 +6094,7 @@
         "name": "Hamon Odyssey",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "bitmasks",
-          "greedy",
-          "two pointers"
-        ]
+        "tags": ["bitmasks", "greedy", "two pointers"]
       },
       {
         "contestId": 1847,
@@ -8125,12 +6102,7 @@
         "name": "Vampiric Powers, anyone?",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "bitmasks",
-          "brute force",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["bitmasks", "brute force", "dp", "greedy"]
       },
       {
         "contestId": 1847,
@@ -8183,10 +6155,7 @@
         "name": "Rudolph and Cut the Rope",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "implementation",
-          "math"
-        ]
+        "tags": ["implementation", "math"]
       },
       {
         "contestId": 1846,
@@ -8194,11 +6163,7 @@
         "name": "Rudolph and Tic-Tac-Toe",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "brute force",
-          "implementation",
-          "strings"
-        ]
+        "tags": ["brute force", "implementation", "strings"]
       },
       {
         "contestId": 1846,
@@ -8220,11 +6185,7 @@
         "name": "Rudolph and Christmas Tree",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "constructive algorithms",
-          "geometry",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "geometry", "math"]
       },
       {
         "contestId": 1846,
@@ -8232,11 +6193,7 @@
         "name": "Rudolf and Snowflakes (simple version)",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "brute force",
-          "implementation",
-          "math"
-        ]
+        "tags": ["brute force", "implementation", "math"]
       },
       {
         "contestId": 1846,
@@ -8244,12 +6201,7 @@
         "name": "Rudolf and Snowflakes (hard version)",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "binary search",
-          "brute force",
-          "implementation",
-          "math"
-        ]
+        "tags": ["binary search", "brute force", "implementation", "math"]
       },
       {
         "contestId": 1846,
@@ -8257,11 +6209,7 @@
         "name": "Rudolph and Mimic",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "constructive algorithms",
-          "implementation",
-          "interactive"
-        ]
+        "tags": ["constructive algorithms", "implementation", "interactive"]
       },
       {
         "contestId": 1846,
@@ -8269,13 +6217,7 @@
         "name": "Rudolf and CodeVid-23",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "bitmasks",
-          "dp",
-          "graphs",
-          "greedy",
-          "shortest paths"
-        ]
+        "tags": ["bitmasks", "dp", "graphs", "greedy", "shortest paths"]
       },
       {
         "contestId": 1845,
@@ -8296,11 +6238,7 @@
         "name": "Come Together",
         "type": "PROGRAMMING",
         "points": 900,
-        "tags": [
-          "geometry",
-          "implementation",
-          "math"
-        ]
+        "tags": ["geometry", "implementation", "math"]
       },
       {
         "contestId": 1845,
@@ -8308,12 +6246,7 @@
         "name": "Strong Password",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "binary search",
-          "dp",
-          "greedy",
-          "strings"
-        ]
+        "tags": ["binary search", "dp", "greedy", "strings"]
       },
       {
         "contestId": 1845,
@@ -8338,11 +6271,7 @@
         "name": "Boxes and Balls",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "dp",
-          "implementation",
-          "math"
-        ]
+        "tags": ["dp", "implementation", "math"]
       },
       {
         "contestId": 1845,
@@ -8350,12 +6279,7 @@
         "name": "Swimmers in the Pool",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "dp",
-          "fft",
-          "math",
-          "number theory"
-        ]
+        "tags": ["dp", "fft", "math", "number theory"]
       },
       {
         "contestId": 1844,
@@ -8363,11 +6287,7 @@
         "name": "Subtraction Game",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "constructive algorithms",
-          "games",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "games", "greedy"]
       },
       {
         "contestId": 1844,
@@ -8375,10 +6295,7 @@
         "name": "Permutations & Primes",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1844,
@@ -8386,12 +6303,7 @@
         "name": "Particles",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "dp",
-          "greedy",
-          "implementation",
-          "math"
-        ]
+        "tags": ["dp", "greedy", "implementation", "math"]
       },
       {
         "contestId": 1844,
@@ -8427,12 +6339,7 @@
         "name": "Min Cost Permutation (Easy Version)",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "brute force",
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
+        "tags": ["brute force", "constructive algorithms", "greedy", "math"]
       },
       {
         "contestId": 1844,
@@ -8473,13 +6380,7 @@
         "name": "Multiple of Three Cycles",
         "type": "PROGRAMMING",
         "points": null,
-        "tags": [
-          "combinatorics",
-          "data structures",
-          "dp",
-          "dsu",
-          "math"
-        ]
+        "tags": ["combinatorics", "data structures", "dp", "dsu", "math"]
       },
       {
         "contestId": 1843,
@@ -8487,11 +6388,7 @@
         "name": "Sasha and Array Coloring",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["greedy", "sortings", "two pointers"]
       },
       {
         "contestId": 1843,
@@ -8499,11 +6396,7 @@
         "name": "Long Long",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "math",
-          "two pointers"
-        ]
+        "tags": ["greedy", "math", "two pointers"]
       },
       {
         "contestId": 1843,
@@ -8511,12 +6404,7 @@
         "name": "Sum in Binary Tree",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "bitmasks",
-          "combinatorics",
-          "math",
-          "trees"
-        ]
+        "tags": ["bitmasks", "combinatorics", "math", "trees"]
       },
       {
         "contestId": 1843,
@@ -8524,13 +6412,7 @@
         "name": "Apple Tree",
         "type": "PROGRAMMING",
         "points": 1200,
-        "tags": [
-          "combinatorics",
-          "dfs and similar",
-          "dp",
-          "math",
-          "trees"
-        ]
+        "tags": ["combinatorics", "dfs and similar", "dp", "math", "trees"]
       },
       {
         "contestId": 1843,
@@ -8582,10 +6464,7 @@
         "name": "Tenzing and Tsondu",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "games",
-          "math"
-        ]
+        "tags": ["games", "math"]
       },
       {
         "contestId": 1842,
@@ -8593,11 +6472,7 @@
         "name": "Tenzing and Books",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "bitmasks",
-          "greedy",
-          "math"
-        ]
+        "tags": ["bitmasks", "greedy", "math"]
       },
       {
         "contestId": 1842,
@@ -8605,9 +6480,7 @@
         "name": "Tenzing and Balls",
         "type": "PROGRAMMING",
         "points": 1500,
-        "tags": [
-          "dp"
-        ]
+        "tags": ["dp"]
       },
       {
         "contestId": 1842,
@@ -8615,11 +6488,7 @@
         "name": "Tenzing and His Animal Friends",
         "type": "PROGRAMMING",
         "points": 1900,
-        "tags": [
-          "constructive algorithms",
-          "graphs",
-          "greedy"
-        ]
+        "tags": ["constructive algorithms", "graphs", "greedy"]
       },
       {
         "contestId": 1842,
@@ -8627,13 +6496,7 @@
         "name": "Tenzing and Triangle",
         "type": "PROGRAMMING",
         "points": 2300,
-        "tags": [
-          "data structures",
-          "dp",
-          "geometry",
-          "greedy",
-          "math"
-        ]
+        "tags": ["data structures", "dp", "geometry", "greedy", "math"]
       },
       {
         "contestId": 1842,
@@ -8655,12 +6518,7 @@
         "name": "Tenzing and Random Operations",
         "type": "PROGRAMMING",
         "points": 2800,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math",
-          "probabilities"
-        ]
+        "tags": ["combinatorics", "dp", "math", "probabilities"]
       },
       {
         "contestId": 1842,
@@ -8668,13 +6526,7 @@
         "name": "Tenzing and Random Real Numbers",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "bitmasks",
-          "dp",
-          "graphs",
-          "math",
-          "probabilities"
-        ]
+        "tags": ["bitmasks", "dp", "graphs", "math", "probabilities"]
       },
       {
         "contestId": 1842,
@@ -8682,11 +6534,7 @@
         "name": "Tenzing and Necklace",
         "type": "PROGRAMMING",
         "points": 3500,
-        "tags": [
-          "divide and conquer",
-          "dp",
-          "greedy"
-        ]
+        "tags": ["divide and conquer", "dp", "greedy"]
       },
       {
         "contestId": 1841,
@@ -8694,10 +6542,7 @@
         "name": "Game with Board",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "games"
-        ]
+        "tags": ["constructive algorithms", "games"]
       },
       {
         "contestId": 1841,
@@ -8705,9 +6550,7 @@
         "name": "Keep it Beautiful",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "implementation"
-        ]
+        "tags": ["implementation"]
       },
       {
         "contestId": 1841,
@@ -8715,13 +6558,7 @@
         "name": "Ranom Numbers",
         "type": "PROGRAMMING",
         "points": 1800,
-        "tags": [
-          "brute force",
-          "dp",
-          "greedy",
-          "math",
-          "strings"
-        ]
+        "tags": ["brute force", "dp", "greedy", "math", "strings"]
       },
       {
         "contestId": 1841,
@@ -8729,12 +6566,7 @@
         "name": "Pairs of Segments",
         "type": "PROGRAMMING",
         "points": 2000,
-        "tags": [
-          "data structures",
-          "greedy",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["data structures", "greedy", "sortings", "two pointers"]
       },
       {
         "contestId": 1841,
@@ -8742,11 +6574,7 @@
         "name": "Fill the Matrix",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "data structures",
-          "greedy",
-          "math"
-        ]
+        "tags": ["data structures", "greedy", "math"]
       },
       {
         "contestId": 1841,
@@ -8754,11 +6582,7 @@
         "name": "Monocarp and a Strategic Game",
         "type": "PROGRAMMING",
         "points": 2700,
-        "tags": [
-          "geometry",
-          "sortings",
-          "two pointers"
-        ]
+        "tags": ["geometry", "sortings", "two pointers"]
       },
       {
         "contestId": 1840,
@@ -8766,11 +6590,7 @@
         "name": "Cipher Shifer",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "implementation",
-          "strings",
-          "two pointers"
-        ]
+        "tags": ["implementation", "strings", "two pointers"]
       },
       {
         "contestId": 1840,
@@ -8778,11 +6598,7 @@
         "name": "Binary Cafe",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "bitmasks",
-          "combinatorics",
-          "math"
-        ]
+        "tags": ["bitmasks", "combinatorics", "math"]
       },
       {
         "contestId": 1840,
@@ -8790,11 +6606,7 @@
         "name": "Ski Resort",
         "type": "PROGRAMMING",
         "points": 1000,
-        "tags": [
-          "combinatorics",
-          "math",
-          "two pointers"
-        ]
+        "tags": ["combinatorics", "math", "two pointers"]
       },
       {
         "contestId": 1840,
@@ -8802,11 +6614,7 @@
         "name": "Wooden Toy Festival",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "binary search",
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["binary search", "greedy", "sortings"]
       },
       {
         "contestId": 1840,
@@ -8814,11 +6622,7 @@
         "name": "Character Blocking",
         "type": "PROGRAMMING",
         "points": 1600,
-        "tags": [
-          "data structures",
-          "hashing",
-          "implementation"
-        ]
+        "tags": ["data structures", "hashing", "implementation"]
       },
       {
         "contestId": 1840,
@@ -8826,12 +6630,7 @@
         "name": "Railguns",
         "type": "PROGRAMMING",
         "points": 2200,
-        "tags": [
-          "brute force",
-          "dfs and similar",
-          "dp",
-          "graphs"
-        ]
+        "tags": ["brute force", "dfs and similar", "dp", "graphs"]
       },
       {
         "contestId": 1840,
@@ -8867,11 +6666,7 @@
         "name": "The Good Array",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "greedy",
-          "implementation",
-          "math"
-        ]
+        "tags": ["greedy", "implementation", "math"]
       },
       {
         "contestId": 1839,
@@ -8879,10 +6674,7 @@
         "name": "Lamps",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "greedy",
-          "sortings"
-        ]
+        "tags": ["greedy", "sortings"]
       },
       {
         "contestId": 1839,
@@ -8890,9 +6682,7 @@
         "name": "Insert Zero and Invert Prefix",
         "type": "PROGRAMMING",
         "points": 1300,
-        "tags": [
-          "constructive algorithms"
-        ]
+        "tags": ["constructive algorithms"]
       },
       {
         "contestId": 1839,
@@ -8900,11 +6690,7 @@
         "name": "Ball Sorting",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "data structures",
-          "dp",
-          "sortings"
-        ]
+        "tags": ["data structures", "dp", "sortings"]
       },
       {
         "contestId": 1839,
@@ -8926,10 +6712,7 @@
         "name": "Blackboard List",
         "type": "PROGRAMMING",
         "points": 800,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1838,
@@ -8937,10 +6720,7 @@
         "name": "Minimize Permutation Subarrays",
         "type": "PROGRAMMING",
         "points": 1100,
-        "tags": [
-          "constructive algorithms",
-          "math"
-        ]
+        "tags": ["constructive algorithms", "math"]
       },
       {
         "contestId": 1838,
@@ -8948,11 +6728,7 @@
         "name": "No Prime Differences",
         "type": "PROGRAMMING",
         "points": 1400,
-        "tags": [
-          "constructive algorithms",
-          "math",
-          "number theory"
-        ]
+        "tags": ["constructive algorithms", "math", "number theory"]
       },
       {
         "contestId": 1838,
@@ -8960,11 +6736,7 @@
         "name": "Bracket Walk",
         "type": "PROGRAMMING",
         "points": 2100,
-        "tags": [
-          "data structures",
-          "greedy",
-          "strings"
-        ]
+        "tags": ["data structures", "greedy", "strings"]
       },
       {
         "contestId": 1838,
@@ -8972,11 +6744,7 @@
         "name": "Count Supersequences",
         "type": "PROGRAMMING",
         "points": 2500,
-        "tags": [
-          "combinatorics",
-          "dp",
-          "math"
-        ]
+        "tags": ["combinatorics", "dp", "math"]
       },
       {
         "contestId": 1838,
@@ -8984,11 +6752,7 @@
         "name": "Stuck Conveyor",
         "type": "PROGRAMMING",
         "points": 3000,
-        "tags": [
-          "binary search",
-          "constructive algorithms",
-          "interactive"
-        ]
+        "tags": ["binary search", "constructive algorithms", "interactive"]
       }
     ],
     "problemStatistics": [

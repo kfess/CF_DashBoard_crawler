@@ -75,7 +75,7 @@ def main():
         },
     }
 
-    with open("merged_problems.json", "w") as f:
+    with open("problems.json", "w") as f:
         json.dump(output, f, indent=2)
 
 
