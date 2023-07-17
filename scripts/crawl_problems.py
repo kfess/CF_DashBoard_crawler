@@ -207,7 +207,7 @@ def main():
     args = parser.parse_args()
 
     if args.mode == "all":
-        avail_contest_ids = get_avail_contest_ids()
+        avail_contest_ids = get_avail_contest_ids()[:25]
     elif args.mode == "daily_update":
         avail_contest_ids = get_avail_contest_ids()[
             :20
