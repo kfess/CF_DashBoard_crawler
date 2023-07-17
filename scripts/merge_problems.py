@@ -52,16 +52,16 @@ def main():
     """
     Main function to merge problems and problem statistics.
     """
-    with open("api_problems.json", "r") as f:
+    with open("./data/api_problems.json", "r") as f:
         api_problems = json.load(f)["result"]["problems"]
 
-    with open("crawl_problems.json", "r") as f:
+    with open("./data/crawl_problems.json", "r") as f:
         crawl_problems = json.load(f)["result"]["problems"]
 
-    with open("api_problems.json", "r") as f:
+    with open("./data/api_problems.json", "r") as f:
         api_problem_stats = json.load(f)["result"]["problemStatistics"]
 
-    with open("crawl_problems.json", "r") as f:
+    with open("./data/crawl_problems.json", "r") as f:
         crawl_problem_stats = json.load(f)["result"]["problemStatistics"]
 
     merged_problems = merge_problems(api_problems, crawl_problems)
@@ -75,7 +75,7 @@ def main():
         },
     }
 
-    with open("problems.json", "w") as f:
+    with open("./data/problems.json", "w") as f:
         json.dump(output, f, indent=2)
 
 

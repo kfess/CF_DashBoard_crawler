@@ -27,7 +27,7 @@ def main():
     if problem_data["status"] != "OK":
         raise Exception(f"Unexpected response from {url}")
 
-    with open("api_problems.json", "w") as f:
+    with open("./data/api_problems.json", "w") as f:
         json.dump(problem_data, f, indent=2)
 
 

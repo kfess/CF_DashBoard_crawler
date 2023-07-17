@@ -252,7 +252,7 @@ def main():
         },
     }
 
-    with open("crawl_problems.json", "w") as f:
+    with open("./data/crawl_problems.json", "w") as f:
         json.dump(output, f, indent=2)
 
 
