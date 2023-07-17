@@ -22,7 +22,7 @@ jobs:
           python-version: 3.9
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 tqdm
 
       - name: Crawl data from Codeforces Web site
         run: python crawl_problems.py --mode all
