@@ -1,12 +1,22 @@
 import argparse
 import json
+import logging
 import re
 import time
 from tqdm import tqdm
 import requests
 from bs4 import BeautifulSoup
-
 from merge_problems import merge_problems, merge_problem_stats
+
+
+logger = logging.getLogger(__name__)
+f_handler = logging.FileHandler("./data/error.log")
+f_handler.setLevel(logging.ERROR)
+
+f_format = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+f_handler.setFormatter(f_format)
+
+logger.addHandler(f_handler)
 
 SLEEP = 1  # seconds
 
@@ -31,7 +41,7 @@ def make_request(url: str):
         If the request fails or if the response status code is not 200.
     """
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=300)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         raise Exception(f"Failed to access {url}") from e
@@ -154,54 +164,42 @@ def get_problem_info(problem_url: str, problem_name: str = None):
     dict
         A dictionary containing the problem information.
     """
-    response = make_request(problem_url)
-
     try:
+        response = make_request(problem_url)
         soup = BeautifulSoup(response.text, "html.parser")
-    except Exception as e:
-        raise Exception(f"Failed to parse HTML from {problem_url}") from e
+        contest_id = int(problem_url.split("/")[-3])
+        index = problem_url.split("/")[-1]
 
-    contest_id = int(problem_url.split("/")[-3])
-    index = problem_url.split("/")[-1]
-
-    if not problem_name:
-        try:
+        if not problem_name:
             problem_name = (
                 soup.select_one("div.header > div.title")
                 .text.strip()
                 .split(".")[1]
                 .strip()
             )
-        except AttributeError:
-            problem_name = None
-
-    tags = [tag.text.strip() for tag in soup.select(".tag-box")]
-
-    # Extract points from tags and remove it from tags list
-    points = None
-    for tag in tags:
-        if "*" in tag and tag != "*special problem" and tag != "*special":
-            points = int(re.search(r"\*(\d+)", tag).group(1))
-            tags.remove(tag)
-            break
-
-    # Special problems are tagged as "*special" instead of "*special problem"
-    if "*special problem" in tags:
-        tags[tags.index("*special problem")] = "*special"
-
-    problem_info = {
-        "contestId": contest_id,
-        "index": index,
-        "name": problem_name,
-        "type": "PROGRAMMING",
-        "tags": tags,
-    }
-
-    # Only add points to the dictionary if it's not None
-    if points is not None:
-        problem_info["points"] = points
-
-    return problem_info
+        tags = [tag.text.strip() for tag in soup.select(".tag-box")]
+        points = None
+        for tag in tags:
+            if "*" in tag and tag != "*special problem" and tag != "*special":
+                points = int(re.search(r"\*(\d+)", tag).group(1))
+                tags.remove(tag)
+                break
+        if "*special problem" in tags:
+            tags[tags.index("*special problem")] = "*special"
+        problem_info = {
+            "contestId": contest_id,
+            "index": index,
+            "name": problem_name,
+            "type": "PROGRAMMING",
+            "tags": tags,
+        }
+        if points is not None:
+            problem_info["points"] = points
+        return problem_info
+    except Exception as e:
+        logger.error(
+            f"An error occurred while processing {problem_url}: {e}", exc_info=True
+        )
 
 
 def main():
