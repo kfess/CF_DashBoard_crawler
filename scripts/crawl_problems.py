@@ -178,10 +178,10 @@ def get_problem_info(problem_url: str, problem_name: str = None):
                 .strip()
             )
         tags = [tag.text.strip() for tag in soup.select(".tag-box")]
-        points = None
+        rating = None
         for tag in tags:
             if "*" in tag and tag != "*special problem" and tag != "*special":
-                points = int(re.search(r"\*(\d+)", tag).group(1))
+                rating = int(re.search(r"\*(\d+)", tag).group(1))
                 tags.remove(tag)
                 break
         if "*special problem" in tags:
@@ -193,8 +193,8 @@ def get_problem_info(problem_url: str, problem_name: str = None):
             "type": "PROGRAMMING",
             "tags": tags,
         }
-        if points is not None:
-            problem_info["points"] = points
+        if rating is not None:
+            problem_info["rating"] = rating
         return problem_info
     except Exception as e:
         logger.error(
