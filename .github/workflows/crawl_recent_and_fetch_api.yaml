@@ -1,4 +1,4 @@
-name: Crawl Codeforces Web site and update problems data
+name: Crawl Recent Problems
 
 on:
   push:
