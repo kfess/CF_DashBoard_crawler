@@ -1,6 +1,6 @@
 # CF-DashBoard Crawler
 
-[![GitHub Pages](https://github.com/kfess/CF_DashBoard/actions/workflows/gh-pages.yaml/badge.svg)](https://github.com/kfess/CF_DashBoard/actions/workflows/gh-pages.yaml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Pages](https://github.com/kfess/CF_DashBoard/actions/workflows/gh-pages.yaml/badge.svg)](https://github.com/kfess/CF_DashBoard/actions/workflows/gh-pages.yaml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Crawl Recent Problems](https://github.com/kfess/CF_DashBoard_crawler/actions/workflows/crawl_recent_and_fetch_api.yaml/badge.svg)](https://github.com/kfess/CF_DashBoard_crawler/actions/workflows/crawl_recent_and_fetch_api.yaml) [![Crawl All Problems](https://github.com/kfess/CF_DashBoard_crawler/actions/workflows/crawl_all_problems.yaml/badge.svg)](https://github.com/kfess/CF_DashBoard_crawler/actions/workflows/crawl_all_problems.yaml)
 
 [CF-DashBoard](https://github.com/kfess/CF_DashBoard) is a web application to help Codeforces users to solve problems and manage progress more efficiently. In this repository, codeforces data on contests and problems are crawled and retrieved from API and HTML every day.
 
