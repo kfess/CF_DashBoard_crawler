@@ -9,7 +9,7 @@ from merge_problems import merge_problems, merge_problem_stats
 from common.logging import logger
 
 
-SLEEP = 1  # seconds
+SLEEP = 0.8  # seconds
 
 
 def make_request(url: str):
@@ -35,7 +35,7 @@ def make_request(url: str):
         response = requests.get(url, timeout=300)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
-        raise Exception(f"Failed to access {url}") from e
+        logger.error(f"Failed to access {url}: {e}", exc_info=True)
 
     return response
 
@@ -61,10 +61,10 @@ def get_avail_contest_ids():
         data = response.json()
         contests = data.get("result", [])
     except ValueError as e:
-        raise Exception(f"Failed to decode response from {url}") from e
+        logger.error(f"Failed to decode response from {url}: {e}", exc_info=True)
 
     if not contests or not all("id" in contest for contest in contests):
-        raise Exception(f"Unexpected response from {url}")
+        logger.error(f"Unexpected response from {url}: {response.text}")
 
     # 既に終了したコンテストのみを抽出
     contests = [contest for contest in contests if contest["phase"] == "FINISHED"]
@@ -227,7 +227,10 @@ def main():
                 all_problems_info.append(get_problem_info(url, name))
                 time.sleep(SLEEP)
         except Exception as e:
-            raise Exception(f"Failed to process contest {contest_id}") from e
+            logger.error(
+                f"An error occurred while processing contest {contest_id}: {e}",
+                exc_info=True,
+            )
 
     if args.mode == "daily_update":
         try:
