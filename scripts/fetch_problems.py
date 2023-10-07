@@ -17,7 +17,6 @@ class APIResponseError(Exception):
     """Custom error for unexpected API response."""
 
 
-
 def main():
     """
     Main function to fetch problem set from Codeforces API and save it to a file.
@@ -41,7 +40,7 @@ def main():
     if problem_data["status"] != "OK":
         raise APIResponseError(f"Unexpected response from {API_URL}")
 
-    with open("./data/api_problems.json", "w") as f:
+    with open(OUTPUT_FILE_PATH, "w") as f:
         json.dump(problem_data, f, indent=2)
 
 

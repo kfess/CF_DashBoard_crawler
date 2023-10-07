@@ -216,15 +216,18 @@ def main():
     all_problems_stats_info = []
 
     for contest_id in tqdm(avail_contest_ids):
-        soup = get_contest_page_content(contest_id)
+        try:
+            soup = get_contest_page_content(contest_id)
 
-        problem_stats_info = get_solved_count(soup, contest_id)
-        all_problems_stats_info.extend(problem_stats_info)
+            problem_stats_info = get_solved_count(soup, contest_id)
+            all_problems_stats_info.extend(problem_stats_info)
 
-        problem_links_names = get_problem_links_names(soup, contest_id)
-        for url, name in problem_links_names:
-            all_problems_info.append(get_problem_info(url, name))
-            time.sleep(SLEEP)
+            problem_links_names = get_problem_links_names(soup, contest_id)
+            for url, name in problem_links_names:
+                all_problems_info.append(get_problem_info(url, name))
+                time.sleep(SLEEP)
+        except Exception as e:
+            raise Exception(f"Failed to process contest {contest_id}") from e
 
     if args.mode == "daily_update":
         try:
