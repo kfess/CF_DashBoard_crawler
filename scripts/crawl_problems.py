@@ -1,22 +1,13 @@
 import argparse
 import json
-import logging
 import re
 import time
 from tqdm import tqdm
 import requests
 from bs4 import BeautifulSoup
 from merge_problems import merge_problems, merge_problem_stats
+from common.logging import logger
 
-
-logger = logging.getLogger(__name__)
-f_handler = logging.FileHandler("./data/error.log")
-f_handler.setLevel(logging.ERROR)
-
-f_format = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
-f_handler.setFormatter(f_format)
-
-logger.addHandler(f_handler)
 
 SLEEP = 1  # seconds
 

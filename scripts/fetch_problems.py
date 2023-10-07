@@ -1,5 +1,21 @@
 import requests
 import json
+from typing import Any, Dict
+
+# Constants
+API_URL = "https://codeforces.com/api/problemset.problems"
+OUTPUT_FILE_PATH = "./data/api_problems.json"
+
+# Custom Exceptions
+class FetchError(Exception):
+    """Custom error for fetching data from the API."""
+
+class DecodeError(Exception):
+    """Custom error for decoding the response."""
+
+class APIResponseError(Exception):
+    """Custom error for unexpected API response."""
+
 
 
 def main():
@@ -11,21 +27,19 @@ def main():
     Exception
         If the request fails or if the response status code is not 200.
     """
-    url = "https://codeforces.com/api/problemset.problems"
-
     try:
-        response = requests.get(url)
+        response = requests.get(API_URL)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
-        raise Exception(f"Failed to access {url}") from e
+        raise FetchError(f"Failed to access {API_URL}") from e
 
     try:
         problem_data = response.json()
     except ValueError as e:
-        raise Exception(f"Failed to decode response from {url}") from e
+        raise DecodeError(f"Failed to decode response from {API_URL}") from e
 
     if problem_data["status"] != "OK":
-        raise Exception(f"Unexpected response from {url}")
+        raise APIResponseError(f"Unexpected response from {API_URL}")
 
     with open("./data/api_problems.json", "w") as f:
         json.dump(problem_data, f, indent=2)

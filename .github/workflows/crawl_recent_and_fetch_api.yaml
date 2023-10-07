@@ -24,8 +24,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 tqdm
 
-      - name: Fetch API from Codeforces API
+      - name: Fetch problem API from Codeforces API
         run: python fetch_problems.py
+        timeout-minutes: 3 # 3 minutes
+        working-directory: scripts/
+
+      - name: Fetch contest API from Codeforces API
+        run: python fetch_contests.py
         timeout-minutes: 3 # 3 minutes
         working-directory: scripts/
 
