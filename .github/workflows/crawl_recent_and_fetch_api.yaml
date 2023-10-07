@@ -46,7 +46,6 @@ jobs:
       - name: Commit and push if it changed
         run: |
           git fetch origin
-          git reset --hard origin/main
           git add -A
           git commit -am "Update data.json (By Github Actions)" || exit 0
           git push
