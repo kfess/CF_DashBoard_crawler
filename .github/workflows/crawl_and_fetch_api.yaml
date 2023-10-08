@@ -61,6 +61,7 @@ jobs:
   crawl_all_data:
     name: Crawl All Problems
     runs-on: ubuntu-latest
+    needs: fetch_api_data
 
     steps:
       - name: Checkout repository
