@@ -1,15 +1,17 @@
-name: Crawl Recent Problems
+name: Codeforces Data Crawler
 
 on:
   push:
     branches:
       - main
   # schedule:
-  #   - cron: "* */6 * * *" # Runs ever
+  #   - cron: "* */6 * * *" # Uncomment if needed for the first job
+  #   - cron: "0 0 * * 4"  # Uncomment if needed for the second job
   # workflow_dispatch:
 
 jobs:
-  crawl_data:
+  fetch_api_data:
+    name: Crawl Recent Problems
     runs-on: ubuntu-latest
 
     steps:
@@ -51,6 +53,45 @@ jobs:
       - name: Commit and push if it changed
         run: |
           git fetch origin
+          git pull --rebase origin main
+          git add -A
+          git commit -am "Update data.json (By Github Actions)" || exit 0
+          git push
+
+  crawl_all_data:
+    name: Crawl All Problems
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 tqdm
+
+      - name: Crawl data from Codeforces Web site
+        run: python crawl_problems.py --mode all
+        timeout-minutes: 360 # 6 hours
+        working-directory: scripts/
+
+      - name: Merge of API and crawled data
+        run: python merge_problems.py
+        working-directory: scripts/
+
+      - name: git setting
+        run: |
+          git config --global user.name "Github Actions"
+          git config --global user.email "github-actions[bot]@github.com"
+
+      - name: Commit and push if it changed
+        run: |
+          git fetch origin
+          git pull --rebase origin main
           git add -A
           git commit -am "Update data.json (By Github Actions)" || exit 0
           git push
